@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<title>{{ title }}</title>
+<link rel="stylesheet" href="{{ asset_prefix }}assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <h1 class="site-title">
+      <a href="{{ home_href }}">📰 Daily News</a>
+    </h1>
+    <p class="date-line">{{ display_date }} 更新: {{ updated_at }}</p>
+    <nav class="header-nav">
+      {% if is_archive_page %}
+        <a href="{{ home_href }}">最新</a>
+      {% endif %}
+      <a href="{{ asset_prefix }}archive/">アーカイブ</a>
+    </nav>
+  </div>
+  <nav class="category-tabs">
+    {% for cat in categories %}
+      <a href="#{{ cat.key }}" class="tab">{{ cat.label }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+<main class="content">
+  {% for cat in categories %}
+    <section id="{{ cat.key }}" class="category">
+      <h2 class="category-title">{{ cat.label }}</h2>
+      {% if cat.articles %}
+        <ul class="article-list">
+          {% for article in cat.articles %}
+            <li class="article-card" data-importance="{{ article.importance }}">
+              <h3 class="article-title">
+                <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
+              </h3>
+              {% if article.summary %}
+                <p class="article-summary">{{ article.summary }}</p>
+              {% endif %}
+              <p class="article-meta">
+                <span class="source">{{ article.source }}</span>
+                {% if article.importance >= 4 %}
+                  <span class="badge important">重要</span>
+                {% endif %}
+                <a class="external" href="{{ article.url }}" target="_blank" rel="noopener noreferrer">元記事 →</a>
+              </p>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="empty">このカテゴリの新着記事はありません。</p>
+      {% endif %}
+    </section>
+  {% endfor %}
+</main>
+
+<footer class="site-footer">
+  <p>各記事の著作権は元配信元に帰属します。要約は Claude API による自動生成です。</p>
+  <p>使用モデル: <code>{{ model }}</code></p>
+</footer>
+</body>
+</html>

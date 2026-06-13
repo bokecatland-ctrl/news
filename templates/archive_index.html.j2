@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>アーカイブ - Daily News</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <h1 class="site-title"><a href="../">📰 Daily News</a></h1>
+    <p class="date-line">アーカイブ</p>
+    <nav class="header-nav">
+      <a href="../">最新</a>
+    </nav>
+  </div>
+</header>
+
+<main class="content">
+  <section class="category">
+    <h2 class="category-title">過去のダイジェスト</h2>
+    {% if dates %}
+      <ul class="archive-list">
+        {% for d in dates %}
+          <li><a href="{{ d }}.html">{{ d }}</a></li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p class="empty">アーカイブはまだありません。</p>
+    {% endif %}
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>各記事の著作権は元配信元に帰属します。</p>
+</footer>
+</body>
+</html>
