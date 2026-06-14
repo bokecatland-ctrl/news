@@ -22,7 +22,7 @@ INPUT_FILE = ROOT / "tmp" / "raw_articles.json"
 DATA_DIR = ROOT / "docs" / "data"
 
 MODEL = "gemini-2.5-flash"
-MAX_OUTPUT_TOKENS = 8000
+MAX_OUTPUT_TOKENS = 16000
 MAX_ARTICLES_PER_CATEGORY_INPUT = 40
 MAX_ARTICLES_PER_CATEGORY_OUTPUT = 4
 
@@ -336,10 +336,34 @@ def summarize_category(
             ),
         )
     except Exception as e:
-        print(f"[ERROR] Gemini API failed for {category}: {e}", file=sys.stderr)
+        print(
+            f"[ERROR] Gemini API failed for {category}: {type(e).__name__}: {e}",
+            file=sys.stderr,
+        )
         return _fallback_articles(truncated, max_output)
 
-    text = (response.text or "").strip()
+    # Diagnostic: log finish reason so next run reveals MAX_TOKENS / SAFETY / etc.
+    try:
+        for i, cand in enumerate(getattr(response, "candidates", None) or []):
+            print(
+                f"[diag] {category} candidate[{i}].finish_reason="
+                f"{getattr(cand, 'finish_reason', None)}",
+                file=sys.stderr,
+            )
+    except Exception:
+        pass
+
+    # response.text may raise if the response was blocked or empty
+    try:
+        text = (response.text or "").strip()
+    except Exception as e:
+        print(
+            f"[WARN] response.text failed for {category}: "
+            f"{type(e).__name__}: {e}; falling back",
+            file=sys.stderr,
+        )
+        return _fallback_articles(truncated, max_output)
+
     if not text:
         print(f"[WARN] empty response for {category}; falling back", file=sys.stderr)
         return _fallback_articles(truncated, max_output)
@@ -352,6 +376,7 @@ def summarize_category(
             f"[WARN] JSON parse failed for {category}: {e}; falling back",
             file=sys.stderr,
         )
+        print(f"[diag] {category} raw text head: {text[:300]}", file=sys.stderr)
         return _fallback_articles(truncated, max_output)
 
     out = []
