@@ -24,7 +24,7 @@ DATA_DIR = ROOT / "docs" / "data"
 MODEL = "gemini-2.5-flash"
 MAX_OUTPUT_TOKENS = 8000
 MAX_ARTICLES_PER_CATEGORY_INPUT = 40
-MAX_ARTICLES_PER_CATEGORY_OUTPUT = 12
+MAX_ARTICLES_PER_CATEGORY_OUTPUT = 4
 
 JST = timezone(timedelta(hours=9))
 
@@ -101,7 +101,13 @@ def build_user_prompt(category: str, articles: list[dict], max_output: int) -> s
 焦点: {focus}
 
 以下は直近24時間の {label} 関連記事 ({len(articles)}件) です。
-重要度の高い順に最大 {max_output} 件を選び、要約してください。
+読者が短時間で全体像を把握できるよう、本当に重要な記事だけを **3件 (上限4件)** に厳選してください。
+件数を埋めるための妥協は不要です。重要度の低い記事は迷わず削ってください。
+
+選定基準:
+- 影響範囲が大きい / 速報性が高い / 業界やトレンドの転換点となる出来事を優先
+- 同じトピックを複数のソースが報じている場合は最も信頼できる1件に統合
+- 重要度4以上の記事だけを残すのが理想
 
 {articles_block}
 
