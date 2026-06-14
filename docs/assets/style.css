@@ -111,6 +111,34 @@ a:hover { text-decoration: underline; color: var(--accent-strong); }
   padding: 20px 16px 60px;
 }
 
+.daily-digest {
+  background: linear-gradient(135deg, rgba(11, 95, 255, 0.08), rgba(11, 95, 255, 0.02));
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  padding: 14px 18px 16px;
+  margin-bottom: 28px;
+}
+
+.digest-title {
+  margin: 0 0 8px;
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.digest-points {
+  margin: 0;
+  padding-left: 22px;
+  color: var(--text);
+}
+
+.digest-points li {
+  margin: 6px 0;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
 .category {
   margin-bottom: 36px;
   scroll-margin-top: 140px;

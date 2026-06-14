@@ -69,6 +69,7 @@ def render(env: Environment, data: dict, *, is_archive_page: bool) -> str:
         display_date=jp_date(date_str),
         updated_at=updated_at,
         categories=categories_for_template(data),
+        daily_digest=data.get("daily_digest"),
         model=data.get("model", ""),
         is_archive_page=is_archive_page,
         asset_prefix="../" if is_archive_page else "",
