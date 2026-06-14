@@ -62,7 +62,8 @@
           {% for article in cat.articles %}
             <li class="article-card" data-importance="{{ article.importance }}">
               {% if article.tag %}
-                <span class="badge tag">{{ article.tag }}</span>
+                {% set is_hot = '本日' in article.tag or '明日' in article.tag or '今日' in article.tag or '開幕' in article.tag or '来週' in article.tag %}
+                <span class="badge tag{% if is_hot %} hot{% endif %}">{{ article.tag }}</span>
               {% endif %}
               <h3 class="article-title">
                 <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
