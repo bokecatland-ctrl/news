@@ -252,8 +252,19 @@ def summarize_daily_digest(
     if not any(categories.values()):
         return None
 
+    digest = _try_ai_digest(client, categories)
+    if digest:
+        return digest
+
+    print("[summarize] AI digest unavailable; using heuristic fallback", file=sys.stderr)
+    return _heuristic_digest(categories)
+
+
+def _try_ai_digest(
+    client: genai.Client, categories: dict[str, list[dict]]
+) -> dict | None:
     prompt = build_daily_digest_prompt(categories)
-    print("[summarize] generating daily digest", file=sys.stderr)
+    print("[summarize] generating daily digest via Gemini", file=sys.stderr)
 
     try:
         response = client.models.generate_content(
@@ -261,34 +272,99 @@ def summarize_daily_digest(
             contents=prompt,
             config=types.GenerateContentConfig(
                 system_instruction=DAILY_DIGEST_SYSTEM,
-                max_output_tokens=1500,
+                # Gemini 2.5 Flash の thinking tokens は出力枠に含まれるため広めに確保
+                max_output_tokens=4000,
                 response_mime_type="application/json",
                 response_schema=DAILY_DIGEST_SCHEMA,
                 temperature=0.4,
             ),
         )
     except Exception as e:
-        print(f"[WARN] daily digest generation failed: {e}", file=sys.stderr)
+        print(
+            f"[WARN] daily digest API call failed: {type(e).__name__}: {e}",
+            file=sys.stderr,
+        )
         return None
 
-    text = (response.text or "").strip()
+    # Diagnostic: log finish reason so the next run reveals MAX_TOKENS / SAFETY
+    try:
+        for i, cand in enumerate(getattr(response, "candidates", None) or []):
+            print(
+                f"[diag] digest candidate[{i}].finish_reason="
+                f"{getattr(cand, 'finish_reason', None)}",
+                file=sys.stderr,
+            )
+    except Exception:
+        pass
+
+    try:
+        text = (response.text or "").strip()
+    except Exception as e:
+        print(
+            f"[WARN] daily digest response.text failed: {type(e).__name__}: {e}",
+            file=sys.stderr,
+        )
+        return None
+
     if not text:
+        print("[WARN] daily digest returned empty text", file=sys.stderr)
         return None
 
     try:
         data = json.loads(text)
     except json.JSONDecodeError as e:
         print(f"[WARN] daily digest JSON parse failed: {e}", file=sys.stderr)
+        print(f"[diag] raw text head: {text[:300]}", file=sys.stderr)
         return None
 
-    points = [str(p) for p in data.get("points", []) if str(p).strip()]
+    points = [str(p).strip() for p in data.get("points", []) if str(p).strip()]
     if not points:
         return None
 
     return {
-        "headline": str(data.get("headline", "")).strip() or "今日のポイント",
+        "headline": str(data.get("headline", "")).strip() or "今日のピックアップ",
         "points": points[:3],
     }
+
+
+def _heuristic_digest(categories: dict[str, list[dict]]) -> dict | None:
+    """Fallback when AI digest fails — pick top-importance articles, prefer category diversity."""
+    pool: list[tuple[str, dict]] = []
+    for cat_key, articles in categories.items():
+        for a in articles:
+            pool.append((cat_key, a))
+
+    if not pool:
+        return None
+
+    pool.sort(key=lambda x: x[1].get("importance", 0), reverse=True)
+
+    picks: list[str] = []
+    seen_cats: set[str] = set()
+    # First pass: one per distinct category, ordered by importance
+    for cat_key, a in pool:
+        if len(picks) >= 3:
+            break
+        if cat_key in seen_cats:
+            continue
+        seen_cats.add(cat_key)
+        label = CATEGORY_LABEL.get(cat_key, cat_key)
+        picks.append(f"【{label}】{a.get('title', '').strip()}")
+
+    # Second pass: fill up to 3 from the remaining pool if still short
+    if len(picks) < 3:
+        for cat_key, a in pool:
+            if len(picks) >= 3:
+                break
+            label = CATEGORY_LABEL.get(cat_key, cat_key)
+            line = f"【{label}】{a.get('title', '').strip()}"
+            if line not in picks:
+                picks.append(line)
+
+    if not picks:
+        return None
+
+    return {"headline": "今日のピックアップ", "points": picks}
 
 
 def main() -> None:
