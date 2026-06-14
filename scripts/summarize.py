@@ -202,6 +202,95 @@ def _fallback_articles(articles: list[dict]) -> list[dict]:
     return fallback
 
 
+DAILY_DIGEST_SYSTEM = """あなたは日本語ニュースダイジェストの編集者です。
+今日の主要ニュース (4カテゴリ横断) から、読者が30秒で全体像をつかめる「今日のポイント」を最大3点に絞って書いてください。
+
+ルール:
+- 各ポイントは1〜2文の日本語、合計3点 (内容が薄い日は2点でもよい)
+- カテゴリ偏りなく重要なものを選ぶ
+- 個々の見出しを羅列するのではなく、要点を抽出する
+- 客観的・簡潔に
+- 出力は指定JSON形式のみ
+"""
+
+DAILY_DIGEST_SCHEMA = {
+    "type": "OBJECT",
+    "properties": {
+        "headline": {"type": "STRING"},
+        "points": {
+            "type": "ARRAY",
+            "items": {"type": "STRING"},
+        },
+    },
+    "required": ["headline", "points"],
+}
+
+
+def build_daily_digest_prompt(categories: dict[str, list[dict]]) -> str:
+    blocks = []
+    for cat_key, label in CATEGORY_LABEL.items():
+        articles = categories.get(cat_key, [])
+        if not articles:
+            continue
+        lines = [f"## {label}"]
+        for a in articles[:5]:
+            summary = (a.get("summary") or "")[:200]
+            lines.append(f"- 【重要度{a.get('importance', 3)}】{a['title']}: {summary}")
+        blocks.append("\n".join(lines))
+
+    return (
+        "以下は本日選定された主要ニュースです:\n\n"
+        + "\n\n".join(blocks)
+        + "\n\nこれらを横断的に見て、本当に重要な動きを最大3点選び、要点を書いてください。\n"
+        + "headline は全体を象徴する15字程度の見出し。"
+    )
+
+
+def summarize_daily_digest(
+    client: genai.Client, categories: dict[str, list[dict]]
+) -> dict | None:
+    if not any(categories.values()):
+        return None
+
+    prompt = build_daily_digest_prompt(categories)
+    print("[summarize] generating daily digest", file=sys.stderr)
+
+    try:
+        response = client.models.generate_content(
+            model=MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=DAILY_DIGEST_SYSTEM,
+                max_output_tokens=1500,
+                response_mime_type="application/json",
+                response_schema=DAILY_DIGEST_SCHEMA,
+                temperature=0.4,
+            ),
+        )
+    except Exception as e:
+        print(f"[WARN] daily digest generation failed: {e}", file=sys.stderr)
+        return None
+
+    text = (response.text or "").strip()
+    if not text:
+        return None
+
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"[WARN] daily digest JSON parse failed: {e}", file=sys.stderr)
+        return None
+
+    points = [str(p) for p in data.get("points", []) if str(p).strip()]
+    if not points:
+        return None
+
+    return {
+        "headline": str(data.get("headline", "")).strip() or "今日のポイント",
+        "points": points[:3],
+    }
+
+
 def main() -> None:
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
@@ -216,12 +305,15 @@ def main() -> None:
     for category, articles in categories.items():
         summarized[category] = summarize_category(client, category, articles)
 
+    daily_digest = summarize_daily_digest(client, summarized)
+
     now_jst = datetime.now(JST)
     date_str = now_jst.strftime("%Y-%m-%d")
     output = {
         "date": date_str,
         "generated_at": now_jst.isoformat(),
         "model": MODEL,
+        "daily_digest": daily_digest,
         "categories": summarized,
     }
 

@@ -7,6 +7,19 @@
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <title>{{ title }}</title>
 <link rel="stylesheet" href="{{ asset_prefix }}assets/style.css">
+<link rel="manifest" href="{{ asset_prefix }}manifest.json">
+<link rel="icon" href="{{ asset_prefix }}icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ asset_prefix }}icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Daily News">
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('{{ asset_prefix }}service-worker.js').catch(() => {});
+    });
+  }
+</script>
 </head>
 <body>
 <header class="site-header">
@@ -30,6 +43,17 @@
 </header>
 
 <main class="content">
+  {% if daily_digest %}
+    <section class="daily-digest">
+      <h2 class="digest-title">📌 今日のポイント — {{ daily_digest.headline }}</h2>
+      <ol class="digest-points">
+        {% for point in daily_digest.points %}
+          <li>{{ point }}</li>
+        {% endfor %}
+      </ol>
+    </section>
+  {% endif %}
+
   {% for cat in categories %}
     <section id="{{ cat.key }}" class="category">
       <h2 class="category-title">{{ cat.label }}</h2>

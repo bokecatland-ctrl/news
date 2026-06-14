@@ -1,0 +1,20 @@
+{
+  "name": "Daily News Digest",
+  "short_name": "Daily News",
+  "description": "国内・国際・ホテル・テック/AIの主要ニュースを毎朝7時に自動更新するダイジェスト",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#0b5fff",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
