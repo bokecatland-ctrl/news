@@ -31,9 +31,9 @@ jobs:
       - name: Fetch RSS feeds
         run: python scripts/fetch_news.py
 
-      - name: Summarize with Claude
+      - name: Summarize with Gemini
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/summarize.py
 
       - name: Build static site
