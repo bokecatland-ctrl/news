@@ -45,15 +45,69 @@ news/
 └── requirements.txt
 ```
 
-## 初回セットアップ
+## 初回セットアップ手順
 
-リポジトリ作成直後に GitHub 側で2点設定する必要があります:
+### ステップ 1: Anthropic API キーを発行
 
-1. **Settings → Secrets and variables → Actions** で `ANTHROPIC_API_KEY` を登録
-2. **Settings → Pages** で公開ソースを `main` ブランチの `/docs` フォルダに設定
-3. **Actions タブから "Daily News Update" を手動実行** (`workflow_dispatch`) して初回データを生成
+1. `https://console.anthropic.com/` にログイン (アカウントがなければ作成)
+2. **Settings → Billing** でクレジットカードを登録、$5〜$10 をチャージ
+   - 本サイトは Claude Haiku 4.5 利用で 1 日あたり数円〜数十円程度
+3. **Settings → API Keys → "Create Key"** をクリック
+4. Name: `news-digest-github-actions` (任意)
+5. 表示された `sk-ant-api03-...` で始まる文字列を**その場でコピー**
+   - ⚠️ この画面を閉じると二度と表示されません
 
-数分後に `https://bokecatland-ctrl.github.io/news/` でサイトが見られるようになります。
+### ステップ 2: GitHub Secrets に登録
+
+GitHub Actions の cron ジョブがこのキーを使って Claude API を呼びます。コードに書くと漏洩するので必ず Secrets に登録します。
+
+1. `https://github.com/bokecatland-ctrl/news/settings/secrets/actions` を開く
+2. 右上の緑ボタン **"New repository secret"** をクリック
+3. 入力:
+   - **Name**: `ANTHROPIC_API_KEY` (完全一致、大文字)
+   - **Secret**: ステップ 1 でコピーしたキー
+4. **"Add secret"** をクリック
+
+登録後、Secrets 一覧に `ANTHROPIC_API_KEY` が出ていれば OK (値そのものは GitHub 上でも見えなくなります。これが正しい挙動です)。
+
+### ステップ 3: GitHub Pages を有効化
+
+1. `https://github.com/bokecatland-ctrl/news/settings/pages` を開く
+2. **Source**: `Deploy from a branch`
+3. **Branch**: `main` / フォルダ: `/docs`
+4. **"Save"** をクリック
+
+### ステップ 4: 初回ビルドを手動実行
+
+cron 待ちせずに今すぐ動かして動作確認します。
+
+1. `https://github.com/bokecatland-ctrl/news/actions` を開く
+2. 左サイドから **"Daily News Update"** を選択
+3. 右の **"Run workflow"** → Branch `main` → **"Run workflow"**
+4. 2〜4 分待つと緑のチェックマークで完了
+
+### ステップ 5: 公開 URL を開く
+
+`https://bokecatland-ctrl.github.io/news/`
+
+PC でもスマホでも閲覧できます。スマホでは Safari → 共有 → 「ホーム画面に追加」でアプリのように使えます。
+
+### トラブルシューティング
+
+| 症状 | 原因 | 対処 |
+|------|------|------|
+| `ANTHROPIC_API_KEY is not set` | Secret 未登録 / 名前が違う | ステップ 2 を再確認 |
+| `401 Unauthorized` | キーが無効 | Console で新キー発行 → Secret 更新 |
+| `429 / 403` | クレジット切れ・レート制限 | Billing でチャージ |
+| Pages が 404 | `main` にマージされていない / Pages 設定の Branch がズレている | ステップ 3 を確認 |
+
+### キーの定期ローテーション (推奨)
+
+3〜6 ヶ月ごとに:
+
+1. Console で新規キー発行
+2. GitHub Secrets を "Update" で上書き
+3. Console で旧キーを Revoke
 
 ## ソースの追加・削除
 
