@@ -61,6 +61,9 @@
         <ul class="article-list">
           {% for article in cat.articles %}
             <li class="article-card" data-importance="{{ article.importance }}">
+              {% if article.tag %}
+                <span class="badge tag">{{ article.tag }}</span>
+              {% endif %}
               <h3 class="article-title">
                 <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
               </h3>

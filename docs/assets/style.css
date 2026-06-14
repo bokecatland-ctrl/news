@@ -218,6 +218,22 @@ a:hover { text-decoration: underline; color: var(--accent-strong); }
   color: #fff;
 }
 
+.badge.tag {
+  background: rgba(11, 95, 255, 0.12);
+  color: var(--accent);
+  border: 1px solid rgba(11, 95, 255, 0.25);
+  letter-spacing: 0.03em;
+  margin-bottom: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .badge.tag {
+    background: rgba(91, 155, 255, 0.16);
+    color: var(--accent);
+    border-color: rgba(91, 155, 255, 0.3);
+  }
+}
+
 .empty {
   color: var(--text-muted);
   padding: 8px 0;
