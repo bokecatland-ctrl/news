@@ -1,0 +1,126 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T07:59:56.163004+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "国際情勢緊迫化、AI倫理と国内課題の節目",
+    "points": [
+      "米国とイランが21日に協議を行う一方、イランはホルムズ海峡封鎖を発表し、中東情勢の緊張とエネルギー安全保障への懸念が高まっています。",
+      "英国が欠陥の指摘される顔認証技術を亡命希望者の年齢確認に導入する方針で、AI技術の社会実装における倫理的課題とリスク管理が改めて問われています。",
+      "財政破綻から20年を迎えた夕張市が給与カットを終了するなど、国内では長年の社会・行政課題解決に向けた動きが進展しています。"
+    ],
+    "alert": {
+      "icon": "🚨",
+      "text": "イラン、ホルムズ海峡封鎖を発表 米イラン協議に影響"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "天皇皇后両陛下、ベルギー到着　皇太子のエリザベート王女が出迎え",
+        "tag": "皇室外交",
+        "summary": "天皇皇后両陛下はオランダでの日程を終え、次の訪問国であるベルギーに到着されました。ブリュッセルの空港では、20年ぶりの再会となる皇太子のエリザベート王女が両陛下を出迎えました。今回の訪問は、両国間の長年の友好関係をさらに深める機会として注目されます。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV6D1HQSV6DUTIL02WM.html?ref=rss",
+        "importance": 4,
+        "published": "2026-06-20T22:44:36+00:00"
+      },
+      {
+        "title": "カネミ油症、認定患者の和解金 年1万円引き上げで合意",
+        "tag": "制度改正",
+        "summary": "昭和40年代に発生した国内最大規模の食品公害「カネミ油症」について、原因企業カネミ倉庫から認定患者に毎年支払われている和解金が、今年から年間1万円引き上げられることで合意しました。この合意は、長年にわたる被害者支援の進展と、企業責任の継続的な履行を示すものとして注目されます。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015155381000",
+        "importance": 4,
+        "published": "2026-06-20T08:54:53+00:00"
+      },
+      {
+        "title": "夕張市、財政破綻表明から20年　給料カット終了、国との手続き簡素化へ",
+        "tag": "地方財政",
+        "summary": "2006年に財政破綻を表明した北海道夕張市が、その後の財政再建計画において、職員給与カットを終了し、国との財政再建手続きも簡素化される見通しとなりました。破綻から20年という節目を迎え、地方自治体の財政健全化における長期的な課題と、その成果を示す事例として全国的に注目されています。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV6N3VZJV6NIIPE01YM.html?ref=rss",
+        "importance": 4,
+        "published": "2026-06-20T12:51:41+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米とイラン、21日にスイスで協議へ　イランはホルムズ海峡封鎖を発表",
+        "tag": "米イラン協議",
+        "summary": "パキスタンは、アメリカとイランが21日にスイスで協議を行うと発表しました。アメリカ側はバンス副大統領、イラン側はガリバフ議長が代表団を率いる見通しです。一方で、イランはイスラエルによるレバノン攻撃を理由に、戦略的に重要なホルムズ海峡の封鎖を発表しており、協議の行方と海峡の通航状況が世界のエネルギー安全保障に大きな影響を与えることになります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015155531000",
+        "importance": 5,
+        "published": "2026-06-20T22:05:25+00:00"
+      },
+      {
+        "title": "トランプ氏、イランのホルムズ海峡通行料徴収を否定「米国は徴収する可能性」",
+        "tag": "ホルムズ海峡",
+        "summary": "トランプ氏は、イランがホルムズ海峡で通行料を徴収することはないと明言しつつ、米国が将来的に徴収する可能性を示唆しました。これは、米イラン間の覚書が最初の60日間の通行料を排除していないことに言及したもので、中東の地政学的緊張とエネルギー安全保障を巡る今後の交渉において、通行料が新たな論点となる可能性を示しています。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-06-20T21:54:39+00:00"
+      },
+      {
+        "title": "コロンビア大統領選、21日決選投票　トランプ氏支持の右派と左派が激突",
+        "tag": "コロンビア選挙",
+        "summary": "南米コロンビアで21日、大統領選挙の決選投票が行われます。アメリカのトランプ大統領が支持する右派候補と、トランプ氏と対立してきた現職の後継となる左派候補が争っており、南米の政治情勢に大きな影響を与える可能性があります。この選挙結果は、地域の国際関係や経済政策の方向性を左右する重要な転換点となるでしょう。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015155551000",
+        "importance": 4,
+        "published": "2026-06-20T20:18:57+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "日本人の航空券予約数、前年比250%増 国際スポーツイベント観戦旅行で最高成長率 計画の早さでも世界トップ",
+        "tag": "国際スポーツ観戦",
+        "summary": "Trip.comのデータによると、今夏北米で開催される国際スポーツイベント期間中の日本人旅行者による航空券予約数が前年比250%増を記録し、計画の早さでも世界トップとなった。これは国際的なスポーツイベントが日本の海外旅行需要を大きく牽引していることを示しており、今後の旅行業界の需要予測において重要な指標となる。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2606210730kks/",
+        "importance": 4,
+        "published": "2026-06-20T22:30:48+00:00"
+      },
+      {
+        "title": "World Cup Week 1: Boosting Hotel Revenue, But Occupancy Lags",
+        "tag": "W杯×ホテル",
+        "summary": "サッカーワールドカップ北米大会の初週において、開催都市のホテルはRevPAR（販売可能客室数あたりの収益）が増加したものの、稼働率は予想を下回った。これは大型国際イベントが必ずしもホテルの稼働率を最大化するわけではないという示唆を与え、今後のイベント開催における宿泊戦略を見直すきっかけとなるだろう。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/06/20/world-cup-hotel-revenue-occupancy/",
+        "importance": 4,
+        "published": "2026-06-20T20:27:31+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+        "tag": "AI×倫理",
+        "summary": "英国政府は、亡命希望者の年齢確認に顔認証技術を導入する方針だが、この技術には欠陥があることがテストで示されている。生命に影響を及ぼす可能性のある誤りのリスクが指摘されており、AI技術の社会実装における倫理的課題と規制のあり方が改めて問われる。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+        "importance": 5,
+        "published": "2026-06-20T11:15:09+00:00"
+      },
+      {
+        "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+        "tag": "Appleエコシステム",
+        "summary": "Apple Vision Pro向けにX11環境を構築する「UHF X11」が登場した。これにより、VisionOS上で従来のLinux/Unixアプリケーションの利用が可能となり、Appleの空間コンピューティングプラットフォームのエコシステム拡張に貢献する。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.lispm.net/apps/uhf-x11/",
+        "importance": 4,
+        "published": "2026-06-20T17:04:24+00:00"
+      },
+      {
+        "title": "Nothing cancels this year’s CMF phone due to RAM prices",
+        "tag": "半導体市場",
+        "summary": "テック企業Nothingは、CMFブランドの次期スマートフォンをRAM価格の高騰を理由にキャンセルした。これは、半導体市場の価格変動が製品開発やサプライチェーンに直接的な影響を与えている現状を示しており、今後の電子機器市場の動向に注目が集まる。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+        "importance": 4,
+        "published": "2026-06-19T21:28:39+00:00"
+      }
+    ]
+  }
+}
