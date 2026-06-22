@@ -1,0 +1,150 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T08:13:34.168913+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【ホテル】日観振が訪日6000万人へ決起集会、菅元首相や二階元自民党幹事長が激励",
+      "【国内】高市首相動静 2026年6月22日",
+      "【国際】US eases oil sanctions as Iran denies Vance claim on nuclear inspectors"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "高市首相動静 2026年6月22日",
+        "tag": null,
+        "summary": "（高市首相動静2026年6月22日）",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015156811000",
+        "importance": 3,
+        "published": "2026-06-22T23:06:31+00:00"
+      },
+      {
+        "title": "沖縄戦から81年の慰霊の日 平和への願いを新たにする1日に",
+        "tag": null,
+        "summary": "6月23日は、20万人を超える人が亡くなった沖縄戦から81年の「慰霊の日」です。戦没者を追悼し、平和への願いを新たにする1日となります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015156581000",
+        "importance": 3,
+        "published": "2026-06-22T22:46:03+00:00"
+      },
+      {
+        "title": "米 イラン 覚書めぐる協議 実務レベルでの協議の行方が焦点に",
+        "tag": null,
+        "summary": "アメリカとイランの戦闘終結に向けた覚書に基づく高官協議が行われ、ホルムズ海峡の安全な航行の確保に向けた連絡体制の構築などで合意しました。一方、アメリカ側はイランがIAEA＝国際原子力機関の査察官の受け…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015156631000",
+        "importance": 3,
+        "published": "2026-06-22T22:18:19+00:00"
+      },
+      {
+        "title": "ATM前の電話は超音波で妨害、AIも活用 還付金詐欺8割減の大阪",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV6N2189V6NPTIL009M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-06-22T22:00:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+        "tag": null,
+        "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+        "source": "BBC World",
+        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-06-22T23:07:45+00:00"
+      },
+      {
+        "title": "Belgium’s Doku welcomes son during World Cup amid commentator controversy",
+        "tag": null,
+        "summary": "Doku travelled to the UK as a French presenter who said fathers &#039;useless&#039; at childbirth was stood down from her show.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/22/belgiums-doku-welcomes-son-during-world-cup-amid-commentator-controversy?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-06-22T22:32:48+00:00"
+      },
+      {
+        "title": "米 イラン 覚書めぐる協議 実務レベルでの協議の行方が焦点に",
+        "tag": null,
+        "summary": "アメリカとイランの戦闘終結に向けた覚書に基づく高官協議が行われ、ホルムズ海峡の安全な航行の確保に向けた連絡体制の構築などで合意しました。一方、アメリカ側はイランがIAEA＝国際原子力機関の査察官の受け…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015156631000",
+        "importance": 3,
+        "published": "2026-06-22T22:18:19+00:00"
+      },
+      {
+        "title": "Egypt denied flight to Seattle ahead of final World Cup group match",
+        "tag": null,
+        "summary": "Egypt&#039;s team will return to their training base in Spokane, about 450km east of Seattle, after rejected flight.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-06-22T22:11:08+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "日観振が訪日6000万人へ決起集会、菅元首相や二階元自民党幹事長が激励",
+        "tag": "訪日観光政策",
+        "summary": "日本観光振興協会は6月9日、東京都港区の東京プリンスホテルで「訪日外客4千万人達成祝賀＆6千万人達成に向けた関係者結集会」を開催し、菅元首相や二階元自民党幹事長らが激励した。全国の観光関係者が集結し、政府が掲げる2030年訪日客数6,000万人、消費額15兆円の目標達成に向けた決意を新たにした。今後は、量的目標だけでなく、持続可能な観光と地域への経済波及効果の最大化が焦点となる。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2606230630kks/",
+        "importance": 4,
+        "published": "2026-06-22T21:30:24+00:00"
+      },
+      {
+        "title": "ウェルネスツーリズム市場規模、2029年には223兆円に、日本の茶道や温泉の検索も増加",
+        "tag": "観光トレンド",
+        "summary": "米旅行調査会社フォーカスライトは、グローバル・ウェルネス・インスティテュート（GWI）のデータに基づき、世界のウェルネスツーリズム市場が2029年には223兆円規模に拡大するとのレポートを発表した。特に日本の茶道や温泉への検索が増加しており、精神的・身体的健康を重視する旅行者の需要が世界的に高まっていることを示している。このトレンドは、日本の観光産業にとって高付加価値なインバウンド誘致の大きな機会となるだろう。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20260622-159817",
+        "importance": 4,
+        "published": "2026-06-22T08:51:38+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "OpenAI、Getty Imagesと複数年契約 ChatGPTの検索結果にライセンス画像を直接表示",
+        "tag": null,
+        "summary": "Getty Imagesは、OpenAIと複数年契約の表示提携を締結した。同社が保有するライセンス済み画像ライブラリが、ChatGPT内の検索や発見機能で表示されるようになり、視覚的な情報提供が強化される。過去にAI企業を提訴してきた同社だが、近年は提携を拡大している。今回の発表では学習利用についての言及はない。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
+        "importance": 3,
+        "published": "2026-06-22T22:46:00+00:00"
+      },
+      {
+        "title": "AIに詳しくなくても大丈夫、月額制で中小企業のAI活用をプロが支える新サービス",
+        "tag": null,
+        "summary": "ソルバは、AIアークスと提携し、地域企業向けのAI顧問サービスを開始した。AI・DXの専門人材による伴走支援を月額制で提供し、企業ごとの課題に応じたAI活用を後押しする。生産性向上や原価改善、人手不足対策を通じて、地域企業の競争力強化を目指す。",
+        "source": "ITmedia AI+",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news042.html",
+        "importance": 3,
+        "published": "2026-06-22T22:00:00+00:00"
+      },
+      {
+        "title": "経営者は「何を捨てるか考えて」――中東紛争“サイバー戦”のリアルが突き付ける、無視できない脅威",
+        "tag": null,
+        "summary": "サイバー戦やAIの悪用など、サイバー空間は“危険と隣り合わせの場所”になった。企業の経営者は、この課題にどう向き合えばよいのだろうか。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/business/articles/2606/23/news011.html",
+        "importance": 3,
+        "published": "2026-06-22T22:00:00+00:00"
+      },
+      {
+        "title": "Excelの10万行データを3分でAIに処理させる、M365 Copilotの使い方",
+        "tag": null,
+        "summary": "上司から突然「このデータを見ておいて」と任され、Excelを前に手が止まった経験がある人も多いはずだ。大量データの集計は負担が大きく、分析業務は特定の担当者に偏ってしまう。Copilotのチャットや関数機能は、その前提を変えつつある。",
+        "source": "ITmedia AI+",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news043.html",
+        "importance": 3,
+        "published": "2026-06-22T22:00:00+00:00"
+      }
+    ]
+  }
+}
