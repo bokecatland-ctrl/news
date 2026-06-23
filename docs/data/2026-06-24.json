@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T08:01:08.215467+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】迫る39年ぶり円安162円台　財務相「断固たる措置、日米で合意」",
+      "【国際】ホルムズ海峡、米イラン合意後船舶通航が急増「土曜だけで42隻」",
+      "【ホテル】LGBTQ+旅行者の自己開示は3割、宿泊・予約行動に表れる安全ニーズー2026年Booking.com調査"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "迫る39年ぶり円安162円台　財務相「断固たる措置、日米で合意」",
+        "tag": "円安介入警戒",
+        "summary": "円相場が1ドル162円台に迫り、39年ぶりの円安水準を更新する中、財務大臣は「断固たる措置」を辞さない構えを改めて示し、日米間で為替問題について合意があることを強調した。これは、政府・日銀による市場介入への警戒感が一段と高まっていることを意味し、今後の為替動向と当局の対応が焦点となる。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV6R3GN4V6RULFA00TM.html?ref=rss",
+        "importance": 5,
+        "published": "2026-06-23T11:15:00+00:00"
+      },
+      {
+        "title": "政府、南米メルコスールとEPA交渉この夏開始へ　国内農業への影響が焦点",
+        "tag": "貿易政策",
+        "summary": "政府は、南米の関税同盟「メルコスール」との間で、この夏にも経済連携協定（EPA）の交渉を開始する方針を固めた。牛肉などの安価な南米産農産物の輸入拡大により、国内農業への深刻な影響が懸念されており、交渉は厳しいものになると見込まれる。今後の交渉過程で、国内農業保護と貿易自由化のバランスがどのように図られるかが注目される。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015157551000",
+        "importance": 4,
+        "published": "2026-06-23T21:15:28+00:00"
+      },
+      {
+        "title": "政府、フィジカルAIロボットの公道実証実験を推進へ　規制改革推進会議が答申案",
+        "tag": "AI規制緩和",
+        "summary": "政府の規制改革推進会議は、歩行型ロボットなど「フィジカルAI」の法律上の扱いを明確にし、公道での実証実験を推進することを答申案に盛り込む方向で調整している。これは、AIを活用したロボット技術の社会実装を加速させ、新たな産業創出や社会課題解決を目指すものであり、今後のロボット産業の発展に大きく寄与すると期待される。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015157691000",
+        "importance": 4,
+        "published": "2026-06-23T21:04:04+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "ホルムズ海峡、米イラン合意後船舶通航が急増「土曜だけで42隻」",
+        "tag": "ホルムズ海峡",
+        "summary": "米国とイランの合意後、戦略的に重要なホルムズ海峡における船舶の通航が急増し、土曜日だけで42隻が通過したことが報じられた。これは、世界のエネルギー供給路の安定化に向けた重要な進展であり、今後の合意履行状況が世界の経済とエネルギー安全保障の焦点となる。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-06-23T14:55:31+00:00"
+      },
+      {
+        "title": "国連「イスラエルはガザの子供を標的にジェノサイドを犯した」と指摘",
+        "tag": "国連、中東情勢",
+        "summary": "国連は、イスラエルがガザ地区のパレスチナ人の子供たちを意図的に標的にし、ジェノサイドを犯したと指摘する報告を発表した。この認定は、国際社会におけるイスラエルへの圧力をさらに強め、今後の国際司法の動向や停戦交渉に大きな影響を与える可能性がある。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-06-23T21:38:23+00:00"
+      },
+      {
+        "title": "トランプ大統領“査察は100％行われる” イランの主張を否定",
+        "tag": "米イラン、核査察",
+        "summary": "アメリカとイランの協議について、トランプ大統領はIAEA（国際原子力機関）によるイランへの核査察が「100％行われる」と述べ、査察の計画はないとするイランの主張を否定した。これは、核合意の履行を巡る米イラン間の溝が依然として深く、今後の交渉の難航が予想されることを示唆している。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015157611000",
+        "importance": 5,
+        "published": "2026-06-23T21:23:43+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "LGBTQ+旅行者の自己開示は3割、宿泊・予約行動に表れる安全ニーズー2026年Booking.com調査",
+        "tag": null,
+        "summary": "旅行中に自身の性的指向や性自認を開示せず行動するLGBTQ+旅行者が少なくない実態が明らかになった。Booking.comが公表した「Travel Proud Research 2026」（調査期間：2026年2月〜3月…",
+        "source": "やまとごころ (インバウンド)",
+        "url": "https://yamatogokoro.jp/inbound_data/60409/",
+        "importance": 3,
+        "published": "2026-06-23T23:00:03+00:00"
+      },
+      {
+        "title": "観光地経営の高度化に向けた人材育成事業で5件採択、6月30日まで二次公募 観光庁",
+        "tag": null,
+        "summary": "観光庁はこのほど、令和7年度補正予算による「地域における受入環境整備促進事業補助金（観光地経営の高度化事業）」について、一次公募で5件を採択したと発表した。同事業は2023年度に策定した「ポストコロナ時代における観光人 [&#8230;] The post 観光地経営の高度化に向けた人材育成事業で5件採択、6月30日まで二次公募 観光庁 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2606240730kks/",
+        "importance": 3,
+        "published": "2026-06-23T22:30:55+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "再生師、テクスチャー翻訳家……オカムラがAIで導く2045年“未来の職業”",
+        "tag": null,
+        "summary": "オカムラは、自社の保有特許とAIを掛け合わせて導き出した「まだ存在しない未来の職業展 2045」を開催。手の動きで環境音を奏でる「ジェスチャーオーケストラ」や、対話から人生を再仕立てする「エンディングエディター」といった体験型展示を披露した。",
+        "source": "ITmedia AI+",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/24/news041.html",
+        "importance": 3,
+        "published": "2026-06-23T22:30:00+00:00"
+      },
+      {
+        "title": "Google Home will soon get better at recognizing you",
+        "tag": null,
+        "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+        "importance": 3,
+        "published": "2026-06-23T22:28:19+00:00"
+      },
+      {
+        "title": "Meta、初の自社ブランドAIグラス「Meta Glasses」を北米などで発売 299ドルから",
+        "tag": null,
+        "summary": "Metaは、EssilorLuxotticaと共同開発した新型AIグラス「Meta Glasses」（Metaグラス）を発表し、一部の国で販売を開始した。自社ブランドを冠する初のモデルで、価格は299ドルから。最新の自社製AIモデル「Muse Spark」を搭載し、音声にセレブのカイリー・ジェンナー氏の声を指定できるコラボモデルを含む3スタイルを展開する。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
+        "importance": 3,
+        "published": "2026-06-23T22:15:00+00:00"
+      },
+      {
+        "title": "California AB 2047 makes 3d printers off-limits to students, educators, business",
+        "tag": null,
+        "summary": "Article URL: https://www.the3dprintingnerd.com/ab2047 Comments URL: https://news.ycombinator.com/item?id=48652184 Points: 79 # Comments: 15",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.the3dprintingnerd.com/ab2047",
+        "importance": 3,
+        "published": "2026-06-23T22:12:18+00:00"
+      }
+    ]
+  }
+}
