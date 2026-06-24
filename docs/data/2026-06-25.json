@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T08:00:51.721095+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】17戦略分野への投資額 2040年度までに「370兆円超」",
+      "【国際】米イラン、ホルムズ海峡巡る実務協議30日再開か　「通航料徴収」主張に米国は反対",
+      "【テクノロジー・AI】OpenAI、初の独自AIチップ「Jalapeno」発表──Broadcomと共同開発の推論用アクセラレータ"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "17戦略分野への投資額 2040年度までに「370兆円超」",
+        "tag": "成長戦略",
+        "summary": "政府は経済財政諮問会議などの合同会議で、新たな成長戦略の策定に向け、AI・半導体や造船など17の戦略分野に官民連携で2040年度までに総額370兆円を超える投資を行う計画を提示しました。これは、日本の長期的な産業競争力強化と経済成長の基盤を築くための重要な指針となるでしょう。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015157951000",
+        "importance": 5,
+        "published": "2026-06-24T12:41:31+00:00"
+      },
+      {
+        "title": "財政目標「債務残高対GDP比低下を中核に」 高市首相表明へ調整",
+        "tag": "財政政策",
+        "summary": "高市総理大臣は、今後の財政運営の目標として、債務残高の対GDP比の安定的な低下を中核に位置づける方針を表明する方向で調整しています。また、2040年度までの新たな中長期の経済財政計画を策定する見通しです。これは、日本の財政健全化に向けた政府の具体的な姿勢を示すものであり、今後の経済政策に大きな影響を与えるでしょう。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015158721000",
+        "importance": 5,
+        "published": "2026-06-24T21:04:47+00:00"
+      },
+      {
+        "title": "安保3文書改定 防衛費の規模や非核三原則扱いが焦点に",
+        "tag": "安全保障",
+        "summary": "安全保障関連3文書の改定に向け、自民党と日本維新の会が提言を提出したことを受け、政府は年内の改定を目指し検討を本格化させます。防衛費の規模や財源、非核三原則の扱いなどが主要な焦点となる見通しです。これは、日本の安全保障政策の根幹を揺るがす可能性があり、国際情勢の変化に対応する上で極めて重要な決定となります。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015158711000",
+        "importance": 5,
+        "published": "2026-06-24T21:30:52+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米イラン、ホルムズ海峡巡る実務協議30日再開か　「通航料徴収」主張に米国は反対",
+        "tag": "米イラン協議",
+        "summary": "米国のルビオ国務長官は、イランがホルムズ海峡を通航する船舶に対し料金を徴収すると主張していることについて、改めて反対する姿勢を強調した。こうした中、仲介国パキスタンの外務省は、米国とイランの実務協議が30日にも再開される見通しだと発表。この協議は、中東のエネルギー供給と国際貿易の安定に直結するため、その進展が今後の世界経済に与える影響が注目される。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015158781000",
+        "importance": 5,
+        "published": "2026-06-24T21:26:05+00:00"
+      },
+      {
+        "title": "IAEA事務局長、イラン核施設査察実施へ　テヘランは「最終合意後」と主張",
+        "tag": "イラン核問題",
+        "summary": "国際原子力機関（IAEA）のラファエル・グロッシ事務局長は、イランの核施設への査察が実施されると述べた。しかしイラン側は、査察は米国との最終的な合意の一部としてのみ行われると主張しており、査察の具体的な時期と条件が今後の交渉の焦点となる。これは、イランの核開発を巡る国際社会の懸念を払拭し、中東地域の安定に不可欠な動きである。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-06-24T17:31:48+00:00"
+      },
+      {
+        "title": "NY原油、一時1バレル＝70ドル割れ　ホルムズ海峡情勢改善期待で3か月半ぶり安値",
+        "tag": "原油価格",
+        "summary": "24日のニューヨーク原油市場で、国際的な取り引きの指標となるWTI先物価格が一時1バレル＝70ドルを割り込み、今年3月上旬以来およそ3か月半ぶりの安値水準を記録した。これは、ホルムズ海峡をめぐる状況が改善し、中東からの原油供給が回復に向かうとの期待感が背景にある。原油価格の安定は世界経済の動向に大きく影響するため、今後の地政学的リスクと供給状況が引き続き注視される。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015158891000",
+        "importance": 5,
+        "published": "2026-06-24T20:07:57+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "The Media Mention Is Now a Distribution Channel—Is Your Hotel Treating It That Way?",
+        "tag": null,
+        "summary": "Lighthouse research finds 82% of AI hotel recommendations draw from OTAs and editorial media, meaning press coverage in outlets like Condé Nast Traveler now directly drives booking visibility, not jus",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/opinion/4133181/the-media-mention-is-now-a-distribution-channelis-your-hotel-treating-it-that-way",
+        "importance": 3,
+        "published": "2026-06-24T20:41:26+00:00"
+      },
+      {
+        "title": "What Airbnb Used to Be: Boutique Wants Fewer Homes, More Taste — and No Investment Funds",
+        "tag": null,
+        "summary": "Marc Blazer is building one of the cleanest anti-Airbnb points of view in travel: real, deeply designed homes for design-literate travelers who want taste, context, and character over inventory. The a",
+        "source": "Skift",
+        "url": "https://skift.com/2026/06/24/what-airbnb-used-to-be-boutique-wants-fewer-homes-more-taste-and-no-investment-funds/",
+        "importance": 3,
+        "published": "2026-06-24T20:31:02+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "OpenAI、初の独自AIチップ「Jalapeno」発表──Broadcomと共同開発の推論用アクセラレータ",
+        "tag": "AIチップ開発",
+        "summary": "OpenAIは、Broadcomと共同開発したLLM推論特化型の独自AIチップ「Jalapeno」を発表した。同社初の「インテリジェンスプロセッサ」として、9カ月で設計からテープアウトまでを完了し、年内に展開を始める計画だ。これにより、AIモデルの実行コスト削減と性能向上を目指し、AIインフラの自社最適化競争がさらに加速する見通しだ。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000126/",
+        "importance": 5,
+        "published": "2026-06-24T22:38:39+00:00"
+      },
+      {
+        "title": "「最強モデル」はもう無意味 ナデラCEOが語る、企業の生き残り新戦略「学習ループ」",
+        "tag": "Microsoft戦略",
+        "summary": "Microsoftのサティア・ナデラCEOは、AIの進化による自社システムの模倣やコモディティ化への不安に対し、「学習ループ」戦略を提唱した。これは、企業がAIを活用して継続的に学び、適応し続けることで競争優位を確立するというものだ。AIがコモディティ化する時代において、企業がどのように独自の価値を創造し続けるかが今後の焦点となる。",
+        "source": "ITmedia AI+",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news016.html",
+        "importance": 4,
+        "published": "2026-06-24T20:00:00+00:00"
+      },
+      {
+        "title": "Google、Play Storeの外部決済を解禁へ──Epic Gamesとの独禁法訴訟和解受け",
+        "tag": "Google規制",
+        "summary": "Googleは、Epic Gamesとの独占禁止法訴訟の和解を受け、Play Storeにおける外部決済システムの利用を世界中の開発者向けに開始すると発表した。これにより、アプリ内課金の手数料が従来の30%から引き下げられる見込みで、アプリエコシステムにおけるプラットフォーム企業の支配力に大きな変化をもたらす。今後、他のプラットフォームにも同様の動きが広がるか注目される。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
+        "importance": 4,
+        "published": "2026-06-24T17:36:44+00:00"
+      },
+      {
+        "title": "AI規制巡る2700万ドルの代理戦争、AnthropicとOpenAIが支援した候補が接戦",
+        "tag": "AI規制動向",
+        "summary": "ニューヨーク州第12選挙区の民主党予備選で、AI規制を巡るAnthropicとOpenAIによる2700万ドル規模の政治的代理戦争が展開された。親AIスーパーPACの標的となったアレックス・ボレス州議会議員は惜敗したが、大手AI企業が政治献金を通じてAI規制の議論に深く関与している実態が浮き彫りになった。AIの社会実装が進む中で、規制の方向性を巡るテック企業のロビー活動は今後も激化するだろう。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+        "importance": 4,
+        "published": "2026-06-24T17:25:00+00:00"
+      }
+    ]
+  }
+}
