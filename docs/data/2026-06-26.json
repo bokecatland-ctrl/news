@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T08:10:11.958034+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "AI規制、中東緊迫、台風警戒",
+    "points": [
+      "OpenAIの次期モデルGPT-5.6のリリースが、トランプ政権のセキュリティ要請により延期されました。これはAI技術開発における政府介入の深刻化を示唆しています。",
+      "ホルムズ海峡でのイランによる通航料徴収示唆に対し、米国と湾岸諸国が共同で拒否声明を発表し、国際的なエネルギー供給への影響が懸念されています。",
+      "台風7号と8号が日本列島に接近しており、沖縄では暴風、西日本では梅雨前線による土砂災害や河川氾濫に厳重な警戒が必要です。"
+    ],
+    "alert": {
+      "icon": "🌀",
+      "text": "台風7号・8号接近、西日本で大雨警戒、沖縄は暴風に"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "【速報中】W杯 日本×スウェーデン 日本代表 先発3人入れ替え",
+        "tag": null,
+        "summary": "サッカーワールドカップ北中米大会、世界ランキング18位の日本代表は、1次リーグ最終第3戦の世界38位・スウェーデン戦に臨んでいます。日本は勝つか引き分けると、自力で2位以上での決勝トーナメント進出が決…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015160411000",
+        "importance": 3,
+        "published": "2026-06-25T23:04:42+00:00"
+      },
+      {
+        "title": "台風7号と8号接近 各地レベル4危険警報 厳重警戒",
+        "tag": null,
+        "summary": "停滞する梅雨前線の影響で近畿や中国四国、九州でレベル4の危険警報が発表されている地域があり土砂災害や川の氾濫、低い土地の浸水に厳重に警戒が必要です。また、沖縄県には台風7号がかなり近づいていて、暴風と…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015160621000",
+        "importance": 3,
+        "published": "2026-06-25T22:53:04+00:00"
+      },
+      {
+        "title": "前田、菅原、瀬古が先発、3人入れ替え 日本―スウェーデン8時開始",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV6T20LDV6TUTQP01ZM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-06-25T22:41:48+00:00"
+      },
+      {
+        "title": "サッカー日本代表、5点差以内なら負けても決勝Tへ スウェーデン戦",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV6T7GZRV6TUTQP009M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-06-25T22:37:28+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "ベネズエラでM7超地震2回発生、死者188人・負傷者1500人超　「GDPの7%」経済損失も",
+        "tag": "大規模災害, 南米",
+        "summary": "南米ベネズエラで24日、マグニチュード7を超える地震が2度発生し、首都カラカスや隣接州で建物の倒壊が相次ぎ、これまでに188人が死亡、1500人余りが負傷した。初期予測では、この地震による経済的損失は同国のGDPの最大7%に達する可能性があり、復旧には長期的な国際支援が不可欠となる見通しだ。",
+        "source": "NHK 国際, Al Jazeera",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015160641000, https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows",
+        "importance": 5,
+        "published": "2026-06-25T21:17:57+00:00"
+      },
+      {
+        "title": "ホルムズ海峡「通航料拒否」米と湾岸諸国が声明　船舶攻撃でIMOが避難計画中断",
+        "tag": "エネルギー安保, 中東",
+        "summary": "イランがホルムズ海峡での料金徴収を示唆する中、米国と湾岸諸国は協議で「通航料などの徴収を一切拒否する」と共同声明を発表した。一方、オマーン湾で船舶が攻撃を受けたとの報告を受け、IMO（国際海事機関）はホルムズ海峡の船舶避難イニシアチブを一時中断。イランが海峡の地理的・軍事的優位性を利用し、戦利品として支配を強めようとしているとの見方もあり、国際的なエネルギー供給への影響が懸念される。",
+        "source": "NHK 国際, Al Jazeera",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015160631000, https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked",
+        "importance": 5,
+        "published": "2026-06-25T20:39:46+00:00"
+      },
+      {
+        "title": "ゼレンスキー大統領、長距離攻撃でロシアに和平迫る考え強調　クリミア攻撃で5人死亡",
+        "tag": "ウクライナ戦争, 地政学",
+        "summary": "ウクライナのゼレンスキー大統領は、ロシア国内の石油関連施設への長距離攻撃を続けることで、ロシアに対し和平に応じるよう圧力をかける考えをSNSに投稿し強調した。これに対し、ロシア当局はクリミアへのウクライナ攻撃で5人が死亡したと発表しており、ウクライナは長距離攻撃を強化することで戦況打開を図る構えだが、ロシアの報復や停戦交渉への影響が焦点となる。",
+        "source": "NHK 国際, Al Jazeera",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015160611000, https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say",
+        "importance": 4,
+        "published": "2026-06-25T21:14:05+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "世界の国際旅行者数、2026年は4％増に下方修正も成長維持、アジアは9％増、日本は中国人旅行減が重荷に ―オックスフォード・エコノミクス予測",
+        "tag": "国際観光予測",
+        "summary": "英国の経済シンクタンク「オックスフォード・エコノミクス」は、2026年の世界の国際旅行者数予測を前年比6%増から4%増に下方修正したと発表しました。アジアは9%増と高い伸びを維持するものの、日本は中国人旅行者の減少が重荷となる見通しです。世界経済の減速や地政学リスクが観光需要に影響を与えており、各国は市場の多角化とリスク分散が求められます。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20260625-160054",
+        "importance": 5,
+        "published": "2026-06-25T09:50:30+00:00"
+      },
+      {
+        "title": "Apple Wallet、ホテルキーから「フル旅行パス」へ進化　Disneyがローンチパートナーに",
+        "tag": "テック×観光",
+        "summary": "Appleは、Walletアプリの機能をホテルキーから、航空券、レンタカー、パークチケットなど旅行全体を管理する「フル旅行パス」へと拡張すると発表しました。ローンチパートナーとしてDisneyが参加し、リゾートやパークでのシームレスな体験提供を目指します。この動きは、旅行業界におけるデジタル化と顧客体験の統合を加速させ、大手テック企業が旅行市場に与える影響がさらに拡大する可能性を示唆しています。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/06/25/apple-wallet-key-disney-hotel-resorts-parks/",
+        "importance": 4,
+        "published": "2026-06-25T21:29:02+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "OpenAI、GPT-5.6リリースを延期へ　トランプ政権のセキュリティ要請受け",
+        "tag": "AI規制,OpenAI戦略",
+        "summary": "OpenAIは、トランプ政権からのセキュリティ懸念に関する要請を受け、次期大規模言語モデル「GPT-5.6」のリリースを延期すると発表した。当初は限定的なプレビューとして一部のユーザーにのみ提供される見込み。AI技術の進化が国家安全保障と密接に関わる中、政府によるAI開発への介入が今後も続く可能性があり、AI企業の戦略に大きな影響を与えるだろう。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "importance": 5,
+        "published": "2026-06-25T21:57:06+00:00"
+      },
+      {
+        "title": "IBM、世界初の「1nm未満」チップ技術を発表――3D構造「ナノスタック」でAIの処理を高速化",
+        "tag": "半導体,AIインフラ",
+        "summary": "IBMは、世界初となる1ナノメートル未満（sub-1nm）のチップ技術を発表した。独自の3次元トランジスタ構造「nanostack」（ナノスタック）により、2nmノード比で性能が最大50％向上し、電力効率も70％改善するという。この技術は生成AIの高度なデータ処理を支える基盤となり、今後5年以内の量産化を目指すことで、AIインフラの性能を飛躍的に向上させる可能性を秘めている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/26/news059.html",
+        "importance": 5,
+        "published": "2026-06-25T21:47:00+00:00"
+      },
+      {
+        "title": "OpenAI、IPOを来年まで見送る方針か",
+        "tag": "OpenAI,IPO",
+        "summary": "OpenAIは、株式公開（IPO）を来年まで見送る方向で検討していると報じられた。同社は急成長を遂げているが、市場の変動性やAI技術の規制動向を慎重に見極める姿勢を示している。AI業界のリーダーであるOpenAIのIPOは、市場全体に大きな影響を与えるため、そのタイミングと評価額が今後の焦点となる。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+        "importance": 4,
+        "published": "2026-06-25T20:36:05+00:00"
+      }
+    ]
+  }
+}
