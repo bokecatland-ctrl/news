@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T08:00:11.550366+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】山梨県で震度6弱、停電・断水発生　「1週間程度は同程度の地震に注意」",
+      "【国際】米軍、イラン軍事施設を攻撃　ホルムズ海峡の貨物船攻撃への報復「ミサイル・無人機施設を標的」",
+      "【ホテル】【データ】2026年度47都道府県観光予算アンケート調査（石川県）"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "山梨県で震度6弱、停電・断水発生　「1週間程度は同程度の地震に注意」",
+        "tag": "速報・地震",
+        "summary": "26日夜、山梨県富士河口湖町で震度6弱の地震が発生し、山梨県山中湖村で一部断水、埼玉県や茨城県を含む約2860戸で停電が発生した。気象庁は今後1週間程度は最大震度6弱程度の地震に注意を呼びかけており、SNS上での根拠のない情報に惑わされないよう警戒が求められる。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015161971000",
+        "importance": 5,
+        "published": "2026-06-26T21:02:43+00:00"
+      },
+      {
+        "title": "台風8号、関東に最接近し上陸の恐れ　「関東・静岡で土砂災害厳重警戒」",
+        "tag": "速報・台風8号",
+        "summary": "台風8号が関東に最接近しており、27日午前中に関東甲信や東海に上陸する恐れがある。関東と静岡県では雨が強まり、レベル4土砂災害危険警報が発表されている地域があり、交通機関にも影響が出ているため、厳重な警戒と最新情報の確認が必要となる。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015162281000",
+        "importance": 5,
+        "published": "2026-06-26T22:43:18+00:00"
+      },
+      {
+        "title": "政府「骨太の方針」原案、基礎的財政収支の一時的悪化を許容へ　「景気変動への柔軟な対応が焦点」",
+        "tag": "財政政策・骨太方針",
+        "summary": "政府は今年の「骨太の方針」原案で、財政運営の目標として債務残高の対GDP比安定低下を中核としつつ、プライマリーバランス（基礎的財政収支）の一時的な悪化を景気変動に応じて許容する方針を示した。これは、経済状況に応じた財政出動の余地を確保する狙いがあるが、財政規律の維持と経済成長の両立が今後の政策議論の焦点となる。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015162161000",
+        "importance": 4,
+        "published": "2026-06-26T20:00:51+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米軍、イラン軍事施設を攻撃　ホルムズ海峡の貨物船攻撃への報復「ミサイル・無人機施設を標的」",
+        "tag": "中東情勢,エネルギー安保",
+        "summary": "米中央軍は26日、イランのミサイル・無人機保管施設および沿岸レーダー施設を航空機で攻撃したと発表した。これは前日にホルムズ海峡を航行中のシンガポール船籍の貨物船「エバー・ラブリー」が無人機攻撃を受けたことへの報復措置。トランプ大統領は「停戦合意への愚かな違反」とイランを非難しており、中東地域の緊張が一段と高まり、原油価格やホルムズ海峡の通航への影響が懸念される。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-06-26T22:57:30+00:00"
+      },
+      {
+        "title": "イスラエルとレバノン、米国仲介で「枠組み合意」に署名　ヒズボラは不参加表明",
+        "tag": "中東和平,外交",
+        "summary": "米国務省のマルコ・ルビオ長官は26日、ワシントンDCでの協議を経て、イスラエルとレバノンが国境問題に関する「枠組み合意」に署名したと発表した。これは両国間の緊張緩和に向けた「第一歩」と位置付けられるが、レバノンのイスラム教シーア派組織ヒズボラはこの合意に参加しない意向を示しており、実効性には課題が残る。今後の停戦維持と国境の安定化が焦点となる。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+        "importance": 4,
+        "published": "2026-06-26T22:55:28+00:00"
+      },
+      {
+        "title": "ゼレンスキー大統領、ロシアに対する「40日間作戦」を承認　ウクライナ保安庁が実施へ",
+        "tag": "ウクライナ情勢,戦争",
+        "summary": "ウクライナのゼレンスキー大統領は26日、ウクライナ保安庁がロシアに対して「40日間作戦」を行うことを承認したと明らかにした。この作戦は、一定期間にわたってロシアへの攻撃を強化し、戦闘終結に向けた圧力をかけることを目的としている。これにより、ウクライナ戦争の戦況が新たな局面を迎える可能性があり、国際社会の動向が注目される。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015161801000",
+        "importance": 4,
+        "published": "2026-06-26T22:24:40+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【データ】2026年度47都道府県観光予算アンケート調査（石川県）",
+        "tag": null,
+        "summary": "観光経済新聞社は、47都道府県の2026年度当初予算の観光予算額について、観光担当部課を対象にアンケート調査を実施した。国内旅行振興やインバウンド誘客、観光地域づくりなどに、都道府県がどのような予算を付けているかを聞い [&#8230;] The post 【データ】2026年度47都道府県観光予算アンケート調査（石川県） first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2606270730kks/",
+        "importance": 3,
+        "published": "2026-06-26T22:30:21+00:00"
+      },
+      {
+        "title": "文化審議会、史跡名勝天然記念物の新指定4件を答申 岡山・金蔵山古墳や鹿児島・出水城跡など",
+        "tag": null,
+        "summary": "政府の文化審議会は6月19日に開催された文化財分科会の審議・議決を経て、史跡名勝天然記念物の新指定4件、追加指定など23件、登録記念物の新登録4件について、松本洋平文部科学相に答申した。答申通り告示されれば、史跡名勝天 [&#8230;] The post 文化審議会、史跡名勝天然記念物の新指定4件を答申 岡山・金蔵山古墳や鹿児島・出水城跡など first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2606270630kks-3/",
+        "importance": 3,
+        "published": "2026-06-26T21:30:39+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
+        "tag": null,
+        "summary": "We&#8217;ve already rounded up the best Philips Hue deals of Prime Day, but if you&#8217;re looking for something a little more budget-friendly, Govee&#8217;s latest sale is worth checking out. The co",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
+        "importance": 3,
+        "published": "2026-06-26T22:51:28+00:00"
+      },
+      {
+        "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
+        "tag": null,
+        "summary": "We&#8217;ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I&#8217;m most hyped for is a simple ",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+        "importance": 3,
+        "published": "2026-06-26T22:09:46+00:00"
+      },
+      {
+        "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+        "tag": null,
+        "summary": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+        "source": "ITmedia AI+",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+        "importance": 3,
+        "published": "2026-06-26T22:00:00+00:00"
+      },
+      {
+        "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+        "tag": null,
+        "summary": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on. Comments URL: https://news.ycombinator.com/item?id=48692474 Points: 22 # Comments: 18",
+        "source": "Hacker News (Front Page)",
+        "url": "https://news.ycombinator.com/item?id=48692474",
+        "importance": 3,
+        "published": "2026-06-26T21:54:59+00:00"
+      }
+    ]
+  }
+}
