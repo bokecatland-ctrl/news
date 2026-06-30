@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T08:05:41.474950+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "円安加速、政府の成長戦略とAI進化",
+    "points": [
+      "円相場が39年半ぶりの円安水準となる中、政府は国内投資拡大と供給力強化を柱とする新成長戦略と骨太の方針を打ち出し、経済の長期的な基盤強化を目指します。",
+      "AnthropicとGoogleがそれぞれ高性能・低価格な新AIモデルや動画生成AIを発表し、Meta AIは非侵襲的な脳波解読技術を開発。AIは汎用的な業務から専門分野、そしてヒューマンインターフェースまで、実用化と応用が急速に進展しています。",
+      "本日から出国税が3000円に引き上げられ、東京都の宿泊税も来年4月から定率3%に変更されます。国内外の旅行者にとって日本での費用負担が増加し、観光需要に影響を与える可能性があります。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "円相場、一時1ドル＝162円台後半へ値下がり　39年半ぶりの円安水準、日米金利差拡大が背景",
+        "tag": "為替市場",
+        "summary": "30日のニューヨーク外国為替市場で円相場は、日米の金利差拡大を背景に円売りドル買いが進み、一時1ドル＝162円台後半まで値下がりした。これはおよそ39年半ぶりの円安ドル高水準であり、日本の輸入物価上昇や企業収益への影響が今後の焦点となる。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015165311000",
+        "importance": 5,
+        "published": "2026-06-30T21:15:59+00:00"
+      },
+      {
+        "title": "政府、新成長戦略原案で17分野に「370兆円超」の官民投資計画　2040年度までに国内投資を拡大",
+        "tag": "成長戦略",
+        "summary": "政府は新たな成長戦略の原案をまとめ、17の戦略分野に官民連携で2040年度までに総額370兆円を超える投資を行う計画を打ち出した。これは国内投資の拡大と供給力の強化を目指すもので、日本経済の長期的な成長基盤構築に向けた政府の強い意志を示す。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015165011000",
+        "importance": 5,
+        "published": "2026-06-30T11:51:48+00:00"
+      },
+      {
+        "title": "高市政権「骨太の方針」原案、国内投資拡大と供給力強化を強調　「財政単年度主義」の弊害是正も明記",
+        "tag": "骨太の方針",
+        "summary": "高市政権がまとめた「骨太の方針」の原案では、「責任ある積極財政」のもと、強い経済実現に向けた国内投資の拡大と供給力の強化が打ち出された。民間投資を促すため「財政単年度主義」の弊害是正も明記されており、政府の経済政策の方向性が示されたことで、今後の具体的な施策に注目が集まる。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015165041000",
+        "importance": 5,
+        "published": "2026-06-30T11:46:18+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "“WhatsApp Privacy Changes”",
+        "tag": null,
+        "summary": "WhatsApp is rolling out usernames to keep phone numbers private.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/whatsapp-privacy?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-06-30T22:33:26+00:00"
+      },
+      {
+        "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+        "tag": null,
+        "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-06-30T22:29:47+00:00"
+      },
+      {
+        "title": "中国で民族団結進歩促進法施行 国境越え弾圧のおそれと懸念も",
+        "tag": null,
+        "summary": "中国で、1日、民族の団結を破壊した場合、処罰するなどとした新たな法律が施行されます。国外の組織や個人も法的責任を追及する対象になるとしていて、国境を越えた弾圧につながるとの懸念の声が上がっています。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015165081000",
+        "importance": 3,
+        "published": "2026-06-30T22:22:16+00:00"
+      },
+      {
+        "title": "Mexico fans blast horns outside Ecuador hotel the night before World Cup clash",
+        "tag": null,
+        "summary": "Ecuadorian Football Federation says it has filed a formal complaint with organisers after the incident in Mexico City.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/30/mexico-fans-blast-horns-outside-ecuador-hotel-the-night-before-world-cup-clash?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-06-30T22:15:31+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "東京都内の宿泊税、一律3%の定率制は来年4月から 民泊も対象に",
+        "tag": "宿泊税改正",
+        "summary": "東京都は2027年4月1日から、宿泊税を現行の定額制（1万円以上100円、1万5千円以上200円）から、宿泊料金の3%を一律に課税する定率制へ変更する。この改正は民泊施設も対象となり、宿泊料金が高額になるほど税負担が増えるため、都内の高級ホテルや民泊事業者の経営戦略に影響を与える可能性がある。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV6Z3CP5V6ZOXIE04CM.html?ref=rss",
+        "importance": 5,
+        "published": "2026-06-30T22:00:00+00:00"
+      },
+      {
+        "title": "“出国税” きょうから引き上げ 1人当たり1000円が3000円に",
+        "tag": "出国税増税",
+        "summary": "日本を出国する際に課される国際観光旅客税（出国税）が7月1日から、1人当たり1000円から3000円に引き上げられた。この増税は、オーバーツーリズム対策や観光インフラ整備の財源に充てられる予定であり、海外旅行者や訪日外国人の費用負担が増加し、今後の旅行需要に影響を与える可能性がある。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015165101000",
+        "importance": 5,
+        "published": "2026-06-30T21:53:31+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Claude Sonnet 5",
+        "tag": "AIモデル,Anthropi",
+        "summary": "Anthropicは最新AIモデル「Claude Sonnet 5」を発表した。最上位モデルのOpus 4.8に迫る性能を低価格で提供し、日常業務やコーディングのエージェント機能が大幅に強化されている。このモデルは、より広範なユーザーが高度なAI機能を活用できるようになることを意味し、AIの普及と実用化を加速させるだろう。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "importance": 5,
+        "published": "2026-06-30T17:59:52+00:00"
+      },
+      {
+        "title": "Claude Science",
+        "tag": "AI研究,Anthropic",
+        "summary": "Anthropicは製薬会社幹部やバイオテック創業者向けイベントで、科学研究支援に特化した主要新製品「Claude Science」を発表した。Claude Codeがソフトウェアエンジニアリングを支援するように、Claude Scienceは簡潔な指示から自律的に科学研究作業を実行できる。これは、AIが特定の専門分野で人間の研究者を補完し、科学的発見を加速させる新たな段階に入ったことを示唆している。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://claude.com/product/claude-science",
+        "importance": 5,
+        "published": "2026-06-30T17:07:41+00:00"
+      },
+      {
+        "title": "Google、高速で低価格な画像生成AI「Nano Banana 2 Lite」と動画生成モデル「Gemini Omni Flash」公開",
+        "tag": "画像生成AI,動画AI",
+        "summary": "Googleは、画像生成AIの最速・最安モデル「Nano Banana 2 Lite」と、対話型での動画編集に対応する「Gemini Omni Flash」を発表した。「Nano Banana 2 Lite」は4秒で画像を生成可能で、両モデルを組み合わせた静止画から動画への連携も可能。これらの発表は、Googleが生成AI市場での競争力を高め、クリエイティブ分野におけるAIの利用をさらに加速させる狙いがある。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/01/news060.html",
+        "importance": 5,
+        "published": "2026-06-30T22:11:00+00:00"
+      },
+      {
+        "title": "From brain waves to words: a new path to communication without surgery",
+        "tag": "脳波AI,Meta AI",
+        "summary": "Meta AIは、手術なしで脳波から言葉を解読する新たなコミュニケーションパスを開発したと発表した。この技術は、脳にデバイスを埋め込むことなく、思考を直接テキストに変換する可能性を秘めている。これは、ALSなどの運動機能障害を持つ人々にとって画期的な支援ツールとなる可能性があり、ブレイン・コンピューター・インターフェース技術の非侵襲的アプローチにおける大きな進展を意味する。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+        "importance": 5,
+        "published": "2026-06-30T21:29:13+00:00"
+      }
+    ]
+  }
+}
