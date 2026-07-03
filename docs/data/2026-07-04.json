@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T07:56:54.744931+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "税収最高・金利高騰、AI創薬と訪日客変化",
+    "points": [
+      "国内では、昨年度の税収が過去最高を更新し経済の好調を示す一方、長期金利が約29年ぶりの高水準に上昇し、インフレ加速と財政負担拡大への警戒感が強まっています。",
+      "5月の訪日外国人旅行者数は中国からの大幅減で全体として減少しましたが、中東からの訪日客は過去最高を記録し、インバウンド市場の構造変化とリスク分散の必要性が浮き彫りになりました。",
+      "大手AI企業Anthropicが創薬分野への本格参入を表明し、AIが医薬品開発プロセスを加速させ、業界構造を大きく変革する可能性を示しました。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "昨年度の税収、84兆2000億円程度で過去最高を更新　賃金・企業業績好調で所得税・法人税が伸長",
+        "tag": "財政 / 経済指標",
+        "summary": "昨年度の国の税収が、前の年度から約9兆円増加し、84兆2000億円程度となり過去最高を更新した。賃金の増加と企業業績の好調を背景に、所得税や法人税の税収が伸びたことが主な要因。この高水準の税収は、政府の財政運営に一定の余裕をもたらす一方で、歳出構造の見直しや将来的な財政健全化への取り組みが引き続き焦点となる。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015168271000",
+        "importance": 5,
+        "published": "2026-07-03T11:25:44+00:00"
+      },
+      {
+        "title": "長期金利、約29年ぶり一時2.81％に上昇　市場はインフレ加速と財政負担拡大を警戒",
+        "tag": "金融政策 / マーケット",
+        "summary": "3日の債券市場で、長期金利が一時2.81％まで上昇し、約29年ぶりの高水準を記録した。これは、今後インフレが加速するとの観測や、政府の財政負担拡大への懸念が広がり、国債を売る動きが強まったため。日本銀行の金融政策正常化への圧力が高まる中、市場は今後の金利動向と日銀の対応に注目している。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015167801000",
+        "importance": 5,
+        "published": "2026-07-03T12:12:20+00:00"
+      },
+      {
+        "title": "使用済み核燃料再処理工場、完成目標の今年度達成は困難か　国が青森県知事に報告、エネルギー政策に影響",
+        "tag": "エネルギー政策 / 原発",
+        "summary": "青森県に建設中の使用済み核燃料再処理工場について、資源エネルギー庁は3日、青森県の宮下知事に対し、日本原燃が目標とする今年度中の完成が困難となる可能性を報告した。この遅延は、日本の核燃料サイクル政策の根幹に関わる問題であり、今後のエネルギー安定供給や原発政策の見直し議論に影響を与える可能性がある。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015168391000",
+        "importance": 4,
+        "published": "2026-07-03T19:59:28+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
+        "tag": null,
+        "summary": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt&#039;s match.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-07-03T22:20:04+00:00"
+      },
+      {
+        "title": "NYマムダニ市長 独立記念日前に 移民の役割など強調し政権批判",
+        "tag": null,
+        "summary": "アメリカの建国から250年となる独立記念日を前にニューヨークのマムダニ市長が演説し、アメリカの歴史に移民が果たしてきた役割や多様性を強調したうえでトランプ政権の移民政策などを批判しました。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015168611000",
+        "importance": 3,
+        "published": "2026-07-03T22:17:30+00:00"
+      },
+      {
+        "title": "日英伊共同開発の次期戦闘機 合弁企業と契約延長 開発本格化へ",
+        "tag": null,
+        "summary": "日本とイギリス、イタリアが共同で開発する次期戦闘機をめぐり、3か国でつくる国際機関は設計などを担う合弁企業との契約を来年末まで延長しました。イギリスの財政難による計画への影響も懸念されていましたが、今…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015168621000",
+        "importance": 3,
+        "published": "2026-07-03T22:15:58+00:00"
+      },
+      {
+        "title": "アメリカ建国250年 トランプ大統領実績強調 政治利用批判も",
+        "tag": null,
+        "summary": "アメリカは4日、建国250年の節目となる独立記念日を迎えます。全米各地で記念の行事が行われ祝賀ムードが広がる一方、トランプ大統領が一連の行事を政治利用しているという批判の声も相次いでいて、アメリカで進…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015168551000",
+        "importance": 3,
+        "published": "2026-07-03T22:13:19+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "5月の訪日客は3.6％減の356万人、中国が6割減、中東は単月過去最高－JNTO",
+        "tag": "訪日客統計",
+        "summary": "日本政府観光局（JNTO）の推計によると、2026年5月の訪日外国人旅行者数は前年同月比3.6％減の356万人となり、2カ月連続で減少しました。日中関係の冷え込みが影響し、中国からの訪日客は60.4％減の31万3千人だった一方、中東からの訪日客は単月で過去最高を記録しました。この減少は、特定の国との関係がインバウンド市場全体に与える影響の大きさを浮き彫りにしており、市場の多様化とリスク分散が今後の焦点となります。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2607040630kks/",
+        "importance": 5,
+        "published": "2026-07-03T21:30:23+00:00"
+      },
+      {
+        "title": "ホテルウェブサイトへのAI経由トラフィックが50%超急増、偽AIインフォグラフィックが技術選定を歪める恐れ　米RevPARはW杯需要で9.6%上昇",
+        "tag": "AI×ホテル",
+        "summary": "Lighthouseのデータによると、ChatGPTのアウトバウンドリンク拡大後、ホテルウェブサイトへのAI経由リファラルトラフィックが50%以上急増しました。一方で、AI生成の偽インフォグラフィックがホテルテクノロジーの購買決定を歪める可能性があると警告されています。また、2026年6月21〜27日の週には、FIFAワールドカップの試合需要により、米国のホテルRevPARが9.6%上昇しました。AIの進化がホテル予約チャネルに新たな機会をもたらす一方で、情報の信頼性確保と、大型イベントによる短期的な需要変動への対応が重要となります。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/editorial/4133340/ai-referral-traffic-to-hotel-websites-surged-50-fake-ai-infographics-are-distorting-hotel-tech-decisions-us-revpar-climbed-96-on-world-cup-demand",
+        "importance": 4,
+        "published": "2026-07-03T14:50:00+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Anthropic、創薬分野への本格参入を表明　「Claude Science」でAI創薬プラットフォーム提供へ",
+        "tag": "AI創薬,Anthropic",
+        "summary": "大手AI企業Anthropicは、イベント「The Briefing: AI for Science」で、科学者向けの新たなAIワークベンチ「Claude Science」を発表した。これは、断片化されたツールやデータセットを統合し、図やビジュアルを生成するプラットフォームで、同社が創薬分野へ本格的に進出する意向を示している。AIが医薬品開発のプロセスを加速させ、業界構造に大きな影響を与える可能性があり、今後の動向が注目される。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "importance": 5,
+        "published": "2026-07-03T13:56:52+00:00"
+      },
+      {
+        "title": "アフリカでStarlinkの利用が急増　通信インフラ未整備地域で需要拡大",
+        "tag": "Starlink,アフリカ市",
+        "summary": "SpaceXの衛星インターネットサービス「Starlink」がアフリカ大陸で急速に普及している。既存の通信インフラが未整備な地域において、高速で安定したインターネット接続を提供することで、ビジネスや教育、医療など多岐にわたる分野での需要を喚起している。これは、グローバルなデジタルデバイド解消に向けたSpaceXの戦略が奏功していることを示しており、今後の新興国市場での展開が焦点となる。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink",
+        "importance": 4,
+        "published": "2026-07-03T21:08:37+00:00"
+      },
+      {
+        "title": "SpaceXが「1000回目」の節目達成か、インドの宇宙スタートアップも初打ち上げ間近",
+        "tag": "宇宙開発,SpaceX",
+        "summary": "SpaceXがロケット打ち上げで「millenary milestone」（おそらく1000回目）という節目に近づいていると報じられた。これは民間宇宙開発における歴史的な偉業となる。また、インドの宇宙スタートアップも初の打ち上げを間近に控えており、グローバルな宇宙開発競争がさらに激化している。SpaceXの技術的優位性と、新興国の宇宙産業の台頭が、今後の宇宙ビジネスの勢力図を塗り替える可能性がある。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+        "importance": 4,
+        "published": "2026-07-03T13:55:35+00:00"
+      }
+    ]
+  }
+}
