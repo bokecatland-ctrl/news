@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T08:04:02.725183+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "台風9号接近、中東緊迫、日銀独立性議論",
+    "points": [
+      "大型で非常に強い台風9号が明日から沖縄先島諸島に接近し、一部住宅倒壊の恐れがある猛烈な風や高潮、大雨に厳重な警戒が必要です。",
+      "イラン最高指導者葬儀後も米イラン間の攻撃応酬が続き、エネルギー供給の要衝であるホルムズ海峡の安全保障が国際社会の喫緊の課題となっています。",
+      "政府が今年の骨太方針で日本銀行の独立性に言及する方向で調整しており、政府介入の懸念を払拭し、金融政策の信頼性確保が焦点となります。"
+    ],
+    "alert": {
+      "icon": "🌀",
+      "text": "大型台風9号、明日から沖縄先島諸島に接近　厳重警戒を"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "【速報・災害】台風9号、10～11日に沖縄先島諸島に接近　一部住宅倒壊の恐れ、厳重警戒を",
+        "tag": "速報・災害",
+        "summary": "大型で非常に強い台風9号が、10日から11日にかけて沖縄県の先島諸島に勢力を維持したままかなり接近する見込みです。先島諸島では10日以降、一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、高潮や猛烈な雨にも厳重な警戒が必要となります。空の便の欠航も相次ぐ見込みで、住民は早めの対策が求められます。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015173061000",
+        "importance": 5,
+        "published": "2026-07-09T21:53:37+00:00"
+      },
+      {
+        "title": "骨太方針で「日銀の独立性」に言及へ、政府「圧力」否定狙う　金融政策の信頼性確保が焦点",
+        "tag": "金融政策",
+        "summary": "政府が今年の「骨太方針」で日本銀行の独立性に言及する方向で調整していることが明らかになりました。これは、政府が日銀の金融政策に介入しているとの見方を払拭し、日銀の信頼性を確保する狙いがあります。今後の金融政策運営において、政府と日銀の適切な関係性が改めて問われることになります。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV794HZPV79ULFA026M.html?ref=rss",
+        "importance": 5,
+        "published": "2026-07-09T14:10:00+00:00"
+      },
+      {
+        "title": "皇室典範改正案、10日衆院通過へ　男系男子の養子受け入れ、4宮家想定",
+        "tag": "皇室典範改正",
+        "summary": "皇族数確保に向けた皇室典範改正案が10日、衆議院で質疑・採決され、与党と一部野党の賛成多数で可決され参議院に送られる見通しです。この改正案では、旧宮家出身の男系男子を養子として皇籍に復帰させることを想定しており、自民党内では麻生太郎氏の妹を含む4宮家が対象とされています。皇室の安定的な維持に向けた歴史的な一歩となる一方で、国民的議論の深化が求められます。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV7833W7V78UTIL01NM.html?ref=rss",
+        "importance": 4,
+        "published": "2026-07-09T21:00:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米イラン攻撃応酬、ハメネイ師葬儀後も緊迫　ホルムズ海峡の安全保障が焦点に",
+        "tag": "中東情勢",
+        "summary": "イランの最高指導者ハメネイ師の葬儀後も、アメリカとイランの間で攻撃の応酬が続いており、米国防総省は90のイラン標的を攻撃したと発表しました。イラン側も国内で爆発音が報じられるなど緊張が高まっており、エネルギー供給の要衝であるホルムズ海峡の安全保障が国際社会の喫緊の課題となっています。今後の外交交渉の再開と、ホルムズ海峡の通航安全確保に向けた動きが焦点となります。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-07-09T23:02:18+00:00"
+      },
+      {
+        "title": "ロシア教育相が北方領土訪問、日本政府が抗議「受け入れられない」",
+        "tag": "日露関係",
+        "summary": "ロシア政府は、クラフツォフ教育相が北方領土の択捉島を訪問したと発表しました。これに対し日本政府は、「北方領土に関するわが国の立場に反するもので受け入れられない」と強く抗議しました。ロシア要人の北方領土訪問は、領土問題の解決に向けた日露間の交渉に水を差すものであり、今後の両国関係に影響を与える可能性があります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015173291000",
+        "importance": 4,
+        "published": "2026-07-09T21:40:11+00:00"
+      },
+      {
+        "title": "パレスチナ、11月28日に20年ぶり立法評議会選挙を実施へ　アッバス議長が発表",
+        "tag": "パレスチナ選挙",
+        "summary": "パレスチナ自治政府のアッバス議長は、11月28日に立法評議会選挙を実施すると発表しました。これはパレスチナで20年ぶりとなる立法選挙であり、ガザ地区とヨルダン川西岸地区の両方で実施される見通しです。この選挙は、長らく分断されてきたパレスチナの政治状況に大きな変化をもたらす可能性があり、中東地域の安定にも影響を与える重要な動きとして注目されます。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-07-09T17:32:09+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【データ】2026年度47都道府県観光予算アンケート調査（奈良県）",
+        "tag": null,
+        "summary": "観光経済新聞社は、47都道府県の2026年度当初予算の観光予算額について、観光担当部課を対象にアンケート調査を実施した。国内旅行振興やインバウンド誘客、観光地域づくりなどに、都道府県がどのような予算を付けているかを聞い [&#8230;] The post 【データ】2026年度47都道府県観光予算アンケート調査（奈良県） first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2607100800kks/",
+        "importance": 3,
+        "published": "2026-07-09T23:00:43+00:00"
+      },
+      {
+        "title": "シャングリ・ラ 東京のメロンかき氷 今年はマスコット「シャングリ・ラ ベア」をモチーフに登場",
+        "tag": null,
+        "summary": "シャングリ・ラ 東京は7月1日、東京・丸の内の同ホテル28階にあるラウンジ&#38;バー「ザ・ロビーラウンジ」で、夏季限定の「メロンかき氷」の提供を始めた。9月30日まで。料金は6,050円（税込・サービス料15%別） [&#8230;] The post シャングリ・ラ 東京のメロンかき氷 今年はマスコット「シャングリ・ラ ベア」をモチーフに登場 first appeared on 観光経済新聞",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2607100745kks/",
+        "importance": 3,
+        "published": "2026-07-09T22:45:36+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
+        "tag": null,
+        "summary": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
+        "source": "ITmedia AI+",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+        "importance": 3,
+        "published": "2026-07-09T22:45:00+00:00"
+      },
+      {
+        "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
+        "tag": null,
+        "summary": "Metaは、AIモデル「Muse Spark 1.1」を発表した。初代モデルを強化したマルチモーダル推論モデルで、ツール操作や複雑なコーディングなどのエージェント能力が向上している。新設の「Meta Model API」を通じてパブリックプレビューとして外部向けに提供され、競合モデルを下回る低価格な料金体系が特徴だ。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
+        "importance": 3,
+        "published": "2026-07-09T22:20:30+00:00"
+      },
+      {
+        "title": "寝る前の「ベッドでスマホ」は睡眠時間を延ばす？ Apple Watchが示した意外な結果 欧州チームが研究発表",
+        "tag": null,
+        "summary": "オランダのマーストリヒト大学とベルギーのアントワープ大学に所属する研究者らがPLOS Digital Healthで発表した論文「Sleep and smartphone use: Within and between-person relationships from an objective longitudinal smartphone and wearable data donation ",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/09/news090.html",
+        "importance": 3,
+        "published": "2026-07-09T22:20:00+00:00"
+      },
+      {
+        "title": "Why American ambulance rides are so expensive",
+        "tag": null,
+        "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are Comments URL: https://news.ycombinator.com/item?id=48853091 Points: 8 # Comments: 1",
+        "source": "Hacker News (Front Page)",
+        "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+        "importance": 3,
+        "published": "2026-07-09T22:15:56+00:00"
+      }
+    ]
+  }
+}
