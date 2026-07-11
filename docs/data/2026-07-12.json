@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T07:39:28.082312+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "国際情勢緊迫化、AI競争と情報課題、国内政策の行方",
+    "points": [
+      "ロシアによるウクライナ攻撃が続く中、米国がイランにホルムズ海峡開放を求める報道があり、中東地域の緊張が高まっています。これは世界のエネルギー供給に影響を及ぼす可能性があります。",
+      "AI業界ではAppleがOpenAIを提訴し競争激化と機密保持の重要性が高まる一方、AIによるホテル情報の誤提供が宿泊客の期待と現実のギャップを生むなど、情報信頼性の確保が課題となっています。",
+      "政府は「事前」重視の防災庁新設を進め災害対策を強化する一方、物価高騰対策としての消費減税を巡る議論は紛糾しており、国民生活に直結する政策の方向性が注目されます。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "防災庁、新設で何が変わる？ 「事前」重視、雑魚寝撲滅へポイント解説",
+        "tag": "防災政策",
+        "summary": "政府は、大規模災害への対応を強化するため「防災庁」の新設を進めている。新庁は「事前」の備えを重視し、避難所の環境改善（雑魚寝撲滅）など、より実効性のある防災対策を目指す。これにより、災害発生時の国民の安全確保と生活再建がより迅速かつ円滑に進むことが期待される。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV784VSCV78UTIL029M.html?ref=rss",
+        "importance": 5,
+        "published": "2026-07-11T02:00:00+00:00"
+      },
+      {
+        "title": "消費減税への異論収まらず、国民会議13日再開へ「両論併記しか…」",
+        "tag": "財政政策",
+        "summary": "政府の国民会議では消費減税を巡る議論が紛糾しており、異論が収まらない状況が続いている。13日に再開される会議では「両論併記」での取りまとめが検討されている。これは、物価高騰に苦しむ国民生活への影響と、財政健全化の必要性という二つの大きな課題の間で、政府が難しい判断を迫られていることを示唆している。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV7B3H3TV7BULFA00CM.html?ref=rss",
+        "importance": 5,
+        "published": "2026-07-11T09:00:00+00:00"
+      },
+      {
+        "title": "皇位継承問題、自民ベテラン議員の葛藤浮き彫り　「ドアが閉まって語った言葉」",
+        "tag": "皇室継承",
+        "summary": "日本の皇位継承問題について、自民党のベテラン議員の間で議論が深まっている。記事は、非公開の場で語られた言葉から、安定的な皇位継承のあり方を巡る党内の複雑な葛藤と意見の相違が浮き彫りになっていると報じている。この問題は、日本の伝統と将来の皇室のあり方を左右する重要な政治課題として、今後の国会での議論が注目される。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV793PGXV79UTFK00NM.html?ref=rss",
+        "importance": 4,
+        "published": "2026-07-11T22:00:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月12日の動き）",
+        "tag": "速報・ウクライナ",
+        "summary": "ロシアによるウクライナへの軍事侵攻が続き、7月11日には首都キーウを含む各地が弾道ミサイルなどで攻撃され、これまでに7人が死亡した。ウクライナのゼレンスキー大統領はNATO首脳会議で合意された各国からの支援加速を訴えている。この攻撃は、ウクライナが国際社会からの軍事支援を強化する中で、ロシアが戦況打開を図る狙いがあるものとみられる。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015140931000",
+        "importance": 5,
+        "published": "2026-07-11T20:56:06+00:00"
+      },
+      {
+        "title": "“イランに海峡開放宣言求める”米報道 モジタバ師は対決姿勢",
+        "tag": "中東情勢",
+        "summary": "アメリカの複数のメディアは政府高官の話として、アメリカがイランに対し、ホルムズ海峡を開放し、船舶を攻撃しないとする声明発表を求めていると報じた。これに対し、イランの最高指導者モジタバ師は報復は不可避と対決姿勢を示しており、中東地域の緊張が一段と高まっている。この対立は、世界の原油供給に大きな影響を与える可能性があり、今後の外交交渉の行方が注目される。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015174741000",
+        "importance": 5,
+        "published": "2026-07-11T20:34:26+00:00"
+      },
+      {
+        "title": "中朝の条約調印65年 祝電や会談で伝統的友好と結束を確認",
+        "tag": "東アジア情勢",
+        "summary": "中国と北朝鮮は、有事の際に軍事援助を行うことなどを定めた条約の調印から7月11日で65年を迎えた。習近平国家主席と金正恩総書記が祝電を交わし、両国の首相も会談を行うなど、伝統的な友好と結束を改めて確認した。これは、国際社会が北朝鮮の核・ミサイル開発に懸念を示す中で、中朝両国が連携を強化し、東アジアの安全保障環境に影響を与える可能性を示唆している。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015174681000",
+        "importance": 4,
+        "published": "2026-07-11T16:11:01+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "AIがホテルの誤情報を自信満々に提供、宿泊客の期待と現実のギャップが課題に",
+        "tag": "AI×ホテル",
+        "summary": "AIツールが古い情報に基づきホテルの詳細を誤って記述することで、宿泊客が誤った期待を抱いて到着し、現場スタッフがそのギャップを管理する問題が顕在化している。AIの普及が進む中で、情報源の正確性とリアルタイム更新がホテル業界にとって喫緊の課題となっており、AI利用における情報信頼性の確保が次の焦点となる。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/opinion/4133441/ai-is-confidently-wrong-about-your-hotel-and-the-guest-arrives-believing-it",
+        "importance": 5,
+        "published": "2026-07-10T19:00:55+00:00"
+      },
+      {
+        "title": "Radisson Hotel Group、インドで大規模展開を加速　2030年までに500ホテル目標",
+        "tag": "国際ホテル戦略",
+        "summary": "Radisson Hotel Groupは、2026年上半期にインドで22ホテルを新規契約・開業し、同国での運営ホテル数を142に拡大した。同社は2030年までにインドで500ホテル体制を目指すとしており、アジア太平洋地域における成長戦略の重要な柱としてインド市場を重視する姿勢が鮮明となった。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/news/4133440/radisson-hotel-group-leverages-its-strong-owner-confidence-to-accelerate-global-growth",
+        "importance": 4,
+        "published": "2026-07-10T18:53:23+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張",
+        "tag": "Apple,OpenAI",
+        "summary": "Appleは、元従業員2人とOpenAIおよびその傘下企業を、iPhoneなどの開発に関する営業秘密を不正に取得したとして提訴した。OpenAIがハードウェア参入を進める中で、面接での機密情報の聞き出しや組織的な引き抜きがあったと主張しており、AI開発における企業間の競争と機密保持の重要性が浮き彫りになる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
+        "importance": 5,
+        "published": "2026-07-10T23:12:00+00:00"
+      },
+      {
+        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+        "tag": "半導体市場,AIインフラ",
+        "summary": "NVIDIA、CoreWeave、Nebiusといった企業が、GPUブームを支える資金調達において循環的な関係を構築していることが明らかになった。これは、AIインフラへの巨額投資がどのように行われ、特定の企業が市場を支配する構造を形成しているかを示しており、今後のAI産業の成長と競争環境に大きな影響を与える可能性がある。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "importance": 5,
+        "published": "2026-07-11T17:21:49+00:00"
+      },
+      {
+        "title": "China recovered its first reusable rocket and showed a new way to do it",
+        "tag": "宇宙開発,中国",
+        "summary": "中国が初の再利用可能ロケットの回収に成功し、SpaceXとは異なる新たな回収方法を示した。これは、中国の宇宙開発技術が急速に進展していることを示しており、国際的な宇宙産業における競争が激化し、将来の宇宙輸送コストやアクセスに大きな影響を与える可能性がある。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+        "importance": 4,
+        "published": "2026-07-10T21:41:43+00:00"
+      }
+    ]
+  }
+}
