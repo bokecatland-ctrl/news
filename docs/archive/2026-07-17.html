@@ -5,18 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-<title>Daily News - 最新ダイジェスト</title>
-<link rel="stylesheet" href="assets/style.css">
-<link rel="manifest" href="manifest.json">
-<link rel="icon" href="icon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="icon.svg">
+<title>Daily News 2026-07-17</title>
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="manifest" href="../manifest.json">
+<link rel="icon" href="../icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../icon.svg">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Daily News">
 <script>
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
-      navigator.serviceWorker.register('service-worker.js').catch(() => {});
+      navigator.serviceWorker.register('../service-worker.js').catch(() => {});
     });
   }
 </script>
@@ -25,11 +25,12 @@
 <header class="site-header">
   <div class="header-inner">
     <h1 class="site-title">
-      <a href="./">📰 Daily News</a>
+      <a href="../">📰 Daily News</a>
     </h1>
     <p class="date-line">2026-07-17 (金) 更新: 07:51 JST</p>
     <nav class="header-nav">
-      <a href="archive/">アーカイブ</a>
+        <a href="../">最新</a>
+      <a href="../archive/">アーカイブ</a>
     </nav>
   </div>
   <nav class="category-tabs">
