@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T10:29:34.047255+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "AI競争激化と経済の不確実性",
+    "points": [
+      "AI技術の進化とそれに伴う大手テック企業の動きが活発化しており、AIチップ開発や自社ハードウェア設計への垂直統合の動きが加速しています。",
+      "米国が中国の半導体材料に関税を課すなど、米中間の技術覇権争いが激化し、サプライチェーンの再編と経済安全保障への動きが加速しています。",
+      "政府・日銀が過去最大の円買い介入を実施した一方で、国内の実質消費支出は7ヶ月連続で減少。物価高騰と消費低迷が続く中、若年層のキャリア選択にもAIの影響が表れています。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "4月30日の市場介入 6.2兆円 円買いとして1日あたりで過去最大",
+        "tag": "為替介入・金融政策",
+        "summary": "財務省の発表によると、政府・日銀が4月30日に実施した市場介入で投じた資金は6兆2787億円に上り、円買いドル売りの介入としては1日あたりで過去最大を記録しました。この大規模介入は、急激な円安進行に対する当局の強い警戒感を示しており、今後の為替市場の動向と政府・日銀の追加対応が焦点となります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015198801000",
+        "importance": 5,
+        "published": "2026-08-07T00:07:48+00:00"
+      },
+      {
+        "title": "6月 実質消費支出 7か月連続減少 家計調査",
+        "tag": "消費動向・マクロ経済",
+        "summary": "総務省が発表した6月の家計調査によると、2人以上の世帯の実質消費支出は前年同月比3.3%減の29万886円となり、7か月連続の減少を記録しました。物価高騰が続く中で消費者の購買意欲が低迷している現状が浮き彫りとなり、景気回復の足取りの重さが改めて示されました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015198791000",
+        "importance": 4,
+        "published": "2026-08-06T23:50:10+00:00"
+      },
+      {
+        "title": "“現場職への転職”に20代の約半数が関心 背景にAIへの危機感",
+        "tag": "労働市場・AI影響",
+        "summary": "就職情報会社の調査で、20代の転職希望者の約半数が物流や建設などの「現場職」への転職に関心を持っていることが判明しました。この背景には、AIによるデスクワークの代替への危機感があり、若年層のキャリア選択においてAIが重要な影響を与え始めていることを示唆しています。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015198141000",
+        "importance": 4,
+        "published": "2026-08-06T13:34:18+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米イラン、ホルムズ海峡の暫定合意間近か　トランプ大統領「戦争は長引かない」",
+        "tag": "中東情勢、エネルギー安保",
+        "summary": "米国、イラン、オマーンがホルムズ海峡の再開に向けた一時的な合意に近づいていると報じられた。トランプ米大統領は「戦争は長く続かない」との見方を示しており、中東地域の緊張緩和と原油供給の安定化に繋がるかどうかが焦点となる。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-08-07T00:00:00+00:00"
+      },
+      {
+        "title": "米国、中国に対抗し主要半導体材料に15%関税　ポリシリコン生産独占を牽制",
+        "tag": "米中対立、半導体",
+        "summary": "トランプ米大統領は、中国が世界生産を独占する主要半導体材料ポリシリコンに対し15%の関税を課すことを発表した。この措置は中国の半導体産業への依存度を低下させ、米国のサプライチェーン安全保障を強化する狙いがあり、米中間の技術覇権争いがさらに激化する見通しだ。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-08-07T01:03:35+00:00"
+      },
+      {
+        "title": "黒海でロシア軍が小麦運搬船を攻撃、1人死亡　ウクライナ「食料安全保障への脅威」と非難",
+        "tag": "ウクライナ戦争、食料安保",
+        "summary": "ウクライナ当局は6日、黒海で小麦を運搬していた貨物船がロシア軍に攻撃され、1人が死亡したと発表した。ロシアとウクライナ双方による攻撃が激化する中、この事態は世界の食料安全保障に対する深刻な脅威であり、国際社会の対応が注目される。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015198561000",
+        "importance": 4,
+        "published": "2026-08-06T22:44:01+00:00"
+      },
+      {
+        "title": "イスラエル、レバノン南部を攻撃　ローマでの停戦協議中にもかかわらず8人負傷",
+        "tag": "中東情勢、停戦交渉",
+        "summary": "米国が仲介する7回目の停戦協議がローマで3日目を迎える中、イスラエル軍がレバノン南部のティルスを攻撃し、8人が負傷した。停戦に向けた外交努力が続く中で攻撃が再開されたことは、中東地域の和平プロセスの脆弱性を示しており、今後の交渉の行方が懸念される。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/6/israeli-attacks-wound-eight-in-lebanon-despite-rome-talks?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-08-06T19:21:33+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "Over $1 Trillion Investment in Travel & Tourism Signals a Vote of Confidence in the Sector's Future",
+        "tag": "観光投資, 経済成長",
+        "summary": "WTTCの「2025 EIR Global Trends Report」によると、旅行・観光産業への投資が1兆ドルを超え、前年比8.5%増を記録し、世界のGDPに過去最高の11.6兆ドル貢献しました。これは、同セクターの将来に対する強い信頼を示しており、持続的な成長に向けた基盤が強化されていることを意味します。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/news/4133838/over-1-trillion-investment-in-travel-tourism-signals-a-vote-of-confidence-in-the-sectors-future",
+        "importance": 5,
+        "published": "2026-08-06T10:40:57+00:00"
+      },
+      {
+        "title": "Airbnb Is Growing Faster Than Rivals as AI Speeds Up Product Releases",
+        "tag": "Airbnb, AI戦略",
+        "summary": "AirbnbのCEOブライアン・チェスキー氏によると、同社はAI活用により競合他社よりも速い成長を遂げています。AIが製品リリースを加速させ、AirbnbがAI分野でリーダーシップを発揮していることは、旅行業界におけるテクノロジー競争の激化と、AIがサービス提供や顧客体験に与える影響の大きさを浮き彫りにします。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/08/06/airbnb-is-growing-faster-than-rivals-as-ai-speeds-up-product-releases/",
+        "importance": 4,
+        "published": "2026-08-06T22:51:25+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "イーロン・マスク氏の「Terafab」、建設地決定 テキサス州グライムズ郡に168億ドル投資",
+        "tag": "半導体投資",
+        "summary": "イーロン・マスク氏率いるSpaceXとTeslaは、次世代半導体工場「Terafab」をテキサス州グライムズ郡に建設すると発表した。初期投資額は約168億ドルで、ロジック、メモリ製造からパッケージングまで一体化し、OptimusやCybercab、宇宙データセンター向けチップを生産する。これは、大手テック企業が自社AIチップの需要増大に対応するため、垂直統合を加速させる動きを明確に示している。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/",
+        "importance": 5,
+        "published": "2026-08-06T22:37:55+00:00"
+      },
+      {
+        "title": "ChatGPT、有料版は「GPT-5.6 Sol」に強化、無料版は「Luna」でテキストチャット無制限に",
+        "tag": "OpenAI戦略",
+        "summary": "OpenAIはChatGPTのデフォルトモデルを更新し、有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入、思考時間を選択できるスライダーを追加した。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think」ボタンを提供する。この変更は、有料ユーザーへの価値向上と無料ユーザー層の拡大を同時に狙い、市場での競争力を強化するOpenAIの戦略を示している。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+        "importance": 5,
+        "published": "2026-08-06T17:02:04+00:00"
+      },
+      {
+        "title": "AMDがAIチップスタートアップTaalasを買収、シリコンにモデルをエッチングし推論性能向上へ",
+        "tag": "半導体M&A",
+        "summary": "AMDはAIチップスタートアップのTaalasを買収した。この買収により、Taalasの「シリコンにモデルをエッチングする」技術を活用し、AI推論性能を大幅に向上させることを目指す。NVIDIAが先行するAI半導体市場において、AMDが独自の技術で差別化を図り、競争力を強化する戦略の一環となる。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+        "importance": 5,
+        "published": "2026-08-06T20:23:11+00:00"
+      },
+      {
+        "title": "Anthropic、自社AIモデル「Claude」向けハードウェア開発を計画",
+        "tag": "AIチップ開発",
+        "summary": "大手AI開発企業Anthropicは、自社のAIモデル「Claude」を動かすためのハードウェアを自社で設計する計画を明らかにした。これは、OpenAIと同様にNVIDIAのGPUへの依存度を低減し、AIモデルとハードウェアの最適化を通じて性能向上とコスト削減を図る動きだ。主要AI企業が垂直統合を進め、AIインフラの自律性を高めるトレンドが加速している。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+        "importance": 5,
+        "published": "2026-08-06T20:03:44+00:00"
+      }
+    ]
+  }
+}
