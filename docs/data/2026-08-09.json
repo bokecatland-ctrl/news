@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T07:20:16.013422+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "AIの安全性と国際緊張、デジタル社会の責任",
+    "points": [
+      "OpenAIが次期AIモデル「Astra」の一部開発を停止し、AIの安全性とガバナンスの重要性が改めて浮上しました。同時に、GoogleはAIを活用したホテル予約機能をテスト開始するなど、AIの社会実装が加速しています。",
+      "国内では防衛省が過去最大の8.9兆円の防衛費を概算要求する方針を固め、国際的にはイランがホルムズ海峡通航再開に米の補償を条件提示するなど、地政学的な緊張が高まっています。また、サウジアラビア、パキスタン、トルコが新たな防衛協定を締結し、中東の安全保障構造に変化の兆しが見られます。",
+      "ニューメキシコ州の裁判官がMetaに対し、若者の精神衛生問題への基金拠出を命じる画期的な判決を下しました。国内でも政府がSNS事業者に対し「なりすまし広告」詐欺対策の強化を要請するなど、デジタルプラットフォームの責任が厳しく問われています。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "防衛費、過去最大8.9兆円を概算要求へ　実際額さらに膨らむ見通し",
+        "tag": "防衛費増額",
+        "summary": "防衛省は2026年度予算の概算要求で、過去最大の8.9兆円を計上する方針を固めました。これは、中国の軍事力強化やウクライナ情勢を受け、防衛力強化の必要性が高まっていることを反映しています。今後、歳出改革の議論や他省庁との調整を経て、実際の予算額はさらに膨らむ可能性があり、財政への影響が焦点となります。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV882BW7V88UTFK006M.html?ref=rss",
+        "importance": 5,
+        "published": "2026-08-08T07:10:13+00:00"
+      },
+      {
+        "title": "長崎、きょう被爆81年　「被爆者なき時代」迫る中、核兵器廃絶と平和を希求",
+        "tag": "被爆81年",
+        "summary": "長崎に原爆が投下されてから81年となる9日、被爆地では犠牲者に祈りを捧げ、核兵器廃絶と平和への願いを新たにする式典が開催されます。被爆者の高齢化が進み「被爆者なき時代」が刻々と近づく中、核兵器をめぐる国際情勢は厳しさを増しており、被爆体験の継承と国際社会への訴えが喫緊の課題となっています。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260809de42887",
+        "importance": 5,
+        "published": "2026-08-08T20:13:00+00:00"
+      },
+      {
+        "title": "政府、SNS事業者に「なりすまし広告」詐欺対策強化を要請　広告主の本人確認など義務化へ",
+        "tag": "詐欺対策強化",
+        "summary": "SNS上で著名人の写真などを無断使用した「なりすまし広告」による詐欺被害が相次いでいることを受け、政府はSNS運営事業者に対し、広告主の本人確認強化などの対策を文書で要請しました。これにより、デジタルプラットフォームにおける消費者保護の強化が図られ、詐欺被害の抑制が期待される一方、プラットフォーム側の具体的な対応が今後の焦点となります。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015199771000",
+        "importance": 4,
+        "published": "2026-08-08T01:04:37+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "イラン、ホルムズ海峡通航再開に米の補償を条件提示　UAEタンカー攻撃で緊張高まる",
+        "tag": "ホルムズ海峡",
+        "summary": "イランのアラグチ外相は、中東のホルムズ海峡の航路合意は目前としつつも、通航再開にはアメリカからの補償が条件だと主張しました。これに先立ち、UAEはイランがADNOCタンカーを攻撃したと発表しており、交渉は停滞し、地域の緊張が高まっています。この問題は、世界のエネルギー供給と国際貿易に直接的な影響を与えるため、今後の交渉の行方が焦点となります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260809de42920",
+        "importance": 5,
+        "published": "2026-08-08T20:55:46+00:00"
+      },
+      {
+        "title": "サウジ・パキスタン・トルコが防衛協定締結、米戦略と中東秩序に影響か",
+        "tag": "地政学",
+        "summary": "サウジアラビア、パキスタン、トルコが新たな防衛協定を締結しました。一部の専門家は、この協定が中東におけるより大きな戦略的転換を加速させ、米国の地域戦略に影響を与える可能性があると指摘しています。協定は特定の敵対国を名指ししていませんが、イランとその地域ネットワークがその背景にあるとの見方もあり、中東の安全保障構造に新たな動きをもたらすか注目されます。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-08-08T21:28:12+00:00"
+      },
+      {
+        "title": "ゼレンスキー大統領、セルビア初訪問で経済連携強化へ　ロシアけん制、自由貿易協定も視野",
+        "tag": "ウクライナ外交",
+        "summary": "ウクライナのゼレンスキー大統領が、ロシアと結びつきが深いセルビアを初めて訪問し、ブチッチ大統領と会談しました。両国は経済関係の緊密化と自由貿易協定の締結を視野に入れ、ウクライナの都市復興支援や人道支援についても合意。この訪問は、ロシア側をけん制し、ウクライナの外交的孤立を防ぐ重要な動きとして注目されます。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260809de42889",
+        "importance": 4,
+        "published": "2026-08-08T22:03:00+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "Google、AIによるホテル予約機能をテスト中　「取引と顧客関係の支配」が焦点",
+        "tag": "AI×ホテル予約",
+        "summary": "GoogleがAIを活用したホテル予約機能の製品テストを開始した。これにより、ユーザーはAIを通じてホテル検索から予約までを完結できるようになる見込み。Googleが取引プロセスと顧客関係をどこまで支配するかが今後の焦点となる。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/08/07/google-confirms-hotel-agentic-booking-is-now-in-testing/",
+        "importance": 5,
+        "published": "2026-08-07T18:53:06+00:00"
+      },
+      {
+        "title": "Amadeus調査「Travel Dreams 2026」発表　AI導入、ロイヤリティ、UGCが旅行トレンドの鍵に",
+        "tag": "旅行トレンド",
+        "summary": "Amadeusが6,000人の旅行者と500のホテル経営者を対象とした「Travel Dreams 2026」調査結果を発表した。AIの導入、ロイヤリティプログラムの革新、ユーザー生成コンテンツ（UGC）が需要を牽引する主要トレンドとして浮上。ホテル業界はこれらのトレンドへの適応が重要となる。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/opinion/4133864/diving-deeper-hidden-insights-from-travel-dreams-2026",
+        "importance": 4,
+        "published": "2026-08-07T18:50:15+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
+        "tag": "AI安全性",
+        "summary": "OpenAIは、次期主力モデル「Astra」のサイバー能力が、自社の安全指針における最上位「Critical」に達している可能性を否定できないため、一部開発活動を停止したと発表した。これは、高度なAIモデルがもたらす潜在的なリスクに対するOpenAIの慎重な姿勢を示しており、AIの安全性確保とガバナンスの重要性を改めて浮き彫りにする。政府機関や外部組織との協力による検証と安全策の提供が今後の焦点となる。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459.html",
+        "importance": 5,
+        "published": "2026-08-07T22:11:46+00:00"
+      },
+      {
+        "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+        "tag": "SNS規制",
+        "summary": "ニューメキシコ州の裁判官は、Metaが「公衆妨害」を引き起こしたと認定し、若者の精神衛生問題に対処するための5億6700万ドルの基金を拠出するよう命じた。これは、SNSが社会に与える負の影響に対する大手テック企業の法的責任を問う画期的な判決であり、今後のSNS規制や企業のプラットフォーム設計に大きな影響を与える可能性がある。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+        "importance": 5,
+        "published": "2026-08-07T19:49:27+00:00"
+      },
+      {
+        "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "tag": "AI気象予測",
+        "summary": "Google DeepMindのAIモデル「WeatherNext」が、ハリケーン予測において画期的な成果を達成し、気象科学者を驚かせている。このオープンソースモデルは、低解像度の気象データでも正確な予測を可能にし、予報官に1日分の追加時間をもたらす。AIが気象予測という社会的に重要な分野で実用的な進歩を遂げたことを意味する。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "importance": 4,
+        "published": "2026-08-08T09:18:50+00:00"
+      }
+    ]
+  }
+}
