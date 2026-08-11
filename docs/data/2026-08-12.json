@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T07:33:58.921998+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "生成AI普及加速、企業倒産高水準、国際緊張続く",
+    "points": [
+      "生成AIの普及が加速し、GoogleのGeminiとOpenAIのChatGPTがそれぞれ月間アクティブユーザー数10億人を突破しました。大手テック企業間のAI競争が激化しています。",
+      "日本経済は、人件費・物価高騰による企業倒産が14年ぶりの高水準となる一方で、ソニーとTSMCが次世代画像センサーの量産で提携するなど、先端技術分野での国際連携が進んでいます。",
+      "国際情勢では、中国とインドネシア海軍が台湾東の海域で訓練を実施し地域の緊張が高まる中、ウクライナのゼレンスキー大統領はロシアが北朝鮮製ミサイルを使用したと発表しました。"
+    ],
+    "alert": {
+      "icon": "📱",
+      "text": "明日開催: Google「Made by Google」イベント　Pixel新AI機能に注目"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "ソニーとTSMC、次世代画像センサーを2029年から量産へ 「合弁会社設立で技術革新加速」",
+        "tag": "半導体戦略",
+        "summary": "ソニーの半導体グループ会社と世界最大の半導体受託生産企業である台湾のTSMCは、新たに合弁会社を設立し、2029年から次世代の画像センサーの量産を開始すると発表した。この提携は、日本の先端技術と台湾の製造能力を融合させ、AIや自動運転などで需要が高まる高性能センサー市場での主導権確立を目指すものとなる。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260811de43301",
+        "importance": 5,
+        "published": "2026-08-11T20:17:00+00:00"
+      },
+      {
+        "title": "全国企業倒産、2カ月連続1千件超 14年ぶり高水準「人件費・物価高が中小企業を直撃」",
+        "tag": "マクロ経済",
+        "summary": "全国企業倒産件数が2カ月連続で1000件を超え、14年ぶりの高水準となったことが明らかになった。人件費や物価の高騰が中小企業の経営を圧迫しており、特に資金繰りに余裕のない企業が厳しい状況に直面している。この傾向は、日本経済全体におけるコストプッシュ型インフレの影響が広範囲に及んでいることを示唆しており、政府の経済対策の強化が喫緊の課題となる。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV8C2DYBV8CULFA00CM.html?ref=rss",
+        "importance": 5,
+        "published": "2026-08-11T07:50:00+00:00"
+      },
+      {
+        "title": "奥田碩氏が死去、93歳　トヨタ自動車社長・経団連初代会長として日本経済を牽引",
+        "tag": "経済界重鎮",
+        "summary": "トヨタ自動車の社長や経団連の初代会長などを務めた奥田碩氏が今月8日に93歳で亡くなった。奥田氏はトヨタのグローバル化を推進し、経団連では財界のリーダーとして日本経済の発展に大きく貢献した人物であり、その功績は現代の日本企業経営にも大きな影響を与え続けている。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260812de43330",
+        "importance": 4,
+        "published": "2026-08-11T20:15:59+00:00"
+      },
+      {
+        "title": "衆議院議員の定数削減、与野党協議会で議論加速へ 「来月末までに結論目指す」",
+        "tag": "政治制度改革",
+        "summary": "衆議院議員の定数削減をめぐり、与野党の協議会が議論を加速させ、来月末をめどに結論を得る方針を固めた。自民・維新両党は、協議会で結論が出なければ秋の臨時国会で定数削減法案を提出する構えを見せており、日本の政治制度のあり方を問う重要な局面を迎えている。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260810de43206",
+        "importance": 4,
+        "published": "2026-08-10T21:11:19+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "シリアのアサド前大統領に死刑判決 殺人や人道に対する罪など",
+        "tag": "中東情勢",
+        "summary": "中東のシリアの裁判所は11日、長年独裁的な統治を続けたアサド前大統領に対し、殺人や人道に対する罪などで死刑判決を言い渡しました。アサド前大統領はロシアに亡命しているため、身柄の引き渡しが実現するかは不透明ですが、この判決は国際法廷における人道に対する罪の追及と、中東地域の政治的安定に大きな影響を与える可能性があります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260811de43316",
+        "importance": 5,
+        "published": "2026-08-11T21:49:20+00:00"
+      },
+      {
+        "title": "中国とインドネシアの海軍 台湾東の海域で訓練実施へ",
+        "tag": "台湾情勢",
+        "summary": "中国国防省は、中国とインドネシアの海軍が今月中旬に台湾の東の海域で航行訓練を合同で実施すると発表しました。中国には管轄権の主張を強めるねらいがあるとみられ、台湾当局は「軍事的挑発だ」と非難しており、台湾海峡および南シナ海における地政学的緊張がさらに高まる可能性があります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260812de43333",
+        "importance": 5,
+        "published": "2026-08-11T21:21:46+00:00"
+      },
+      {
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "tag": "ウクライナ情勢",
+        "summary": "ウクライナのゼレンスキー大統領は、ロシアがザポリージャへの攻撃で北朝鮮製の弾道ミサイルを使用したと述べました。この攻撃で7人が死亡しており、ロシアと北朝鮮の軍事協力がウクライナ戦争の様相を変化させ、国際的な武器拡散の懸念を一層深めるものとみられます。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-08-11T16:19:44+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "米ホテルRevPAR予測、2026年4.4%増に上方修正も「政府閉鎖なら週10億ドル損失」と業界警告",
+        "tag": "米国ホテル市場",
+        "summary": "STRとTourism Economicsは、2026年の米国ホテルRevPAR成長率予測をワールドカップ効果を背景に4.4%に上方修正しました。しかし、U.S. Travel Associationなど業界団体は、9月の政府閉鎖が週10億ドルの経済損失と600万人以上の旅行者混乱を招くと議会に警告しており、今後の政府予算交渉が市場の不確実性を高める焦点となります。ホテル経営者は、この予測と潜在的なリスクを考慮し、柔軟な経営戦略を構築することが重要です。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/editorial/4133899/us-revpar-forecast-raised-to-44-but-a-government-shutdown-could-cost-1b-a-week-hospitality-must-go-triple-on-materiality-win-the-ai-decision-layer-in-six-stages",
+        "importance": 5,
+        "published": "2026-08-11T14:43:00+00:00"
+      },
+      {
+        "title": "日本人人口1億2千万人割れ、42年ぶり「国内旅行市場の縮小」に懸念広がる",
+        "tag": "国内旅行市場",
+        "summary": "総務省の発表によると、2026年1月1日時点の国内日本人人口は1億1973万6483人となり、前年比91万6744人減で17年連続の減少、1億2千万人を下回るのは42年ぶりです。この人口減少は、国内旅行市場の長期的な縮小を招く可能性があり、ホテル業界はインバウンド需要のさらなる取り込みと、国内市場における新たな価値創造が喫緊の課題となります。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2608110800kks/",
+        "importance": 5,
+        "published": "2026-08-10T23:00:56+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "ChatGPTとGemini、月間アクティブユーザー数がそれぞれ10億人を突破　Googleは「Geminiが史上最速成長製品」と発表",
+        "tag": "AI市場拡大, Google",
+        "summary": "GoogleのAIモデル「Gemini」とOpenAIの「ChatGPT」が、それぞれ月間アクティブユーザー数10億人を突破した。Google CEOのサンダー・ピチャイ氏は、GeminiがGoogle史上最速で10億ユーザーに到達した製品であると発表。これは生成AIが急速に普及し、大手テック企業の主要サービスとして定着しつつあることを示しており、今後のAI市場のさらなる拡大と競争激化が焦点となる。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "importance": 5,
+        "published": "2026-08-11T19:41:42+00:00"
+      },
+      {
+        "title": "Google「Made by Google 2026」イベント明日開催（8/12）　Pixel 11シリーズや新AI機能発表に注目",
+        "tag": "Googleイベント, Pi",
+        "summary": "Googleは明日8月12日に「Made by Google 2026」イベントを開催し、Pixel 11シリーズのスマートフォンやその他の新デバイスを発表する予定だ。リーク情報によると、Pixel 11には新色やProモデルに内蔵ライトが搭載される可能性があり、Googleからのティーザーでは新たなAI機能の登場も示唆されている。このイベントは、GoogleがハードウェアとAIの統合をどのように進め、AppleやSamsungに対抗していくかを示す重要な場となる。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+        "importance": 5,
+        "published": "2026-08-11T17:00:00+00:00"
+      },
+      {
+        "title": "NVIDIA、新たなAIモデル「Nemotron 3.5 Lightning」と開発プラットフォーム「NeMo Switchyard」を発表",
+        "tag": "NVIDIA, AIモデル,",
+        "summary": "NVIDIAは、新たなAIモデル「Nemotron 3.5 Lightning」と、AIモデルの開発・デプロイを効率化するプラットフォーム「NeMo Switchyard」を発表した。Nemotron 3.5 Lightningは高速な推論性能を特徴とし、NeMo Switchyardは開発者が複数のAIモデルを組み合わせて利用できる柔軟性を提供する。これにより、NVIDIAはAIインフラとソフトウェアエコシステムにおけるリーダーシップをさらに強化し、多様なAIアプリケーション開発を加速させる狙いがある。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "importance": 4,
+        "published": "2026-08-11T19:35:52+00:00"
+      },
+      {
+        "title": "Apple、iPhone写真がディープフェイクではないことを証明する新機能開発か　iOS 27ベータ版に「Apple Reference Image」の記述",
+        "tag": "Apple, ディープフェイ",
+        "summary": "Appleは、iPhoneで撮影された写真がディープフェイクではないことを検証できるiOS機能を開発しているようだ。iOS 27ベータ5のコードに「Apple Reference Image」システムに関する記述が見つかり、これにより写真の撮影時に来歴メタデータを埋め込み、ユーザーが撮影元を証明できるようになる見込み。AIによる偽情報が問題視される中、Appleがプラットフォームレベルでコンテンツの信頼性確保に乗り出す動きは、業界全体のAI倫理と規制議論に大きな影響を与える可能性がある。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+        "importance": 4,
+        "published": "2026-08-11T16:19:15+00:00"
+      }
+    ]
+  }
+}
