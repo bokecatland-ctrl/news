@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T07:32:48.342805+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "中東緊迫、米物価とテック競争が焦点に",
+    "points": [
+      "中東情勢の緊迫化がホルムズ海峡の安全保障と世界のエネルギー供給に影響を与え、IEAは石油供給見通しを下方修正しました。これを受け、日本の高市首相もイラン大統領と電話会談し、航行の自由を強調しています。",
+      "米国の物価上昇率が2ヶ月連続で縮小し、FRBの早期利上げ観測がやや後退しました。この動向は、今後の世界経済と金融政策に大きな影響を与える見込みです。",
+      "Googleが新ハードウェア「Pixel 11」や「Pixel Tag」を発表し、SpaceXAIは最新AIモデル「Grok 4.6」でGPT-5.6 Sol Maxに匹敵すると主張するなど、テック大手のAI・ハードウェア競争が激化しています。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "高市首相 イラン大統領と電話会談“ホルムズ自由で安全 重要”",
+        "tag": "首相外交",
+        "summary": "高市総理大臣はイランのペゼシュキアン大統領と電話会談し、ホルムズ海峡の自由で安全な航行が追加費用なしで維持されることの重要性を強調した。日本は同海峡を利用する国際社会との対話をイランに求め、中東情勢の安定化と日本のエネルギー安全保障への影響を注視する姿勢を示した。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260812de43492",
+        "importance": 5,
+        "published": "2026-08-12T13:09:47+00:00"
+      },
+      {
+        "title": "政府、機密性の高い情報を扱う民間クラウドを導入へ 候補は米国製",
+        "tag": "政府IT政策",
+        "summary": "日本政府は、機密性の高い情報を扱うための民間クラウドサービス導入を決定し、その候補として米国製サービスを検討している。これは政府のデジタル化推進と情報セキュリティ強化を両立させる狙いがある一方、データ主権やサプライチェーンリスク管理が今後の焦点となる。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV8B3T3JV8BUTFK009M.html?ref=rss",
+        "importance": 4,
+        "published": "2026-08-12T22:00:00+00:00"
+      },
+      {
+        "title": "国旗損壊処罰法 きょう施行",
+        "tag": "制度改正",
+        "summary": "日本の国旗を著しく不快感や嫌悪感を催させる方法で公然と損壊する行為を罰する「国旗損壊処罰法」が13日に施行された。この法律は国旗保護を目的とするが、表現の自由との兼ね合いで施行後も議論が続く可能性があり、その運用が注目される。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260812de43520",
+        "importance": 4,
+        "published": "2026-08-12T20:12:33+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米物価上昇率3.4％に伸び率縮小、FRBの早期利上げ観測やや後退",
+        "tag": "金融政策",
+        "summary": "アメリカの7月の消費者物価指数は、前年同月比3.4%の上昇となり、伸び率は前の月から2か月連続で縮小しました。食品や燃料費の落ち着きが背景にあり、金融市場ではFRB（連邦準備制度理事会）による早期の利上げ観測がやや後退しています。この結果は、FRBがインフレ抑制と景気維持のバランスをどう取るか、今後の金融政策決定に大きな影響を与えるでしょう。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260812de43517",
+        "importance": 5,
+        "published": "2026-08-12T18:44:58+00:00"
+      },
+      {
+        "title": "IEA、2026年石油供給量見通しを下方修正「ホルムズ海峡再開見通せず」",
+        "tag": "エネルギー安保",
+        "summary": "国際エネルギー機関（IEA）は、ホルムズ海峡の通航再開に向けた合意が実現していないことを理由に、2026年の世界の石油供給量見通しを1日あたり1億200万バレルと、7月の見通しから下方修正しました。中東情勢の不安定化が世界のエネルギー市場に与える影響は大きく、供給リスクが原油価格の変動要因となる見通しです。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260813de43546",
+        "importance": 5,
+        "published": "2026-08-12T22:19:04+00:00"
+      },
+      {
+        "title": "イラク、米主導連合軍の9月30日撤退期限を「最終」と宣言",
+        "tag": "中東",
+        "summary": "イラク政府は、米主導の有志連合軍の撤退期限である9月30日を「最終」と宣言し、米国当局も同日までの撤退完了を認めています。この動きは、イラクの主権回復と中東地域における米軍のプレゼンスの変化を示すものであり、今後の地域の安全保障環境に大きな影響を与える可能性があります。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-08-12T19:11:03+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "米TUI、イラン戦争で利益圧迫　クルーズ船運航停止・燃料高騰が打撃に",
+        "tag": "地政学×観光",
+        "summary": "大手旅行会社TUIは、イラン戦争の影響でクルーズ船の運航停止や燃料価格の高騰に直面し、第3四半期の予約が低迷したと発表しました。地政学的な緊張が世界の旅行・観光業界に直接的な経済的打撃を与えることを示しており、今後の国際情勢の安定が業界回復の鍵となるでしょう。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
+        "importance": 5,
+        "published": "2026-08-12T17:04:21+00:00"
+      },
+      {
+        "title": "TripadvisorとAirbnb、体験型旅行で提携強化　42.5万件のツアー・アクティビティをAirbnbで提供へ",
+        "tag": "OTA戦略, AI×観光",
+        "summary": "Tripadvisor GroupとAirbnbは、Tripadvisorが持つ42.5万件以上のツアー・アクティビティをAirbnbのプラットフォームで予約可能にする提携を発表しました。これにより、Airbnbは自社での体験コンテンツ構築戦略を転換し、大手OTA間の提携が体験型旅行市場の競争環境を大きく変える可能性があります。ホテル業界は、この提携が示す体験型コンテンツの重要性とその流通チャネルの変化に注目すべきです。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/editorial/4133922/tripadvisor-and-airbnb-merge-experiences-inventory-chatgpt-ads-are-live-for-hotels-at-3-350-cpc-your-ai-edited-copy-is-now-watermarked-by-law",
+        "importance": 4,
+        "published": "2026-08-12T14:43:00+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Made by Google 2026ライブブログ: Pixel 11発表会、トレバー・ノアがホスト",
+        "tag": "Google発表会",
+        "summary": "Googleは年次イベント「Made by Google 2026」を開催し、Pixel 11シリーズなどの新ハードウェアを発表した。著名人トレバー・ノアがホストを務めるライブショー形式で、今後のGoogle製品戦略の方向性を示す重要なイベントとなる。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+        "importance": 5,
+        "published": "2026-08-12T21:30:00+00:00"
+      },
+      {
+        "title": "Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
+        "tag": "Google製品発表",
+        "summary": "Googleは紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布に取り付け、10億台超のAndroid端末で構成されるFind Hubネットワークを通じて位置を探知可能で、AppleのAirTagに対抗する製品として市場に大きな影響を与える見込みだ。日本では単品5010円、4個セット1万6940円で11月に発売される。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
+        "importance": 5,
+        "published": "2026-08-12T14:34:21+00:00"
+      },
+      {
+        "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+        "tag": "AIモデル発表",
+        "summary": "SpaceXAIは最新のAIモデル「Grok 4.6」を発表し、前世代のGrok 4.5を大幅に強化した。特にエージェント用途と対話的・視覚的な成果物作成能力を向上させ、総合指標でOpenAIの「GPT-5.6 Sol Max」に匹敵すると主張しており、AI競争の激化を示す。API料金は入力100万トークン当たり2ドルから提供開始された。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+        "importance": 5,
+        "published": "2026-08-12T21:32:01+00:00"
+      },
+      {
+        "title": "Apple iPhone 18、今年の秋の発売をスキップか　ベースモデルは来年第1四半期に延期",
+        "tag": "Apple製品発表",
+        "summary": "AppleのサプライヤーであるPegatronの幹部が、iPhone 18 Proシリーズは今秋発売されるものの、ベースモデルのiPhone 18は来年第1四半期まで延期される見通しを明らかにした。これはAppleの主要製品戦略における異例の変更であり、市場の動向に影響を与える可能性がある。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+        "importance": 5,
+        "published": "2026-08-12T19:27:47+00:00"
+      },
+      {
+        "title": "Twitch、ユーザーコンテンツのAmazon AI学習利用にオプトアウト機能を提供",
+        "tag": "Amazon AI戦略",
+        "summary": "Amazon傘下のライブストリーミングプラットフォームTwitchが、長年にわたりユーザー生成コンテンツをAmazonの生成AIモデルの学習に利用してきたことを明らかにした。ユーザーは今後、自身のコンテンツが将来のAIモデル改善に利用されることをオプトアウトできるようになったが、大手テック企業のAIデータ利用におけるプライバシーと透明性の課題が浮き彫りになった。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+        "importance": 4,
+        "published": "2026-08-12T21:00:30+00:00"
+      },
+      {
+        "title": "大規模サプライチェーン攻撃でテラバイト規模の資格情報が流出",
+        "tag": "サイバー攻撃",
+        "summary": "大規模なサプライチェーン攻撃により、AIパッケージのユーザー2,500人からテラバイト規模の資格情報がスクレイピングされ、流出した。この攻撃は広範な個人情報や企業データに影響を及ぼす可能性があり、サイバーセキュリティ対策の強化が急務となる。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+        "importance": 4,
+        "published": "2026-08-12T21:43:21+00:00"
+      }
+    ]
+  }
+}
