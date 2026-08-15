@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T07:12:16.884065+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "国際情勢緊迫化、終戦の日と外交問題、経済・技術課題",
+    "points": [
+      "トランプ氏のホルムズ海峡に関する発言が国際的な緊張を高める一方、中東・南アジアでは新たな防衛協定の動き、朝鮮半島では戦争終結への対話提案など、国際秩序の変動が加速しています。",
+      "終戦の日に戦没者追悼式が行われ平和への誓いが再確認されましたが、一部閣僚の靖国参拝を巡り韓国が抗議するなど、歴史認識を巡る外交課題が浮上しています。",
+      "円安・物価高の影響で海外旅行から国内旅行へのシフトが鮮明になる中、Macにリモートから完全制御を奪われる深刻な脆弱性が発見され、早急な対応が求められています。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
+        "tag": "終戦の日",
+        "summary": "8月15日、終戦から81年を迎えたこの日、政府主催の全国戦没者追悼式が都内で開催され、約310万人の戦没者が慰霊されました。この式典は、戦争の記憶を次世代に継承し、平和への誓いを新たにする重要な機会となります。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260814de44171",
+        "importance": 5,
+        "published": "2026-08-15T11:17:27+00:00"
+      },
+      {
+        "title": "天皇陛下、戦没者追悼式でおことば 「深い反省」 「苦難語り継ぐ」",
+        "tag": "終戦の日",
+        "summary": "天皇陛下は戦没者追悼式において、「深い反省」の念とともに、戦争の苦難を語り継ぐことの重要性を強調されました。このおことばは、平和への強い願いと、歴史から学び未来へ活かすという日本の姿勢を示すものとなります。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV8G3G9DV8GUTIL001M.html?ref=rss",
+        "importance": 5,
+        "published": "2026-08-15T08:29:32+00:00"
+      },
+      {
+        "title": "小泉防衛相が靖国参拝、韓国は呼び出して抗議 高市首相は「遥拝」",
+        "tag": "靖国参拝外交",
+        "summary": "終戦の日の15日、小泉防衛大臣ら高市内閣の4閣僚が靖国神社に参拝した一方、高市総理は参拝を見送り「遥拝」で対応しました。これに対し韓国政府は駐韓日本大使を呼び出して抗議しており、日本の外交関係に影響を与える可能性があります。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV8G2STSV8GUTFK027M.html?ref=rss",
+        "importance": 4,
+        "published": "2026-08-15T09:00:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "トランプ大統領“近くホルムズ海峡は米領と宣言”イラン側反発",
+        "tag": "米イラン情勢",
+        "summary": "米国のトランプ大統領は支持者向けの演説で、世界経済の要衝であるホルムズ海峡を「近いうちにアメリカ領だと宣言する」と一方的に主張しました。これに対しイラン側は「脅しや力の誇示には屈しない」と強く反発しており、この発言は両国間の緊張を一層高め、世界のエネルギー供給の安定性に深刻な影響を及ぼす可能性があります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260815de44241",
+        "importance": 5,
+        "published": "2026-08-15T14:54:00+00:00"
+      },
+      {
+        "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+        "tag": "地域防衛協定",
+        "summary": "トルコのエルドアン大統領はアルジャジーラに対し、最近締結されたトルコ、サウジアラビア、パキスタン間の防衛協定にエジプトが参加する可能性を示唆しました。この動きは、中東から南アジアにかけての地域における新たな軍事・政治的ブロック形成を示唆しており、地域の勢力均衡と安全保障環境に大きな変化をもたらす可能性があります。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-08-15T16:39:52+00:00"
+      },
+      {
+        "title": "South Korea proposes talks to officially end war with North",
+        "tag": "朝鮮半島和平",
+        "summary": "韓国の李在明大統領は、1953年の休戦以来凍結されている北朝鮮との戦争状態を正式に終結させるための対話の機会を提案しました。この提案が実現すれば、朝鮮半島の長年の不安定な状況に終止符が打たれ、東アジア地域の安全保障環境に歴史的な転換点をもたらす可能性があります。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-08-15T14:40:15+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "夏休み旅行、海外意欲26ポイント低下　円安・物価高が直撃し国内旅行へシフトか――ソニー銀行調査",
+        "tag": "旅行動向, 円安影響",
+        "summary": "ソニー銀行の調査によると、2026年夏休み旅行を9月末までに予定・検討している人は77%に上る一方、海外旅行を予定・検討する割合は昨年比で16ポイント低下した。円安と物価高が海外旅行意欲を直撃しており、国内旅行へのシフトが鮮明になっている。この傾向は、インバウンド回復と同時に国内観光地の需要構造にも変化をもたらす可能性があり、ホテル業界は国内旅行者のニーズを再評価する必要がある。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2608151900kks/",
+        "importance": 4,
+        "published": "2026-08-15T10:00:15+00:00"
+      },
+      {
+        "title": "免税「リファンド方式」11/1開始まで約3ヶ月　ジャパンショッピングツーリズム協会が店舗向け4ステップ解説",
+        "tag": "免税制度, インバウンド",
+        "summary": "2026年11月1日から外国人旅行者向け消費税免税制度に「リファンド方式」が導入される。ジャパンショッピングツーリズム協会は、制度移行に向けた店舗側の留意点として4つの準備ステップを解説した。この新制度は免税手続きの効率化を図るもので、インバウンド消費の利便性向上につながる一方、免税店側はシステム改修や従業員教育など、導入に向けた具体的な対応が急務となる。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20260815-160318",
+        "importance": 4,
+        "published": "2026-08-15T01:50:07+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "tag": "Mac脆弱性, 速報",
+        "summary": "Macにリモートハッカーがパスワードなしでログインし、完全な制御を奪うことが可能な深刻な脆弱性が、現在活発に悪用されていることが判明した。このスクリーン共有のバグは、Apple製品のセキュリティに対する信頼を揺るがすものであり、ユーザーは早急な対策が求められる。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+        "importance": 5,
+        "published": "2026-08-14T18:32:14+00:00"
+      },
+      {
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "tag": "AI能力, 脳科学",
+        "summary": "AIが人間をはるかに上回るワーキングメモリを持つことが指摘されており、この能力が数学などの分野でAIが人間を超える理由の一つとされている。この特性は、AIが複雑な問題を解決する際の根本的な強みであり、今後のAI開発の方向性や応用範囲を理解する上で極めて重要となる。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "importance": 4,
+        "published": "2026-08-15T18:13:02+00:00"
+      },
+      {
+        "title": "Working with AI feels more like leadership than coding",
+        "tag": "AIと仕事, 働き方",
+        "summary": "AIとの協業は、単なるコーディング作業というよりも、AIを導き、指示を与えるリーダーシップに近い感覚であるという見方が強まっている。これは、AIが人間の仕事を代替するだけでなく、仕事の性質そのものを変革し、新たなスキルセットが求められる時代が到来していることを示唆している。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "importance": 4,
+        "published": "2026-08-15T10:39:41+00:00"
+      }
+    ]
+  }
+}
