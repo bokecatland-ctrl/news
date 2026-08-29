@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T08:45:00.990611+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "福井大雨特別警報、AIと国際情勢に大きな動き",
+    "points": [
+      "福井県に大雨特別警報が発令され、福井・大野・勝山市に緊急安全確保が出された。記録的な大雨により河川氾濫や浸水が相次ぎ、厳重な警戒が続いている。",
+      "トランプ米大統領が、米国がベネネズエラ石油資源の過半数の支配権を確保した「歴史的」合意を称賛した。これは米国のエネルギー安全保障戦略に大きな影響を与える可能性がある。",
+      "AI業界では、Anthropicが大手音楽レーベルから著作権侵害で提訴されたほか、OpenAIがSpaceXによる買収を理由にCursorへのモデル提供を終了すると発表した。これらはAIの著作権問題と企業間の競争激化を示唆している。"
+    ],
+    "alert": {
+      "icon": "🌀",
+      "text": "福井県に大雨特別警報発令、3市に緊急安全確保"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "福井県に大雨特別警報、福井・大野・勝山市にレベル5「緊急安全確保」発令【速報】",
+        "tag": "速報・大雨警報",
+        "summary": "前線と湿った空気の影響で福井県では記録的な大雨となり、福井市、大野市、勝山市の3市にレベル5大雨特別警報が発表された。気象庁と国土交通省は合同会見で「少しでも命が助かる可能性の高い行動を」と呼びかけ、大野市は全域の2万8904人に緊急安全確保を拡大した。河川の氾濫や道路冠水、住宅浸水が相次いでおり、引き続き厳重な警戒が必要となる。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260830de47200",
+        "importance": 5,
+        "published": "2026-08-29T23:39:50+00:00"
+      },
+      {
+        "title": "ホンダと日産、次世代車「SDV」の基本ソフト共同開発で合意へ　2029年実用化目指す",
+        "tag": "自動車・SDV",
+        "summary": "ホンダと日産自動車は、ソフトウエアの更新で性能をアップデートできる次世代車「SDV（Software Defined Vehicle）」の基本ソフト（OS）共同開発などで近く合意する見通し。巨額の開発費負担を軽減し、2029年の実用化を目指すことで、自動車業界におけるソフトウェア化の進展と日本メーカーの競争力強化が焦点となる。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260829de47171",
+        "importance": 4,
+        "published": "2026-08-29T17:33:50+00:00"
+      },
+      {
+        "title": "日米外務次官協議、中国・北朝鮮対応で緊密連携を確認　インド太平洋情勢巡り",
+        "tag": "日米外交",
+        "summary": "外務省の船越事務次官はアメリカのランドー国務副長官と次官協議を行い、中国や北朝鮮への対応をはじめとするインド太平洋情勢をめぐり緊密に連携していくことを確認した。地域の安定に向けた日米同盟の重要性を再確認した形であり、今後の具体的な連携強化策が注目される。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260829de47153",
+        "importance": 4,
+        "published": "2026-08-29T04:43:54+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "tag": "米国ベネズエラ石油",
+        "summary": "トランプ米大統領は、米国が南米ベネズエラの石油資源の過半数の支配権を確保したことを「歴史的」と称賛した。この異例の合意は、イランへの軍事作戦後のガソリン価格高騰に対応し、大幅な価格引き下げを目指すものとされている。この動きは、米国のエネルギー安全保障戦略と中南米への影響力に大きな変化をもたらす可能性がある。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-08-29T22:40:51+00:00"
+      },
+      {
+        "title": "Ukrainian nuclear power plant without external power for over a week",
+        "tag": "ウクライナ原発",
+        "summary": "ウクライナのザポリージャ原子力発電所が1週間以上にわたり外部電源を喪失し、非常用ディーゼル発電機に依存している。ロシアによるウクライナ侵攻以来、同原発が外部電源を失うのは27回目となる。この状況は、核施設の安全保障に対する国際的な懸念を一層高め、紛争地域における原子力発電所の脆弱性を浮き彫りにしている。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-08-29T23:25:07+00:00"
+      },
+      {
+        "title": "Voting closes in Iceland’s knife-edge EU referendum",
+        "tag": "アイスランドEU",
+        "summary": "アイスランドでEU加盟交渉再開の是非を問う国民投票が締め切られた。同国の指導部は国民の決定を尊重すると表明しており、結果次第で欧州連合の拡大戦略に影響を与える可能性がある。北大西洋の戦略的要衝であるアイスランドのEUへの接近は、欧州の地政学的バランスに新たな要素を加えることになる。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-08-29T23:33:03+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "観光庁の概算要求2027、過去最大規模の約1900億円　国内・アウトバウンドは2.44倍",
+        "tag": "観光政策",
+        "summary": "国土交通省は令和9年度（2027年度）の観光庁関係予算の概算要求を過去最大規模の約1900億円と発表しました。特に国内・アウトバウンド関連予算は前年比2.44倍に増加しており、政府の観光立国推進への強い意志が示されています。この巨額予算は、今後の観光インフラ整備やプロモーション活動を加速させ、持続可能な観光産業の成長を後押しする重要な基盤となるでしょう。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20260828-160418",
+        "importance": 5,
+        "published": "2026-08-29T00:53:10+00:00"
+      },
+      {
+        "title": "JAL、国際線燃油サーチャージを大幅引き下げ 9～10月発券分はゾーンOに　政府の激変緩和措置も反映",
+        "tag": "国際線運賃",
+        "summary": "日本航空（JAL）と日本トランスオーシャン航空（JTA）は、2026年9月から10月に発券される国際線航空券の燃油サーチャージを、現行のゾーンPからゾーンOへ大幅に引き下げる改定を申請しました。政府の激変緩和措置も反映されており、国際線利用者の旅行費用が軽減されることで、インバウンド・アウトバウンド双方の国際旅行需要回復をさらに後押しする見通しです。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2608300830kks/",
+        "importance": 4,
+        "published": "2026-08-29T23:30:34+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+        "tag": "AI業界動向",
+        "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供を11月12日に終了すると発表した。これはSpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないためとしている。この動きは、大手AI企業間の競争と、AIモデルの利用における契約順守の重要性を浮き彫りにする。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+        "importance": 5,
+        "published": "2026-08-29T23:12:23+00:00"
+      },
+      {
+        "title": "Sony Music and Warner Chappell are suing Anthropic",
+        "tag": "AI著作権",
+        "summary": "Sony MusicとWarner Chappellが、大手AI企業Anthropicを著作権侵害で提訴した。数万点に及ぶ著作物の無断利用に対し、1作品あたり最大15万ドル、著作権データ削除には2.5万ドルの損害賠償を求めている。この訴訟は、生成AIの学習データにおける著作権問題が、AI業界の今後の成長と規制の焦点となることを示唆している。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "importance": 5,
+        "published": "2026-08-29T18:19:53+00:00"
+      },
+      {
+        "title": "Google further buries search results under AI mode",
+        "tag": "Google検索AI",
+        "summary": "Googleは、検索結果ページ上部でAIによる要約「AI Overview」を自動展開する機能を一部の検索で導入した。これにより、従来のリンク一覧はページ下部に押しやられる形となる。この変更は、GoogleがAIを検索体験の中心に据える戦略を加速させていることを示しており、情報発見のあり方やウェブサイトへのトラフィックに大きな影響を与える可能性がある。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "importance": 4,
+        "published": "2026-08-28T22:48:11+00:00"
+      }
+    ]
+  }
+}
