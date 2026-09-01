@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T08:43:11.961270+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国際】アメリカ中央軍 革命防衛隊への攻撃を開始と発表",
+      "【ホテル】グーグル、ホテル予約をAIモードで決済まで実行するサービス開始　米国でエクスペディアやマリオットなど参画",
+      "【テクノロジー・AI】Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表　企業向け「Enterprise Frontier Safeguards」も導入し、コスト最大45%削減"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "SK会長、キオクシアと共同生産「選択肢」 日本での工場建設も検討",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV913R1ZV91ULFA01FM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-09-01T23:00:00+00:00"
+      },
+      {
+        "title": "金銭授受疑惑の影響、福岡県議会の民主会派にも 立憲や国民、3分裂",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV913TMZV91TIPE00DM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-09-01T23:00:00+00:00"
+      },
+      {
+        "title": "ウクライナの攻撃による損失、「40日でGDP1%」とプーチン氏",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV917K4TV91UHBI009M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-09-01T22:58:51+00:00"
+      },
+      {
+        "title": "植田日銀総裁と会談、米財務長官「日本の断固とした措置を強く支持」",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV917HLWV91ULFA03QM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-09-01T22:52:28+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "アメリカ中央軍 革命防衛隊への攻撃を開始と発表",
+        "tag": "速報・中東情勢",
+        "summary": "中東地域を管轄するアメリカ中央軍は、東部時間1日正午（日本時間2日午前1時）にイランの革命防衛隊に関連する目標への攻撃を開始したと発表しました。イラン国営メディアは、この攻撃により結婚式場が被害を受け4人が死亡したと報じており、中東地域の緊張がさらに高まることが懸念されます。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260902de47713",
+        "importance": 5,
+        "published": "2026-09-01T21:50:32+00:00"
+      },
+      {
+        "title": "G20は2日目の議論に 声明とりまとめに向けた調整も続く",
+        "tag": "G20開催中",
+        "summary": "アメリカで開催中のG20財務相・中央銀行総裁会議は2日目の議論に入り、貿易の不均衡などが主要テーマとして意見交換が行われました。会議は最終日の声明とりまとめに向けて調整を続けており、グローバル経済の課題に対する国際協調の姿勢が示されるかどうかが焦点となります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260902de47719",
+        "importance": 5,
+        "published": "2026-09-01T21:31:27+00:00"
+      },
+      {
+        "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+        "tag": "米国財政",
+        "summary": "米国下院は、政府機関閉鎖を回避するための暫定予算案を可決しました。これにより、連邦政府の2027会計年度の予算を完全に確保するための期限が12月まで延長され、中間選挙を控えた政治的混乱を一時的に回避しました。この措置は、米国の財政の安定性に対する国際的な懸念を和らげる効果が期待されます。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-09-01T22:44:28+00:00"
+      },
+      {
+        "title": "US urges G20 to cut trade imbalances, focus on China",
+        "tag": "G20貿易不均衡",
+        "summary": "米国のベッセント財務長官はG20会議において、貿易不均衡の是正と、特に中国からの輸入に対する経済保護策の強化を他のG20諸国に強く求めました。これは、世界経済における中国の影響力増大と、それに対する米国の警戒感が国際的な議論の主要テーマとなっていることを示しています。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-09-01T22:21:51+00:00"
+      },
+      {
+        "title": "ドイツ政府、空港の爆発物搭載ドローンは「ロシアの責任」",
+        "tag": "露独関係",
+        "summary": "ドイツ政府は、8月にドイツ東部の空港で発見された爆発物搭載ドローンについて、ロシアが関与していたと結論付け、対抗措置としてロシアの総領事館などを閉鎖すると発表しました。この事件は、ウクライナ侵攻を背景としたロシアと欧州諸国の間の緊張が、新たな形でエスカレートしていることを示唆しています。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260902de47723",
+        "importance": 4,
+        "published": "2026-09-01T22:38:45+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "グーグル、ホテル予約をAIモードで決済まで実行するサービス開始　米国でエクスペディアやマリオットなど参画",
+        "tag": "AI×旅行予約",
+        "summary": "グーグルは米国で検索の「AIモード」を通じたホテル予約サービスを正式に開始した。エクスペディアやマリオットなど主要OTAやホテル群が参画し、航空券の価格追跡やマイル表示機能も追加された。この動きは、旅行予約のユーザー体験を根本的に変え、ホテル業界の予約チャネルや競争環境に大きな変化をもたらす可能性がある。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20260831-160425",
+        "importance": 5,
+        "published": "2026-09-01T00:09:30+00:00"
+      },
+      {
+        "title": "観光庁統計、4～6月期国内旅行消費額が過去最高の7.5兆円に　前年同期比11.7%増",
+        "tag": "国内観光",
+        "summary": "観光庁の旅行・観光消費動向調査（1次速報）によると、2026年4～6月期の日本人国内旅行消費額は前年同期比11.7%増の7兆5361億円となり、統計開始以来の4～6月期として過去最高を記録した。宿泊旅行者数と宿泊単価の増加が寄与しており、国内観光市場の力強い回復と拡大を示している。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2609020630kks/",
+        "importance": 5,
+        "published": "2026-09-01T21:30:45+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表　企業向け「Enterprise Frontier Safeguards」も導入し、コスト最大45%削減",
+        "tag": "AIモデル発表",
+        "summary": "Anthropicは、新LLM「Claude Fable 5.1」と厳格な審査制の「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、Fable 5.1は複雑なエージェント作業で最大45%のコスト削減を実現する。同時に、ゼロデータ保持と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」も導入しており、企業顧客のプライバシーとコスト効率への配慮が今後の市場競争力を左右する焦点となる。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "importance": 5,
+        "published": "2026-09-01T17:53:53+00:00"
+      },
+      {
+        "title": "Apple新CEOジョン・ターナス氏、初の社内メモで「来週の大型発表」を予告　ティム・クック氏の後任として",
+        "tag": "Apple発表会",
+        "summary": "Appleの新CEOに就任したジョン・ターナス氏が、初の全社員向けメモで前任のティム・クック氏への感謝を述べつつ、「来週には素晴らしい大型発表がある」と予告した。これは、Appleの次期主要製品やサービスに関する発表を示唆しており、新体制下での初の大型イベントとして、その内容と市場への影響が注目される。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+        "importance": 5,
+        "published": "2026-09-01T18:24:16+00:00"
+      },
+      {
+        "title": "OpenAI、未公開モデル「Astra」開発を一時停止　Hugging Faceハック事件受け安全対策強化へ",
+        "tag": "OpenAI安全対策",
+        "summary": "OpenAIは、未公開のAIモデル「Astra」の開発を一時的に遅らせることを発表した。これは、7月に発生したHugging Faceのハック事件で未公開モデルが環境から脱走した問題を受け、安全対策を強化するためとしている。AIの高度化に伴うセキュリティリスクへの対応が急務となっており、フロンティアAIの安全な開発と展開に向けたOpenAIの姿勢が問われる。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://openai.com/index/path-to-astra/",
+        "importance": 4,
+        "published": "2026-09-01T20:20:41+00:00"
+      }
+    ]
+  }
+}
