@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T09:00:10.444819+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】高市首相きょう内閣改造 政権の骨格維持、維新は中司氏初入閣へ",
+      "【国際】米FRB、3年ぶり0.25%利上げ決定　「インフレ高止まり」で金融引き締めへ",
+      "【ホテル】2026年8月訪日客数9.6％減の309万人、中国市場の低迷や台風による欠航も14市場で8月の過去最高"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "高市首相きょう内閣改造 政権の骨格維持、維新は中司氏初入閣へ",
+        "tag": "内閣改造、本日開幕",
+        "summary": "高市総理大臣は17日に内閣改造を行い、木原官房長官、片山財務大臣、茂木外務大臣、小泉防衛大臣を留任させる意向を固め、政権の骨格を維持する方針。日本維新の会から中司氏が初入閣する見通しで、今後の政権運営と与野党関係が焦点となる。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260917de50695",
+        "importance": 5,
+        "published": "2026-09-16T22:05:36+00:00"
+      },
+      {
+        "title": "日銀 きょうから金融政策決定会合、利上げを最終判断へ「政策金利1.25％程度に引き上げ」",
+        "tag": "金融政策、本日開幕",
+        "summary": "日本銀行は17日から金融政策決定会合を開催し、政策金利を1.25％程度に引き上げる利上げを最終判断する見通し。物価の大幅な上昇リスクへの警戒から利上げペースを速める形となり、今後の国内景気や為替市場に大きな影響を与えることが予想される。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260917de50713",
+        "importance": 5,
+        "published": "2026-09-16T20:29:47+00:00"
+      },
+      {
+        "title": "アルツハイマー病治療薬「レカネマブ」皮下注射型が正式承認「患者の通院負担大幅軽減へ」",
+        "tag": "医療技術、新薬承認",
+        "summary": "厚生労働省は16日、アルツハイマー病治療薬「レカネマブ」の皮下注射型を正式に承認した。これにより、現在の点滴投与から自宅での自己投与が可能となり、患者の通院負担が大幅に軽減される見込み。今後のアルツハイマー病治療の選択肢を広げ、患者のQOL向上に大きく貢献する。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260917de50703",
+        "importance": 5,
+        "published": "2026-09-16T18:28:21+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米FRB、3年ぶり0.25%利上げ決定　「インフレ高止まり」で金融引き締めへ",
+        "tag": "金融政策",
+        "summary": "米連邦準備制度理事会（FRB）は金融政策会合で、2023年7月以来3年2か月ぶりとなる0.25％の利上げを全会一致で決定した。ウォーシュ議長はインフレ率が高すぎると指摘しており、この決定は世界経済の金融引き締めサイクルへの転換点となり、今後の市場動向が注目される。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-09-16T23:03:37+00:00"
+      },
+      {
+        "title": "国連事務総長、AI開発競争に国際規制を訴え　「冷戦期の核開発に匹敵する大惨事回避へ」",
+        "tag": "AI×規制",
+        "summary": "国連のグテーレス事務総長は、AI開発競争を冷戦期の核開発になぞらえ、世界規模の大惨事を避けるためには国際的な規制が必要だと訴えた。AIの倫理的・安全保障上のリスクに対する国際社会の懸念が高まっており、今後の国際的な枠組み構築が焦点となる。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260917de50717",
+        "importance": 5,
+        "published": "2026-09-16T21:58:07+00:00"
+      },
+      {
+        "title": "国連総会でゼレンスキー・トランプ会談調整中　「ウクライナ戦争終結に向けた解決策推進へ」",
+        "tag": "国連総会",
+        "summary": "来週の国連総会で、ウクライナのゼレンスキー大統領とトランプ大統領の会談が調整されている。トランプ氏はウクライナでの戦争終結に向けた解決策を推進しており、この会談はウクライナ紛争の今後の展開に大きな影響を与える可能性がある。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-09-16T20:05:51+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "2026年8月訪日客数9.6％減の309万人、中国市場の低迷や台風による欠航も14市場で8月の過去最高",
+        "tag": "訪日客数統計",
+        "summary": "日本政府観光局（JNTO）が発表した2026年8月の訪日外国人旅行者数（推計値）は309万8900人で、前年同月比9.6％減となった。中国市場の低迷や台風による欠航が主な要因だが、14市場では8月の過去最高を記録した。この減少は、インバウンド回復の勢いに陰りが見え始めたことを示唆しており、今後の市場戦略の見直しが焦点となる。",
+        "source": "やまとごころ (インバウンド)",
+        "url": "https://yamatogokoro.jp/inbound_data/61261/",
+        "importance": 5,
+        "published": "2026-09-16T23:00:07+00:00"
+      },
+      {
+        "title": "Accor、インド市場での買収を検討　Treebo提携終了で300ホテル目標達成へ加速",
+        "tag": "ホテル戦略",
+        "summary": "国際大手ホテルチェーンAccorは、インドのTreeboとの提携終了を受け、インド市場でのさらなる買収を検討している。同社はインドで300ホテル体制を目指しており、今回の戦略転換は、成長著しいインド市場におけるAccorのプレゼンス強化と目標達成を加速させるための重要な一手となる。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+        "importance": 4,
+        "published": "2026-09-16T03:00:00+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "tag": null,
+        "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar t",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "importance": 3,
+        "published": "2026-09-16T23:40:00+00:00"
+      },
+      {
+        "title": "I wore Snap’s $2,200 smart glasses",
+        "tag": null,
+        "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+        "importance": 3,
+        "published": "2026-09-16T23:40:00+00:00"
+      },
+      {
+        "title": "レベルファイブ、AI疑惑に回答 新「妖怪ウォッチ」の“不自然な電線”は手描き、一部は人的ミス……修正版公開へ",
+        "tag": null,
+        "summary": "「現状、ヒューマンエラーに関しても、AIの使用と誤解される状況となっており、多くの方々が不安を感じられている状況」",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001564/",
+        "importance": 3,
+        "published": "2026-09-16T23:11:09+00:00"
+      },
+      {
+        "title": "日本経済新聞、広告冊子の部数水増し 2社に数千万円過大請求",
+        "tag": null,
+        "summary": "日経新聞朝刊に折り込んで配布する広告冊子「THE NIKKEI MAGAZINE」の広告主2社に対して発行部数を実際より多く提示し、広告料金を過大請求していた。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001566/",
+        "importance": 3,
+        "published": "2026-09-16T23:08:27+00:00"
+      }
+    ]
+  }
+}
