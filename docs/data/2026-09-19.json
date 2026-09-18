@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T08:50:09.973806+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "AI規制とトランプ外交、世界経済に不確実性",
+    "points": [
+      "AIの倫理的リスクと規制の動きが加速しています。OpenAIとMicrosoftはAIがウェブに「破滅のループ」をもたらす可能性を認識し、カリフォルニア州は「キルスイッチ」義務化を含むAI規制を推進する方針です。",
+      "トランプ大統領の外交政策が国際情勢を大きく揺り動かしています。グリーンランドの安全保障に関する米国の恒久管理権合意や、イラン政策による原油価格の不確実性増大など、その影響が広範囲に及んでいます。",
+      "世界の国際観光客到着数は地政学リスクや気候変動の影響で伸び悩み、通年予測が下方修正されました。一方で、中国ではAIによるホテル予約が急増するなど、テクノロジーが市場に新たな変化をもたらしています。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "米新興AI企業 最新モデルを生命科学分野で提供 安全対策も",
+        "tag": null,
+        "summary": "アメリカのAI新興企業「アンソロピック」は17日、先端のAIモデルを生命科学分野の専門家に提供すると発表しました。安全基準や倫理面を審査する認証制度も導入するとしていて、生成AIが悪用される懸念が高ま…",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260919de51203",
+        "importance": 3,
+        "published": "2026-09-18T23:26:38+00:00"
+      },
+      {
+        "title": "“投資の神様”バフェット氏会長退任「時の流れに逆らえない」",
+        "tag": null,
+        "summary": "アメリカの著名な投資家、ウォーレン・バフェット氏が長く率いてきた投資会社、「バークシャー・ハサウェイ」の会長から退くことになりました。バフェット氏を中心におよそ60年にわたり続いてきた経営体制に幕が下…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260919de51202",
+        "importance": 3,
+        "published": "2026-09-18T23:23:09+00:00"
+      },
+      {
+        "title": "トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」",
+        "tag": null,
+        "summary": "アメリカのトランプ大統領は18日、SNSへの投稿で、デンマークの自治領、グリーンランドの安全保障をめぐり、デンマークとグリーンランドとの間でアメリカに恒久的な管理権を与える合意に達したと投稿しました。…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260919de51190",
+        "importance": 3,
+        "published": "2026-09-18T23:17:19+00:00"
+      },
+      {
+        "title": "「ソーリャ」迫力満点のやりまわし、大阪・岸和田でだんじり祭始まる",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASV9L7HT8V9LOXIE02HM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-09-18T23:00:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」",
+        "tag": "地政学, 北極圏",
+        "summary": "アメリカのトランプ大統領は18日、SNSで、デンマークの自治領グリーンランドの安全保障に関して、アメリカに恒久的な管理権を与える合意に達したと発表した。これは、北極圏の戦略的価値が高まる中で、アメリカがこの地域での影響力を強化する動きであり、今後の国際的なパワーバランスに影響を与える可能性がある。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260919de51190",
+        "importance": 5,
+        "published": "2026-09-18T23:17:19+00:00"
+      },
+      {
+        "title": "JPモルガン、原油価格予測に苦慮「トランプ氏の対イラン政策で不確実性増大」",
+        "tag": "エネルギー安保, 中東, 金",
+        "summary": "JPモルガンは、トランプ大統領のイランに対する強硬な政策により、原油価格の予測が極めて困難になっていると表明した。同行は、原油価格が1バレル100ドルに達するような経済的なレッドラインを米国が越えることはないと「仮定」しているものの、中東情勢の緊迫化が世界のエネルギー市場と経済に与える不確実性が高まっていることを示唆している。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-09-18T17:57:30+00:00"
+      },
+      {
+        "title": "高市首相、国連総会でトランプ大統領と会談調整　対中認識すり合わせ図る",
+        "tag": "日米外交, 国際会議, 対中",
+        "summary": "高市総理大臣は来週、ニューヨークでの国連総会に合わせてアメリカのトランプ大統領との首脳会談を最終調整している。米中首脳会談を直後に控える中、中国をめぐる認識のすり合わせを図り、日米同盟の連携を強化する狙いがある。これは、国際社会における日本の立ち位置と、アジア太平洋地域の安全保障に大きな影響を与える重要な外交機会となる。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260919de51163",
+        "importance": 4,
+        "published": "2026-09-18T20:07:07+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "世界の国際観光客到着数、2026年上半期は6.9億人で0.4％増、中東22％減、西欧は猛暑影響、通年予測を下方修正 ―UNツーリズム",
+        "tag": "国際観光統計",
+        "summary": "UN Tourismは、2026年上半期の国際観光客数が前年同期比0.4%増の6.9億人にとどまったと発表しました。中東情勢やコスト上昇、西欧の猛暑が影響し、通年の成長予測は1〜2%へ下方修正されています。これは、地政学リスクや気候変動が世界の観光市場に直接的な影響を与え、成長の鈍化が続く可能性を示唆しており、今後の国際情勢や環境変化への対応が焦点となります。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20260918-160545",
+        "importance": 5,
+        "published": "2026-09-18T02:00:12+00:00"
+      },
+      {
+        "title": "Chinese AI Booked 800% More Rooms at Spring Festival, U.S. RevPAR Streak Ends After 21 Weeks, Tech Friction Costs More Than Licensing",
+        "tag": "AI×観光予約",
+        "summary": "中国では、Huaweiなどのスマホに搭載されたAIによるホテル予約が春節期間中に800%増加しました。一方、米国では9月12日までの週でRevPAR（販売可能客室単価）が6.2%減少し、21週続いた成長が止まっています。このデータは、AIが旅行予約市場に急速な変革をもたらしている一方で、米国市場の回復ペースが鈍化していることを示しており、テクノロジーと主要市場の動向の双方に注目が必要となるでしょう。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/editorial/4134455/chinese-ai-booked-800-more-rooms-at-spring-festival-us-revpar-streak-ends-after-21-weeks-tech-friction-costs-more-than-licensing",
+        "importance": 4,
+        "published": "2026-09-18T14:35:00+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "OpenAIとMicrosoft、AI開発がウェブに「破滅のループ」を招くと認識していたことが判明",
+        "tag": "AI倫理問題",
+        "summary": "New York Timesとの訴訟で公開された未封印の法廷文書により、OpenAIとMicrosoftが自社のAIモデルがウェブに「破滅のループ」を引き起こし、データスクレイピングが「人類史上最大の労働窃盗」であると認識していたことが明らかになりました。これは大手テック企業がAI開発に伴う倫理的・法的リスクを初期段階から認識していたことを示しており、今後のAI規制や著作権訴訟の行方に大きな影響を与えるでしょう。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "importance": 5,
+        "published": "2026-09-18T21:07:24+00:00"
+      },
+      {
+        "title": "カリフォルニア州知事、AIの「キルスイッチ」義務化を推進へ　フロンティアモデル規制に焦点",
+        "tag": "AI規制強化",
+        "summary": "カリフォルニア州のギャビン・ニューサム知事が、フロンティアAIモデルに対する「キルスイッチ」の義務化を含むAI監視の強化に向けた新たな大統領令を発令しました。この命令は、AIの安全性と制御に関する専門家グループを招集し、2ヶ月以内に勧告を提出させるもので、AI開発をリードするカリフォルニア州が、AIの潜在的リスクに対する具体的な規制に踏み出す姿勢を示しています。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "importance": 5,
+        "published": "2026-09-18T17:04:51+00:00"
+      },
+      {
+        "title": "セキュリティ研究者、AnthropicのClaudeを使いOpenAIにハッキング成功",
+        "tag": "AIセキュリティ",
+        "summary": "独立系セキュリティ研究者チーム「Hacktron」が、AnthropicのClaude Opus 4.8および5を使用して72時間足らずでOpenAIの従業員アカウントにハッキングし、同社のアルゴリズムの秘密を含むGitHubリポジトリ「Monorepo」にアクセスしたと報じられました。この事例は、AIモデルが悪用されることで大手テック企業のセキュリティが脅かされる可能性を示しており、AIの安全性とサイバーセキュリティ対策の重要性が改めて浮き彫りになりました。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+        "importance": 5,
+        "published": "2026-09-18T15:30:16+00:00"
+      }
+    ]
+  }
+}
