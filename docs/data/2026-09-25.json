@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T09:10:23.097823+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】台風25号 千葉と神奈川で11人死亡3人不明、北印旛沼で堤防決壊",
+      "【ホテル】ツーリズムEXPOジャパンが開幕 「進化する旅のカタチ」を発信 出展小間数は1500小間以上に",
+      "【国際】From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "台風25号 千葉と神奈川で11人死亡3人不明、北印旛沼で堤防決壊",
+        "tag": "速報・災害",
+        "summary": "台風25号に伴う記録的な大雨により、千葉県と神奈川県で土砂災害や河川氾濫が相次ぎ、これまでに11人が死亡、3人が行方不明となっています。特に千葉県の北印旛沼周辺では堤防が決壊し広範囲で浸水被害が発生しており、被災地の復旧と今後の防災対策の強化が喫緊の課題となります。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260923de52072",
+        "importance": 5,
+        "published": "2026-09-24T11:03:37+00:00"
+      },
+      {
+        "title": "米中首脳会談終了、習主席「アメリカは『台湾独立』に反対を」と要求",
+        "tag": "米中関係",
+        "summary": "アメリカのトランプ大統領と中国の習近平国家主席が24日にホワイトハウスで会談し、習主席はトランプ大統領に「台湾独立」に反対するよう求めました。この会談は、台湾情勢の安定が日本の安全保障とサプライチェーンに直接影響するため、日本政府もその動向を注視しており、今後の米中関係の進展が日本の外交・経済政策に大きな影響を与えることが焦点となります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260924de52268",
+        "importance": 5,
+        "published": "2026-09-24T21:32:55+00:00"
+      },
+      {
+        "title": "円相場1ドル＝159円台に下落、米30年債利回り22年ぶり高水準",
+        "tag": "為替・金利",
+        "summary": "24日のニューヨーク外国為替市場で、米FRBによる追加利上げ観測の高まりを受け、円相場は一時1ドル＝159円台まで下落しました。米国の30年債利回りも22年ぶりの高水準を記録しており、この円安と米金利高は、日本の輸入物価上昇や企業の資金調達コストに影響を与えるため、日銀の金融政策判断や日本経済の先行きに大きな焦点となります。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260925de52281",
+        "importance": 5,
+        "published": "2026-09-24T20:55:07+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+        "tag": null,
+        "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-09-24T23:41:10+00:00"
+      },
+      {
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "tag": null,
+        "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-09-24T23:32:51+00:00"
+      },
+      {
+        "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+        "tag": null,
+        "summary": "President Fernandez dismisses foreign minister over his attendance at the &quot;Shield of the Americas&quot; meeting in New York.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-09-24T23:29:03+00:00"
+      },
+      {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "tag": null,
+        "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-09-24T23:17:00+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ツーリズムEXPOジャパンが開幕 「進化する旅のカタチ」を発信 出展小間数は1500小間以上に",
+        "tag": "ツーリズムEXPO",
+        "summary": "「ツーリズムEXPOジャパン2026」が9月24日、東京ビッグサイトで開幕した。2年ぶりの東京開催となる今回は「進化する旅のカタチ」をテーマに、1500小間以上の出展者が集結。観光大臣会合も開催され、日本の観光戦略の方向性を内外に示す重要な場となる。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2609250616kks/",
+        "importance": 5,
+        "published": "2026-09-24T21:16:37+00:00"
+      },
+      {
+        "title": "Accor reaches a new milestone with ALL Concierge, hospitality's first end-to-end conversational travel companion deployed at scale",
+        "tag": "Accor AI戦略",
+        "summary": "国際大手ホテルチェーンのアコーは、AIコンシェルジュ「ALL Concierge」を大規模展開すると発表した。100万件以上の試験会話で学習したAIが、WhatsAppやiMessageを含む5つのプラットフォームで11言語に対応。これはホテル業界におけるAI活用が本格的な顧客サービスの中核に組み込まれる転換点となる。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/news/4134546/accor-reaches-a-new-milestone-with-all-concierge-hospitalitys-first-end-to-end-conversational-travel-companion-deployed-at-scale",
+        "importance": 4,
+        "published": "2026-09-24T07:39:03+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+        "tag": null,
+        "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental h",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+        "importance": 3,
+        "published": "2026-09-24T23:50:55+00:00"
+      },
+      {
+        "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+        "tag": null,
+        "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+        "importance": 3,
+        "published": "2026-09-24T23:42:39+00:00"
+      },
+      {
+        "title": "GitLab Outage",
+        "tag": null,
+        "summary": "Article URL: https://status.gitlab.com/ Comments URL: https://news.ycombinator.com/item?id=49838034 Points: 32 # Comments: 10",
+        "source": "Hacker News (Front Page)",
+        "url": "https://status.gitlab.com/",
+        "importance": 3,
+        "published": "2026-09-24T23:10:44+00:00"
+      },
+      {
+        "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
+        "tag": null,
+        "summary": "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した。文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという。",
+        "source": "ITmedia AI+",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
+        "importance": 3,
+        "published": "2026-09-24T23:00:00+00:00"
+      }
+    ]
+  }
+}
