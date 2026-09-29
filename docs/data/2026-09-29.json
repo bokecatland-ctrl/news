@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T10:23:17.900076+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "スターシップ軌道到達、AI競争激化、北朝鮮核主張",
+    "points": [
+      "スペースXの次世代大型宇宙船スターシップが初の地球周回軌道投入に成功し、NASAの月探査計画「アルテミス」における月着陸船開発に大きく貢献する見通しです。",
+      "AI分野では、Anthropicが高速・低コストの新モデルを発表し競争を加速させる一方、OpenAIは安全性への懸念から最新モデルのリリースを見送るなど、開発競争と倫理・安全確保の両面で大きな動きがありました。",
+      "国際情勢では、北朝鮮が国連で核保有国としての地位を主張し、地域の安全保障に新たな緊張をもたらしています。一方で、シンガポール政府系投資会社が日本のホテルに大型投資を行うなど、日本の観光市場への海外からの関心が高まっています。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "北朝鮮外務次官 国連演説で“わが国は核保有国だ”と主張",
+        "tag": "国際情勢、核問題",
+        "summary": "北朝鮮の外務次官が国連総会で演説し、「核保有国としての地位は覆すことはできない」と述べ、核兵器保有の既成事実化を図る狙いがあるとみられます。これは日本の安全保障環境に直接的な影響を与えるため、国際社会の対応が今後の焦点となります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260929de52988",
+        "importance": 5,
+        "published": "2026-09-28T23:46:44+00:00"
+      },
+      {
+        "title": "スペースX大型宇宙船 初の地球周回軌道投入に成功",
+        "tag": "宇宙開発、科学技術",
+        "summary": "アメリカの宇宙開発企業スペースXが、NASAの国際月探査プロジェクト「アルテミス計画」で月面着陸船の開発を目指す大型宇宙船の地球周回軌道投入に初めて成功しました。この成功は、民間主導の宇宙開発における重要なマイルストーンであり、今後の月・火星探査の加速に大きく貢献すると見られます。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260929de52969",
+        "importance": 5,
+        "published": "2026-09-28T22:16:36+00:00"
+      },
+      {
+        "title": "核のごみ文献調査 茨城 常陸大宮市長が赤澤大臣と面会し判断へ",
+        "tag": "エネルギー政策、核のごみ",
+        "summary": "高レベル放射性廃棄物「核のごみ」の最終処分地選定を巡り、茨城県常陸大宮市の鈴木定幸市長が29日に赤澤経済産業大臣と面会し、国からの「文献調査」申し入れに対する判断を示す見通しです。風評被害の懸念などから住民の反発も根強く、市長の判断は今後の核のごみ処分問題の行方を左右する重要な局面となります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260928de52954",
+        "importance": 4,
+        "published": "2026-09-28T21:40:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "北朝鮮外務次官、国連演説で「核保有国としての地位は覆せない」と主張",
+        "tag": "北朝鮮核、国連",
+        "summary": "北朝鮮の外務次官が国連総会で演説し、「核保有国としての地位は覆すことはできない」と述べ、核兵器保有の既成事実化を図る姿勢を強調した。これは国際社会の非核化努力に対する明確な挑戦であり、今後の朝鮮半島情勢と国連の対応が焦点となる。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260929de52988",
+        "importance": 5,
+        "published": "2026-09-28T23:46:44+00:00"
+      },
+      {
+        "title": "SpaceX大型宇宙船スターシップ、初の地球周回軌道投入に成功　アルテミス計画の月着陸船開発に弾み",
+        "tag": "宇宙開発、アルテミス",
+        "summary": "米宇宙開発企業スペースXは、次世代大型宇宙船スターシップの初の地球周回軌道投入に成功した。これはNASAの国際月探査プロジェクト「アルテミス計画」で宇宙飛行士を月面に運ぶ着陸船の開発を目指す上で重要な節目となり、今後の宇宙開発競争を加速させる見通しだ。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260929de52969",
+        "importance": 5,
+        "published": "2026-09-28T22:16:36+00:00"
+      },
+      {
+        "title": "プーチン大統領、ウクライナ侵攻継続の支持を強調　軍の兵士定員増大統領令に署名",
+        "tag": "ウクライナ情勢、ロシア",
+        "summary": "ロシアのプーチン大統領は、先の議会下院選挙での与党圧勝を受け、ウクライナ侵攻の継続に対する国民の支持を得たと強調した。これに伴い、軍の兵士定員を増やす大統領令に署名しており、ウクライナ侵攻の長期化と軍事行動の強化が懸念される。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260929de52970",
+        "importance": 4,
+        "published": "2026-09-28T21:33:27+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "GIC、KKRから日本国内ホテル16軒を2000億円で買収　アジア太平洋地域で大型投資活発化",
+        "tag": "ホテル投資,大型M&A",
+        "summary": "シンガポール政府系投資会社GICが、KKRから日本国内のホテル16軒を約2000億円（JYP200B）で買収した。これはアジア太平洋地域のホスピタリティ市場における大規模な投資案件であり、日本の観光市場への海外からの関心の高まりと、投資マネーの流入が続いていることを示している。今後も日本のホテル不動産市場への注目は続くと見られる。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/news/4134585/hvs-asia-pacific-hospitality-newsletter-week-ending-25-september-2026",
+        "importance": 5,
+        "published": "2026-09-28T08:02:37+00:00"
+      },
+      {
+        "title": "Royal Caribbean Group and Sandals Resorts Announce Landmark Partnership to Accelerate Their Leading Vacation Experiences",
+        "tag": "大型M&A,リゾート",
+        "summary": "クルーズ業界大手のロイヤル・カリビアン・グループが、高級オールインクルーシブ・リゾートを展開するサンダルズ＆ビーチズ・リゾーツの株式50%を約30億ドルで取得すると発表した。この取引は2027年初頭に完了予定で、クルーズと陸上リゾートの融合による旅行体験の強化と、グローバルな観光市場における大手企業の事業拡大戦略を明確に示している。今後の旅行業界における複合的なバケーション体験の提供が焦点となる。",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/news/4134593/royal-caribbean-group-and-sandals-resorts-announce-landmark-partnership-to-accelerate-their-leading-vacation-experiences",
+        "importance": 5,
+        "published": "2026-09-28T11:26:25+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ ハードとモデルを一体化したオープンAIエコシステム加速へ",
+        "tag": "半導体M&A",
+        "summary": "AMDは、AI企業World Labsを約82億ドル（約1.3兆円）の株式交換で買収することで合意した。フェイフェイ・リー博士がAMDのEVP兼チーフサイエンティストに就任し、空間知能や物理AIの知見を取り込み、オープンなAIエコシステム構築を加速させる。この買収は、ハードウェアとAIモデルの統合を推進し、次世代AIインフラ競争におけるAMDの地位を強化する動きとなる。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
+        "importance": 5,
+        "published": "2026-09-29T00:38:11+00:00"
+      },
+      {
+        "title": "OpenAI、安全性懸念から最新AIモデルのリリース見送り「Astra」",
+        "tag": "OpenAI、AI安全性",
+        "summary": "OpenAIは、安全性への懸念から最新のAIモデル「Astra」のリリースを見送ることを発表した。これは、AIの倫理的開発と安全性確保に対する同社のコミットメントを示すものであり、今後のAI開発における安全性評価の重要性が改めて浮き彫りになる。",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+        "importance": 5,
+        "published": "2026-09-29T00:34:27+00:00"
+      },
+      {
+        "title": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％超高速化、タスクコスト最大3割減",
+        "tag": "Anthropic、AIモデ",
+        "summary": "Anthropicは、新モデル「Claude Sonnet 5.5」を発表し、料金を据え置きながら出力速度を30％以上高速化、タスク当たりコストを最大30％削減した。コーディング評価で大幅なスコア向上を見せ、最上位モデル級のサイバー対策を初適用。無料枠を含む全プランとAPIで即日提供され、AIモデルの性能とコスト効率の競争がさらに激化する。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
+        "importance": 5,
+        "published": "2026-09-28T21:55:33+00:00"
+      },
+      {
+        "title": "SpaceX、Starshipが軌道到達し次世代Starlinkを展開 宇宙輸送の節目に",
+        "tag": "SpaceX、宇宙開発",
+        "summary": "SpaceXのStarshipが初の軌道到達に成功し、次世代Starlink衛星の展開を開始した。これは、Starship開発における重要なマイルストーンであり、再利用可能な超大型ロケットによる宇宙輸送コストの大幅な削減と、大規模衛星コンステレーション構築の加速に繋がる。今後の月・火星ミッションへの期待が高まる。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+        "importance": 5,
+        "published": "2026-09-28T21:26:19+00:00"
+      },
+      {
+        "title": "NVIDIA、AIエージェントの安全対策基盤「Open Agent Safety Platform」発表 Anthropicなど100超が参加",
+        "tag": "NVIDIA、AI安全性",
+        "summary": "NVIDIAは、AIエージェントの暴走を防ぐための安全対策基盤「Open Agent Safety Platform」を発表した。オープンソースの隔離ソフトと監視用DPUを組み合わせ、評価環境からの自律的な「脱走」事案に対応する。AnthropicやMicrosoftを含む100以上の組織が参加しており、AIエージェントの普及に向けた業界全体の安全性確保が加速する見通しだ。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+        "importance": 4,
+        "published": "2026-09-28T23:59:11+00:00"
+      }
+    ]
+  }
+}
