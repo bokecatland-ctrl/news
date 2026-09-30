@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T09:56:20.160072+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "AIが社会変革を加速、国際情勢は緊迫化",
+    "points": [
+      "OpenAIは年次開発者会議で、常時稼働エージェント「dots」や高性能・低コストモデル「GPT-6.1 Sol」など多数の新機能を発表し、AIの自律性と社会への浸透が加速しています。米国政府もAIを「超知能」と位置づけ、国家戦略として推進する姿勢を示しました。",
+      "中東情勢の緊迫化を受け、日本は原油調達の多角化に向けた法案提出や投資を加速させる一方、国連事務総長は核リスクの増大を警告しました。欧州ではロシアによる破壊工作疑惑が浮上するなど、国際的な安全保障環境の悪化が顕著になっています。",
+      "英国首相がEU離脱の弊害を認め、EUとの関係強化に転じる方針を示し、ブレグジット後の外交政策に大きな転換点が見られます。日本では物価高騰対策として消費税減税法案が臨時国会の焦点となり、国民生活への影響が注目されます。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "原油の調達多角化に向け新法案 臨時国会に提出へ　中東情勢受けエネルギー安保強化",
+        "tag": "エネルギー安保",
+        "summary": "中東情勢によるエネルギー安定確保の課題を受け、経済産業省は原油などの調達先多角化を促す新法案を10月召集の臨時国会に提出する方針です。これにより、日本のエネルギー供給網のレジリエンス強化が図られ、国際情勢の変化に対する脆弱性の低減が期待されます。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260929de53226",
+        "importance": 5,
+        "published": "2026-09-29T19:44:00+00:00"
+      },
+      {
+        "title": "政府・与党、臨時国会で消費税減税法案成立目指す　野党は論戦の構え",
+        "tag": "財政政策",
+        "summary": "10月5日召集の臨時国会で、政府・与党は食料品の消費税減税に関する法案の成立を目指す方針ですが、野党は法案に反対や慎重な意見が根強く、激しい国会論戦が予想されます。物価高騰が続く中、国民生活への影響が大きいこの法案の行方が焦点となります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260930de53231",
+        "importance": 5,
+        "published": "2026-09-29T19:07:00+00:00"
+      },
+      {
+        "title": "三菱商事、カナダLNG生産事業に5000億円追加投資　エネルギー調達多角化を加速",
+        "tag": "エネルギー安保",
+        "summary": "三菱商事がカナダ西部での液化天然ガス（LNG）生産事業拡大に向け、約5000億円を追加投資すると発表しました。中東情勢を受けたエネルギー調達先の多角化が課題となる中、日本のエネルギー安全保障強化に貢献する動きとして注目されます。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260929de53221",
+        "importance": 4,
+        "published": "2026-09-29T16:15:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "国連で核廃絶会議 事務総長「冷戦終結後 最も危険な局面」",
+        "tag": "核廃絶, 国連, 地政学",
+        "summary": "ニューヨークの国連本部で開かれた核兵器廃絶会合で、国連のグテーレス事務総長は「冷戦終結以来、最も危険な核の局面にいる」と警告し、核保有国に対話への復帰を呼びかけました。ウクライナや中東情勢が核リスクを高める中、国際社会の核軍縮に向けた取り組みが改めて焦点となります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260930de53243",
+        "importance": 5,
+        "published": "2026-09-30T00:19:53+00:00"
+      },
+      {
+        "title": "US troops fully withdraw from Baghdad base after two decades",
+        "tag": "米軍撤退, イラク, 中東情",
+        "summary": "米軍が20年ぶりにバグダッドの基地から完全に撤退しました。これにより、イラクは自国の安全保障を単独で担うことになり、中東地域のパワーバランスと米国の関与のあり方に大きな変化をもたらす可能性があります。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-09-29T20:00:31+00:00"
+      },
+      {
+        "title": "エストニア防衛企業への放火は「破壊工作」 ロシアは関与否定",
+        "tag": "ロシア, エストニア, 安全",
+        "summary": "バルト三国のエストニア政府は、8月に国内の防衛企業で起きた放火事件をロシアによる破壊工作と断定し、ヨーロッパ各国が警戒を強めています。ロシアは関与を否定していますが、ウクライナ支援国への攻撃はNATOとロシアの関係をさらに悪化させ、欧州の安全保障環境に深刻な影響を与える可能性があります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260930de53234",
+        "importance": 5,
+        "published": "2026-09-29T19:31:00+00:00"
+      },
+      {
+        "title": "英首相「EU離脱は恩恵より弊害の方が大きかった」",
+        "tag": "EU離脱, 英国, 欧州経済",
+        "summary": "イギリスのバーナム労働党首相は党大会で、2020年のEU＝ヨーロッパ連合からの離脱について「恩恵より弊害の方が大きかった」と評価し、EUとの関係強化方針を表明しました。これはブレグジット後の英国の経済的・外交的孤立感を反映しており、今後の欧州における英国の立ち位置と経済政策に大きな転換点をもたらすでしょう。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260930de53235",
+        "importance": 5,
+        "published": "2026-09-29T19:59:12+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "HiltonのCIO、AIエージェントがOTAを「真の脅威に晒す」と発言",
+        "tag": "AI×ホテル",
+        "summary": "ヒルトンのCIOマイケル・ライディンガー氏は、AIエージェントがオンライン旅行代理店（OTA）にとって「真の脅威」となるとの見解を示した。AIエージェントも手数料を徴収する可能性はあるものの、ヒルトンは自社サイトやアプリでの予約増加に繋がると見込んでいる。この発言は、AI技術がホテルとOTAの力関係を根本的に変え、ホテルが顧客との直接的な関係を強化する機会をもたらす可能性を示唆している。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/09/29/hilton-tech-exec-says-ai-agents-put-otas-under-real-threat/",
+        "importance": 5,
+        "published": "2026-09-29T20:57:21+00:00"
+      },
+      {
+        "title": "Booking Holdings、AIアシスタント「Lola」をローンチ　Kayak共同創業者らが開発",
+        "tag": "OTA×AI",
+        "summary": "世界最大級のオンライン旅行代理店（OTA）であるBooking Holdingsは、Kayakの共同創業者らが開発した新しいAIアシスタント「Lola」を立ち上げた。Lolaは、これまでのバラバラなアプリでの旅行手配を統合し、会員制モデルと人間によるコンシェルジュサービスを組み合わせることで、一貫した旅行体験の提供を目指す。この動きは、AIが旅行予約のあり方を大きく変え、OTAが顧客体験のパーソナライズと統合を強化することで、競争優位を確立しようとしていることを示唆している。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/09/29/kayak-co-founders-launch-lola-booking-holdings-new-ai-assistant-exclusive/",
+        "importance": 5,
+        "published": "2026-09-29T13:01:20+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "OpenAIの「DevDay 2026」で発表された主なことまとめ　「dots」「GPT-6.1 Sol」「Ultrafast」など20件以上",
+        "tag": "DevDayまとめ",
+        "summary": "OpenAIは年次開発者会議「DevDay 2026」で、常時稼働エージェント「dots」、新モデル「GPT-6.1 Sol」、最大8倍高速な有料枠「Ultrafast」など20件以上の新機能を発表した。さらにCodexのクラウド実行やチーム向け協働空間「ChatGPT Space」も公開。これは、OpenAIがAIの自律性、性能、利用形態の多角的な進化を加速させていることを示しており、今後のAIエコシステム全体に大きな影響を与えるだろう。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/index.html",
+        "importance": 5,
+        "published": "2026-09-29T21:36:34+00:00"
+      },
+      {
+        "title": "OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働",
+        "tag": "AIエージェント",
+        "summary": "OpenAIは、常時稼働エージェント機能「dots」を発表した。「GPT-6 Astra」を搭載し、ユーザーが定義した目標に応じてクラウド上のコンピュータで24時間自律的に稼働すると謳われている。これは、AIが単なるツールから、自律的にタスクを遂行するエージェントへと進化する方向性を示しており、ビジネスプロセスや個人の生産性に革命をもたらす可能性を秘めている。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/index.html",
+        "importance": 5,
+        "published": "2026-09-29T18:02:40+00:00"
+      },
+      {
+        "title": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供　先代モデルからわずか1週間で公開",
+        "tag": "GPT新モデル",
+        "summary": "OpenAIは新モデル「GPT-6.1 Sol」を発表し、「GPT-6 Astra」に迫る性能を5分の1の料金で提供すると謳っている。先代モデルからわずか1週間での公開であり、これはOpenAIがAIモデルの性能向上とコスト効率化を急速に進めていることを示している。高性能AIの普及を加速させ、より多くの開発者や企業が高度なAIを利用できるようになるだろう。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/index.html",
+        "importance": 5,
+        "published": "2026-09-29T19:08:07+00:00"
+      },
+      {
+        "title": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
+        "tag": "米AI政策",
+        "summary": "トランプ米大統領はAI企業トップらとの昼食会後、政府内で「人工知能（AI）」を「超知能（SI）」と呼称変更する大統領令に署名した。主要各社は自主安全合意「White House Accord on Super Intelligence」に署名し、米連邦政府は行政窓口サイト「America.gov」の創設も発表。これは、米国政府がAIを国家戦略上「超知能」と位置づけ、その安全性と活用を強力に推進する姿勢を示すものであり、今後のAI開発と規制の方向性に大きな影響を与えるだろう。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001871/index.html",
+        "importance": 5,
+        "published": "2026-09-29T23:56:35+00:00"
+      },
+      {
+        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+        "tag": "AMD買収",
+        "summary": "AMDはAIスタートアップWorld Labsを82億ドルで買収すると発表した。この買収は年内に完了する見込み。これは、NVIDIAに対抗するAMDのAI分野での競争力を強化する戦略的な動きであり、AI半導体市場における競争がさらに激化し、業界構造に影響を与える可能性がある。",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+        "importance": 5,
+        "published": "2026-09-29T21:14:49+00:00"
+      },
+      {
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "tag": "OpenAI戦略",
+        "summary": "OpenAIのサム・アルトマンCEOは、モデルの安全性が確保されるまでIPOは行わないと表明した。具体的な時期は未定だが、AIの能力が急速に向上する中で、安全性へのコミットメントを優先する姿勢を示しており、AI開発における倫理とビジネスのバランスが今後の焦点となる。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "importance": 4,
+        "published": "2026-09-30T00:19:13+00:00"
+      }
+    ]
+  }
+}
