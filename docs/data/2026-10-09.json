@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T10:34:59.043132+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "国際情勢緊迫化、国内経済と平和賞に注目",
+    "points": [
+      "イラン国営メディアはホルムズ海峡での大規模爆発を報じ、イラン情勢が緊迫化しています。ロシアのプーチン大統領はイランへの支援を表明し、国際的な対立構造が複雑化しています。",
+      "政府は食料品の消費税率を来年4月から2年間1%に引き下げる法案を閣議決定しました。しかし、8月の家計調査では実質の消費支出が9か月連続で減少しており、物価高騰が家計を圧迫する状況が続いています。",
+      "本日、ノーベル平和賞が発表され、国際刑事裁判所（ICC）や国際司法裁判所（ICJ）の受賞に注目が集まっています。国際的な法秩序と平和構築への関心が高まっています。"
+    ],
+    "alert": {
+      "icon": "💥",
+      "text": "ホルムズ海峡で大規模爆発報道、イラン情勢が緊迫化"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "ノーベル平和賞 きょう発表　ICCやICJの受賞あるか注目集まる",
+        "tag": "速報・ノーベル賞",
+        "summary": "2026年10月9日はノーベル平和賞の発表日です。国際刑事裁判所（ICC）や国際司法裁判所（ICJ）が受賞するかどうかに注目が集まっています。国際的な法秩序の維持が問われる中、その動向は世界の平和構築に向けたメッセージとして受け止められるでしょう。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783",
+        "importance": 5,
+        "published": "2026-10-08T21:11:00+00:00"
+      },
+      {
+        "title": "政府 食料品の消費税減税関連法案を閣議決定　来年4月から2年間1%に引き下げ",
+        "tag": "財政・政策",
+        "summary": "政府は9日の閣議で、食料品の消費税率を来年4月から2年間、1％に引き下げる関連法案を決定しました。与党は野党の協力も得て、今の国会での成立を目指しており、国民の生活費負担軽減と消費喚起への効果が焦点となります。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261009de56958",
+        "importance": 5,
+        "published": "2026-10-09T00:45:53+00:00"
+      },
+      {
+        "title": "8月家計調査 実質の消費支出9か月連続減少　物価高騰が家計を圧迫",
+        "tag": "マクロ経済",
+        "summary": "総務省が発表したことし8月の家計調査によると、2人以上の世帯の消費支出は、物価変動を除いた実質で前年同月比3.1％減少しました。これにより消費支出の減少は9か月連続となり、物価高騰が続く中で家計が消費を抑制している状況が浮き彫りになっています。政府の経済対策の効果が問われることになります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261009de56954",
+        "importance": 4,
+        "published": "2026-10-08T23:46:00+00:00"
+      },
+      {
+        "title": "日本版DOGE「徹底見直し」 基金7兆円など対象に縮小・廃止検討",
+        "tag": "財政・政策",
+        "summary": "政府は、いわゆる「日本版DOGE」と呼ばれる政策について徹底的な見直しを進めており、7兆円規模の基金などを対象に縮小や廃止を検討しています。これは、財政の健全化と政策効果の最大化を目指すもので、今後の予算編成や成長戦略に大きな影響を与える可能性があります。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVB901P9VB9ULFA036M.html?ref=rss",
+        "importance": 4,
+        "published": "2026-10-09T00:32:56+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+        "tag": "速報・ホルムズ海峡",
+        "summary": "イラン国営メディアは、世界的な原油輸送の要衝であるホルムズ海峡で大規模な爆発が発生したと報じた。詳細は不明だが、イラン戦争の激化を示唆しており、国際的なエネルギー供給と地政学的な緊張に深刻な影響を与える可能性がある。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-10-09T00:00:21+00:00"
+      },
+      {
+        "title": "ノーベル平和賞 きょう発表 ICCやICJの受賞あるか注目集まる",
+        "tag": "ノーベル平和賞 本日",
+        "summary": "2026年のノーベル平和賞が本日発表される。国際刑事裁判所（ICC）や国際司法裁判所（ICJ）など、国際紛争解決や人権保護に貢献する組織の受賞に注目が集まっており、国際社会の平和と正義への関心が高まっていることを示唆する。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783",
+        "importance": 5,
+        "published": "2026-10-08T21:11:00+00:00"
+      },
+      {
+        "title": "Putin pledges Russia’s support to end US-led war on Iran",
+        "tag": "ロシア外交 中東",
+        "summary": "ロシアのプーチン大統領は、トルクメニスタンでのイラン大統領との会談で、米国主導のイラン戦争終結に向けたロシアの支援を表明した。これは、中東におけるロシアの影響力拡大と、国際的な対立構造の複雑化を浮き彫りにする動きであり、今後の国際関係の行方が注目される。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-10-08T22:30:37+00:00"
+      },
+      {
+        "title": "トランプ大統領「中間選挙前にイランを攻撃することはない」",
+        "tag": "米国外交 イラン",
+        "summary": "トランプ米大統領は、11月3日の中間選挙前にイランを攻撃する考えはないと主張し、複数のメディアが報じた攻撃再開検討の憶測を否定した。この発言は、イラン情勢における米国の短期的な軍事行動の可能性を巡る不確実性を一時的に和らげるものの、選挙後の政策転換の可能性も残しており、中東の安定に影響を与える。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261009de56929",
+        "importance": 4,
+        "published": "2026-10-08T17:49:00+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ベトナム航空、機内食を「食べない」選択肢を提供 新機能「Lotus Green Choice」開始 食品廃棄削減にも貢献",
+        "tag": null,
+        "summary": "ベトナム航空は10月2日、オンラインチェックイン時に機内食を利用しないことを選択できる新機能「Lotus Green Choice（ロータス・グリーン・チョイス）」を開始した。 お客様一人ひとりのニーズに応じたサービ [&#8230;] The post ベトナム航空、機内食を「食べない」選択肢を提供 新機能「Lotus Green Choice」開始 食品廃棄削減にも貢献 first appea",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610091030kks/",
+        "importance": 3,
+        "published": "2026-10-09T01:30:13+00:00"
+      },
+      {
+        "title": "【こだわりの宿特集 接客・施設編】兵庫県・洲本温泉 あわかん",
+        "tag": null,
+        "summary": "釣りと家族の体験に注力 あわかん（上村雄二郎社長）は、洲本温泉の海辺に建つ絶景の宿。旅先で気軽に釣りを楽しめる旅館として、釣り未経験者から釣りファンまで幅広い層に人気の宿だ。館内直結の専用釣り場は24時間利用可能。スタ [&#8230;] The post 【こだわりの宿特集 接客・施設編】兵庫県・洲本温泉 あわかん first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610091000kks/",
+        "importance": 3,
+        "published": "2026-10-09T01:00:42+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "NewsPicksユーザーの個人情報漏えいか 勤務先やカード番号下4桁も……管理ツールに不正アクセス",
+        "tag": null,
+        "summary": "漏えいした可能性がある情報は、ユーザーの氏名、勤務先、メールアドレス、住所、電話番号、クレジットカード名義、クレジットカード番号の下3ケタまたは下4ケタなど。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002153/",
+        "importance": 3,
+        "published": "2026-10-09T00:47:46+00:00"
+      },
+      {
+        "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+        "tag": null,
+        "summary": "Google Cloudは新サービス「Gemini Agent」を発表。クラウドで動作するマルチエージェントツールとされる。Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+        "importance": 3,
+        "published": "2026-10-09T00:40:57+00:00"
+      },
+      {
+        "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
+        "tag": null,
+        "summary": "流出した可能性があるのは、氏名、生年月日、性別、メールアドレス、電話番号、郵便番号・住所、パスワードのハッシュ値、ポイントカード番号、会員番号。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
+        "importance": 3,
+        "published": "2026-10-09T00:26:53+00:00"
+      },
+      {
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "tag": null,
+        "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "importance": 3,
+        "published": "2026-10-09T00:08:24+00:00"
+      }
+    ]
+  }
+}
