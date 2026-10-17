@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T09:03:50.869330+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】高市首相 靖国神社の秋の例大祭にあわせ「真榊」奉納",
+      "【国際】Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "【ホテル】【逆境をチャンスにー旅館の再生プラン 819】金利のある時代の宿経営（2） 青木康弘"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "高市首相 靖国神社の秋の例大祭にあわせ「真榊」奉納",
+        "tag": null,
+        "summary": "17日から始まった靖国神社の秋の例大祭にあわせて、高市総理大臣は「真榊」と呼ばれる鉢植えの供え物を奉納しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261017de60815",
+        "importance": 3,
+        "published": "2026-10-16T23:49:32+00:00"
+      },
+      {
+        "title": "高市首相、靖国神社に真榊 秋季例大祭、参拝見送りへ",
+        "tag": null,
+        "summary": "",
+        "source": "時事ドットコム",
+        "url": "https://www.jiji.com/jc/article?k=2026101700164&g=pol&m=rss",
+        "importance": 3,
+        "published": "2026-10-16T23:48:00+00:00"
+      },
+      {
+        "title": "アメリカの財政赤字314兆円 過去3番目 利払い費増加などで",
+        "tag": null,
+        "summary": "アメリカの先月までの1年間の財政赤字は日本円にして314兆円にのぼり、新型コロナ対策で巨額の財政支出に踏み切った2020年度と21年度に次ぐ過去3番目の大きさとなりました。 金利上昇に伴う利払い費用の…",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261017de60820",
+        "importance": 3,
+        "published": "2026-10-16T23:41:09+00:00"
+      },
+      {
+        "title": "自民の埼玉県議「ばか」発言で朝まで審議に 双方陳謝の「痛み分け」",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVBJ7K46VBJUTNB00SM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-10-16T23:30:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "tag": null,
+        "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-10-16T23:54:35+00:00"
+      },
+      {
+        "title": "アメリカの財政赤字314兆円 過去3番目 利払い費増加などで",
+        "tag": null,
+        "summary": "アメリカの先月までの1年間の財政赤字は日本円にして314兆円にのぼり、新型コロナ対策で巨額の財政支出に踏み切った2020年度と21年度に次ぐ過去3番目の大きさとなりました。 金利上昇に伴う利払い費用の…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261017de60820",
+        "importance": 3,
+        "published": "2026-10-16T23:41:09+00:00"
+      },
+      {
+        "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+        "tag": null,
+        "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-10-16T23:27:01+00:00"
+      },
+      {
+        "title": "Pope pictured for first time since surgery and cancer diagnosis",
+        "tag": null,
+        "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-10-16T23:20:37+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【逆境をチャンスにー旅館の再生プラン 819】金利のある時代の宿経営（2） 青木康弘",
+        "tag": null,
+        "summary": "前回コラムでは、借入金利が3ポイント上がれば、平均的な宿でも経常利益率は1.7％まで低下して借入金償還年数は15年を超え、現在赤字の施設は返済不能に陥ることを述べた。今回コラムでは、金利が上がった世界で金融機関の融資が [&#8230;] The post 【逆境をチャンスにー旅館の再生プラン 819】金利のある時代の宿経営（2） 青木康弘 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610170900kks/",
+        "importance": 3,
+        "published": "2026-10-17T00:00:50+00:00"
+      },
+      {
+        "title": "クラブツーリズム ごみ問題で観光誘客 訪日客へのマナー啓発も モデル3地域で伴走支援",
+        "tag": null,
+        "summary": "クラブツーリズムはこのほど、訪日観光客向けのポイ捨てマナー啓発と、ごみ問題を逆手にとった観光誘客を一体的に支援する取り組みを開始した。福島県猪苗代町、広島県廿日市市、鹿児島県喜界町の3地域で、多言語での情報発信によるポ [&#8230;] The post クラブツーリズム ごみ問題で観光誘客 訪日客へのマナー啓発も モデル3地域で伴走支援 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610170830kks/",
+        "importance": 3,
+        "published": "2026-10-16T23:30:44+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "All the news about the iPhone Duo",
+        "tag": null,
+        "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely ",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "importance": 3,
+        "published": "2026-10-16T23:36:26+00:00"
+      },
+      {
+        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+        "tag": null,
+        "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism towa",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "importance": 3,
+        "published": "2026-10-16T22:51:22+00:00"
+      },
+      {
+        "title": "Why harnesses matter for energy (and token) efficiency",
+        "tag": null,
+        "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 29 # Comments: 10",
+        "source": "Hacker News (Front Page)",
+        "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+        "importance": 3,
+        "published": "2026-10-16T21:01:23+00:00"
+      },
+      {
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "tag": null,
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "importance": 3,
+        "published": "2026-10-16T20:59:01+00:00"
+      }
+    ]
+  }
+}
