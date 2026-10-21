@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T09:14:40.419343+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【テクノロジー・AI】マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
+      "【国内】今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大",
+      "【国際】Iran war live: US warns peace deal with Tehran is extremely difficult"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大",
+        "tag": null,
+        "summary": "財務省が発表したことし4月から9月までの今年度上半期の貿易統計で、輸出から輸入を差し引いた貿易収支が2兆8184億円の赤字となりました。 昨年度の同じ時期と比べて赤字額は98.8％拡大しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261021de62600",
+        "importance": 3,
+        "published": "2026-10-21T00:03:09+00:00"
+      },
+      {
+        "title": "650億円投入の郵便局、不祥事対策でも支援要望 ヤマト「違和感」",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVBG0J2HVBGULFA009M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-10-21T00:00:00+00:00"
+      },
+      {
+        "title": "高市首相動静 2026年10月20日",
+        "tag": null,
+        "summary": "（高市首相動静 2026年10月20日） 08:51 徒歩で公邸発 08:53 官邸着 08:59 閣議（～09:05） 09:06 片山さつき財務大臣と会話（～09:07） 10:05 フィリピン…",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261021de62565",
+        "importance": 3,
+        "published": "2026-10-20T23:13:51+00:00"
+      },
+      {
+        "title": "アメリカ政府 民生部門で中国AIのディープシーク利用禁止に",
+        "tag": null,
+        "summary": "アメリカ政府は、連邦政府の民生部門が中国のAI新興企業、ディープシークの製品やサービスを利用することを禁止すると発表しました。 機微な情報が中国に送信されるリスクがあるためだとしています。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261021de62564",
+        "importance": 3,
+        "published": "2026-10-20T22:57:55+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+        "tag": null,
+        "summary": "Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-10-21T00:00:00+00:00"
+      },
+      {
+        "title": "Moment plane crashes on a busy highway in the US",
+        "tag": null,
+        "summary": "Moment plane crashes on a busy highway in the US",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-10-20T23:54:50+00:00"
+      },
+      {
+        "title": "日米豪印 クアッド首脳会合を来月マニラで開催 米国務長官",
+        "tag": null,
+        "summary": "アメリカのルビオ国務長官は、日本、アメリカ、オーストラリア、インドの4か国の枠組み＝クアッドの首脳会合が11月、フィリピンで開かれる予定だと明らかにしました。 2期目のトランプ政権が発足してから初め…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261021de62586",
+        "importance": 3,
+        "published": "2026-10-20T23:53:20+00:00"
+      },
+      {
+        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "tag": null,
+        "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-10-20T23:24:47+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "秋田県 宿泊事業者向けに経営力強化補助金申請を募集中 訪日誘客や高付加価値化、従業員の対偶改善など対象",
+        "tag": null,
+        "summary": "10月30日午後5時まで受け付け 秋田県は10月30日まで、県内の宿泊事業者を対象に「宿泊事業者経営力強化支援事業費補助金」の第4次募集を受け付けている。対象となる経費は、冬季宿泊客の増加や訪日誘客の促進などを目的とし [&#8230;] The post 秋田県 宿泊事業者向けに経営力強化補助金申請を募集中 訪日誘客や高付加価値化、従業員の対偶改善など対象 first appeared on 観",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610210900kks/",
+        "importance": 3,
+        "published": "2026-10-21T00:00:06+00:00"
+      },
+      {
+        "title": "飛騨市・ユネスコ無形文化遺産「古川祭」が日本夜景遺産に認定 提灯が彩る4月20日の「夜祭」を評価",
+        "tag": null,
+        "summary": "岐阜県飛騨市の「古川祭」が、2026年10月9日、「日本夜景遺産」の「歴史文化夜景遺産」に認定されました。夜景観光コンベンション・ビューローによる第21回「日本夜景遺産」で、全国171カ所の応募から14カ所が選ばれ、古 [&#8230;] The post 飛騨市・ユネスコ無形文化遺産「古川祭」が日本夜景遺産に認定 提灯が彩る4月20日の「夜祭」を評価 first appeared on 観光経済",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610210830mto/",
+        "importance": 3,
+        "published": "2026-10-20T23:30:27+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
+        "tag": "合併協議",
+        "summary": "イーロン・マスクCEOはSpaceXの決算説明会で、Teslaとの合併に向け両社が特別委員会を設置したことを明らかにした。統合の利点として超知能（SI）開発、半導体工場、Starlink連携を挙げたが、Tesla側で全発行済み株式の過半数賛成が必要などハードルは高い。この合併が実現すれば、両社の事業シナジーを最大化し、AIや宇宙開発における競争力を飛躍的に高める可能性がある。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002441/index.html",
+        "importance": 5,
+        "published": "2026-10-20T22:39:56+00:00"
+      },
+      {
+        "title": "SpaceX、純利益44億ドルで黒字転換 売上高161％増、AIから改称の「SI」事業が830％増",
+        "tag": "SpaceX決算",
+        "summary": "SpaceXは7〜9月期決算で、売上高が前年同期比161%増の145億ドル超となり、純利益44億ドルで黒字転換した。AI部門から改称された「SI（Super Intelligence）」事業が830%増と急成長を牽引し、全社売上の半分超を占めた。この急成長は、宇宙事業だけでなくAI分野への投資が実を結び始めていることを示しており、今後の事業拡大戦略に注目が集まる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002439/index.html",
+        "importance": 5,
+        "published": "2026-10-20T22:09:01+00:00"
+      },
+      {
+        "title": "Google’s more personalized Gemini AI is heading to your car",
+        "tag": "Gemini AI",
+        "summary": "Googleは、よりパーソナライズされたGemini AIを自動車に導入すると発表した。Android AutoやGoogle搭載車において、GeminiはGmail、カレンダー、マップなどのGoogleアプリの情報にアクセスし、フライト状況の確認など、運転中のユーザーを支援する。この展開は、GoogleがAIをエコシステム全体に深く統合し、自動車分野でのユーザー体験を革新しようとしていることを示唆している。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+        "importance": 4,
+        "published": "2026-10-20T22:11:34+00:00"
+      },
+      {
+        "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+        "tag": "Starship",
+        "summary": "SpaceXのイーロン・マスクCEOは、来月中にStarshipとそのブースターの回収を初めて試みると発表した。これが成功すれば、軌道打ち上げシステム全体を完全に回収する史上初の事例となる。この試みは、宇宙輸送コストを劇的に削減し、火星移住計画などSpaceXの長期的な目標達成に向けた重要なマイルストーンとなる。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+        "importance": 4,
+        "published": "2026-10-20T21:02:53+00:00"
+      }
+    ]
+  }
+}
