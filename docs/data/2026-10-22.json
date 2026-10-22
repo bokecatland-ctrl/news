@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T09:21:22.987514+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "台風接近、AI競争と国際和平の行方",
+    "points": [
+      "猛烈な台風30号が沖縄・先島諸島に接近しており、最大級の警戒が呼びかけられています。交通機関やインフラへの大規模な影響が懸念されます。",
+      "ロシアが米国とのウクライナ和平協議再開に合意した直後、首都キーウがミサイル攻撃を受け、和平への道のりが依然として不透明な状況です。",
+      "AI分野ではAnthropicが新モデルを発表し、Google Cloudが主要3社のモデルを扱う唯一のハイパースケーラーとなるなど競争が激化。一方でMetaには巨額の制裁金が命じられ、大手テック企業への規制強化の動きが加速しています。"
+    ],
+    "alert": {
+      "icon": "🌀",
+      "text": "猛烈な台風30号 あす先島諸島に接近、最大級の警戒を"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
+        "tag": "速報・台風",
+        "summary": "大型で猛烈な台風30号が23日から24日にかけて、沖縄県の先島諸島に接近する見込み。気象庁は一部住宅が倒壊するような猛烈な風が吹くおそれがあるとして、早めの対策を呼びかけている。住民は最大級の警戒が必要であり、交通機関やインフラへの影響が懸念される。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+        "importance": 5,
+        "published": "2026-10-21T22:06:00+00:00"
+      },
+      {
+        "title": "政府 人手不足の現場でAI活用加速 規制・制度の見直しも",
+        "tag": "AI×制度改革",
+        "summary": "政府は21日、医療・介護や建設など人手不足が深刻な現場でAI活用を加速させるための会議を開催した。今後は具体的な活用例を検討し、AI導入を妨げる規制や制度の見直しを進める方針。これは、AI技術の社会実装を国主導で推進し、日本の産業構造変革と生産性向上を目指す重要な一歩となる。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261021de63106",
+        "importance": 5,
+        "published": "2026-10-21T11:43:22+00:00"
+      },
+      {
+        "title": "消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”",
+        "tag": "消費税減税",
+        "summary": "食料品の消費税減税関連法案が23日に衆議院委員会で実質的な審議入りする。与党は丁寧な審議を経ての通過を目指す一方、野党は高市総理大臣の出席など充実した審議を求めている。国民生活に直結する重要法案であり、今後の国会審議の行方が注目される。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261022de63246",
+        "importance": 5,
+        "published": "2026-10-21T21:08:00+00:00"
+      },
+      {
+        "title": "EVなどの補助金を来年1月から減額へ",
+        "tag": "EV補助金減額",
+        "summary": "経済産業省は、EV（電気自動車）などの購入補助金について、予算残高が減少しているため、来年1月から補助額を減額すると発表した。現在の最大130万円から50万円に引き下げられる見通し。これは、EV普及政策の転換点となり、今後の国内EV市場や関連産業に大きな影響を与える可能性がある。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261021de63222",
+        "importance": 4,
+        "published": "2026-10-21T20:16:54+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "ロシア、米露ウクライナ高官協議を11月再開へ　プーチン大統領がウィトコフ特使に意向伝える",
+        "tag": "ウクライナ和平, 米露交渉",
+        "summary": "ロシアのプーチン大統領は、アメリカのウィトコフ特使との会談で、ウクライナ和平案を巡るアメリカも交えた3か国の高官協議を11月に再開する用意があると伝えました。これは、停滞していた和平交渉に新たな動きをもたらす可能性があり、今後の進展が注目されます。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261022de63271",
+        "importance": 5,
+        "published": "2026-10-21T23:52:26+00:00"
+      },
+      {
+        "title": "ロシア、和平協議再開合意直後にキーウをミサイル攻撃　交渉の行方に不透明感",
+        "tag": "ウクライナ情勢, 地政学",
+        "summary": "ロシアが米国とのウクライナ和平協議再開に「原則準備ができている」と合意した直後、ウクライナの首都キーウがミサイル攻撃を受けました。この攻撃は、和平への道のりが依然として困難で、交渉と軍事行動が同時に進行する複雑な状況を示しており、停戦実現への道のりは不透明感を増しています。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "importance": 5,
+        "published": "2026-10-21T21:27:41+00:00"
+      },
+      {
+        "title": "イラン革命防衛隊「防衛ドクトリンを攻撃型に転換」　攻撃受けた国への侵攻を明言",
+        "tag": "中東情勢, イラン",
+        "summary": "イランの革命防衛隊（IRGC）は、防衛ドクトリンを「攻撃的かつ非対称型」に転換し、自国を攻撃した国に対して侵攻すると表明しました。これは中東地域の緊張を一層高め、国際社会におけるイランの役割と行動に大きな影響を与える可能性があります。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+        "importance": 4,
+        "published": "2026-10-22T00:00:00+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "訪日外国人数、2026年9月は5％減の310万人　2カ月連続前年割れも累計3000万人突破",
+        "tag": "訪日客数",
+        "summary": "日本政府観光局（JNTO）が発表した2026年9月の訪日外国人旅行者数は310万人に留まり、前年同月比5.0％減と2カ月連続で前年を下回った。航空券高騰や台風などの影響が多くの市場で前年割れを招いたが、1〜9月の累計では3000万人を突破した。インバウンド需要の回復ペースが鈍化している可能性があり、今後の回復に向けた施策が焦点となる。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20261021-160712",
+        "importance": 5,
+        "published": "2026-10-21T08:30:58+00:00"
+      },
+      {
+        "title": "羽田・成田・那覇空港で消費税セルフ還付サービス、11月開始の新免税制度に対応",
+        "tag": "観光政策",
+        "summary": "日本空港ビルらは2026年11月より、羽田・成田・那覇空港で消費税のセルフ還付サービスを開始する。新免税制度に対応し、利用者は端末操作で約1分で消費税を現金で受け取れるようになる。これにより、訪日外国人旅行者の利便性が大幅に向上し、消費喚起に繋がることが期待される。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20261021-160714",
+        "importance": 5,
+        "published": "2026-10-21T09:14:17+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Claude Duet",
+        "tag": "Anthropic新AI",
+        "summary": "Anthropicが最新のAIモデル「Claude Duet」を発表した。これは大手AI企業のモデルリリースとして重要であり、AI市場の競争激化と技術進化の方向性を示すものとなる。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://claude.com/product/claude-duet",
+        "importance": 5,
+        "published": "2026-10-21T19:14:01+00:00"
+      },
+      {
+        "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
+        "tag": "GoogleCloud×AI",
+        "summary": "Google CloudのModel GardenにOpenAIの最新モデル「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。これによりGoogle Cloudは主要3社のクローズドモデルを扱える唯一のハイパースケーラーとなり、クラウド市場におけるAIサービスの競争がさらに激化する見通しだ。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
+        "importance": 5,
+        "published": "2026-10-21T23:52:59+00:00"
+      },
+      {
+        "title": "Meta to create a new class of shares to fund AI push",
+        "tag": "Meta×AI投資",
+        "summary": "MetaはAIイニシアチブの資金調達のため、新株を発行すると発表した。この無議決権株式は2027年に取引開始予定で、AI開発への巨額投資を継続する同社の強い姿勢と、それに伴う資金調達戦略が焦点となる。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+        "importance": 5,
+        "published": "2026-10-21T21:30:02+00:00"
+      },
+      {
+        "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
+        "tag": "Meta×規制",
+        "summary": "ニューメキシコ州の裁判所は、Facebookを巡るCambridge Analyticaスキャンダルの訴訟でMetaに対し、250億ドル（約3兆9500億円）の民事制裁金支払いを命じた。これは個人情報取り扱いに関する虚偽説明など約4390万件の故意の違反が認定された結果であり、企業への金銭的制裁としては米国史上最大級となる。大手テック企業に対する規制強化の動きが加速する可能性を示唆している。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002484/",
+        "importance": 5,
+        "published": "2026-10-21T22:39:42+00:00"
+      },
+      {
+        "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+        "tag": "Tesla戦略",
+        "summary": "Teslaは、来年から顧客が所有する車両をロボタクシーフリートに追加できるようになると発表した。これはイーロン・マスクCEOが長年公約してきたもので、実現すれば自動車業界における所有モデルとサービスモデルの融合を加速させ、モビリティの未来を大きく変える可能性がある。",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+        "importance": 5,
+        "published": "2026-10-21T23:36:31+00:00"
+      },
+      {
+        "title": "なぜルネサスは、TSMCに勝てなかったのか “電子立国ニッポン”当時を知る日立のキーマンが語る",
+        "tag": "半導体産業史",
+        "summary": "かつて半導体大国だった日本が、現在のTSMCのような世界的な地位を確立できなかった理由について、日立製作所のキーマンが語った。これは日本の産業構造と国際競争力の変遷を理解する上で重要な視点を提供し、今後の日本の産業政策を考える上での教訓となる。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/business/articles/2610/22/news021.html",
+        "importance": 5,
+        "published": "2026-10-21T22:00:00+00:00"
+      }
+    ]
+  }
+}
