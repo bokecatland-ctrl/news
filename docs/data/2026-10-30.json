@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T10:27:57.241121+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "日銀会合と中東緊迫化、米中技術覇権に新局面",
+    "points": [
+      "日銀は本日金融政策決定会合を開催し、政策金利は据え置きの見通しですが、2%物価目標達成の判断が今後の金融政策を左右する焦点となります。",
+      "ホルムズ海峡でタンカー4隻が機雷に接触したとイラン革命防衛隊が発表し、国際的なエネルギー供給と中東情勢の緊迫化が懸念されています。",
+      "半導体大手エヌビディアCEOと中国情報機関協力者とされる女性との関係が報じられ、米中間の技術覇権争いと国家安全保障に新たな懸念が浮上しています。"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "日銀、本日金融政策決定会合「政策金利維持の見通し」　2％物価目標到達の判断が焦点",
+        "tag": "金融政策 本日",
+        "summary": "日本銀行は本日30日の金融政策決定会合で、政策金利を据え置く方向で議論する見通しです。食料品などの値上がりが続く中、基調的な物価上昇率が目標とする2％に達したと判断するかが最大の焦点となり、達したと判断すれば、マイナス金利解除に向けた動きが加速する可能性があります。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261029de68131",
+        "importance": 5,
+        "published": "2026-10-29T20:05:00+00:00"
+      },
+      {
+        "title": "東京23区10月消費者物価指数、前年同月比2.6％上昇　9月より0.1ポイント縮小",
+        "tag": "物価動向 CPI",
+        "summary": "東京23区の10月の消費者物価指数（速報値）は、天候による変動が大きい生鮮食品を除いた総合で、前年同月比2.6％上昇しました。上昇率は9月の2.7％から0.1ポイント縮小しており、日銀が本日判断する2％物価目標の「到達」を巡る議論に影響を与える可能性があります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261030de68190",
+        "importance": 4,
+        "published": "2026-10-29T23:44:00+00:00"
+      },
+      {
+        "title": "ガソリン補助金、1.1兆円追加で累計10兆円超に　「今後縮小も終了時期は未定」",
+        "tag": "財政政策 エネルギー",
+        "summary": "政府はガソリン価格抑制策として、1.1兆円の補助金を追加投入し、累計額が10兆円を超えました。この補助金は国民生活に大きな影響を与えていますが、政府は今後縮小する方針を示しつつも、終了時期については未定としており、財政負担と国民への影響のバランスが引き続き課題となります。",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVBZ012HVBZULFA002M.html?ref=rss",
+        "importance": 4,
+        "published": "2026-10-30T00:22:49+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "“エヌビディアCEOと親密な関係の女性が中国協力者”米報道",
+        "tag": "米中対立,半導体",
+        "summary": "アメリカのニューヨーク・タイムズ紙は、半導体大手エヌビディアのジェンスン・フアンCEOが中国情報機関の協力者とされる女性と親密な関係にあると報じた。これは、米中間の技術覇権争いと国家安全保障に新たな懸念をもたらす可能性があり、今後の米中関係や半導体業界の動向に影響を与えるか注目される。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261030de68195",
+        "importance": 5,
+        "published": "2026-10-30T01:24:21+00:00"
+      },
+      {
+        "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+        "tag": "ホルムズ海峡,エネルギー安保",
+        "summary": "イラン革命防衛隊（IRGC）は、世界の原油輸送の要衝であるホルムズ海峡の「無許可ルート」を使用したタンカー4隻が機雷に接触したと発表した。これは、国際的なエネルギー供給と市場の不安定化を招く可能性があり、今後のイランを巡る国際情勢が緊迫化するだろう。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+        "importance": 5,
+        "published": "2026-10-30T00:00:00+00:00"
+      },
+      {
+        "title": "欧州中銀 ラガルド総裁 来年2月退任へ「発言の自由得るため」",
+        "tag": "金融政策,ECB退任",
+        "summary": "ヨーロッパ中央銀行（ECB）のラガルド総裁が、任期途中の2027年2月に退任することを発表した。総裁は、中立的な立場を離れて「発言の自由を得るため」と説明しており、これは今後のECBの金融政策運営に不確実性をもたらし、ユーロ圏経済に大きな影響を与える可能性がある。後任人事が今後の焦点となる。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261030de68156",
+        "importance": 5,
+        "published": "2026-10-29T20:16:00+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ＪＲ東海、ＪＲ西日本 「のぞみ」「みずほ」の指定席特急料金と新幹線全列車のグリーン料金改定",
+        "tag": "新幹線料金改定",
+        "summary": "ＪＲ東海とＪＲ西日本は、東海道・山陽新幹線の「のぞみ」「みずほ」指定席特急料金を2027年7月1日購入分から、全列車のグリーン料金を同年12月15日乗車分から改定すると発表しました。これは、人件費や設備投資費の増加を反映したもので、広範な旅行者やビジネス利用者に影響を与えるため、今後の旅行計画や企業出張費の見直しが焦点となります。",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610301000kks/",
+        "importance": 5,
+        "published": "2026-10-30T01:00:38+00:00"
+      },
+      {
+        "title": "Wyndham Launches Homes & Havens to Take On Marriott",
+        "tag": "Wyndham新ブランド",
+        "summary": "大手ホテルチェーンのWyndham Hotels & Resortsが、Marriottに対抗する新たな長期滞在型ブランド「Homes & Havens」を立ち上げました。この新ブランドは、成長する長期滞在市場での競争激化を意味し、今後、他の大手チェーンも同様の戦略を強化する可能性があります。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/",
+        "importance": 4,
+        "published": "2026-10-29T18:34:08+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "アイリスオーヤマの通販サイトに不正アクセス 情報漏えいは「調査中」",
+        "tag": null,
+        "summary": "現時点の調査では、クレジットカード情報の漏えいは確認していない。その他の情報については引き続き調べる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002737/",
+        "importance": 3,
+        "published": "2026-10-30T00:43:10+00:00"
+      },
+      {
+        "title": "Cormac McCarthy's Library",
+        "tag": null,
+        "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 3 # Comments: 1",
+        "source": "Hacker News (Front Page)",
+        "url": "https://cormacmccarthy.lib.utk.edu/",
+        "importance": 3,
+        "published": "2026-10-30T00:31:00+00:00"
+      },
+      {
+        "title": "Amazon決算、AWS売上高が39.3％増で約5年ぶりの高成長 フリーキャッシュフローは大幅悪化",
+        "tag": null,
+        "summary": "Amazonの7月?9月期決算は、売上高が前年同期比12％増で過去最高を記録した。AWS売上高は39.3％増と加速し、受注残は5780億ドルに達した。一方、前年計上したAnthropic評価益の反動で純利益は微減。巨額の設備投資によりフリーキャッシュフローは大幅な赤字となった。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002736/",
+        "importance": 3,
+        "published": "2026-10-30T00:14:48+00:00"
+      },
+      {
+        "title": "The director of Obsession put a new horror short on YouTube",
+        "tag": null,
+        "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+        "importance": 3,
+        "published": "2026-10-29T23:57:18+00:00"
+      }
+    ]
+  }
+}
