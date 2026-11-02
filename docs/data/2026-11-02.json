@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T10:08:13.455637+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【テクノロジー・AI】AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "【国内】米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡",
+      "【国際】米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡",
+        "tag": null,
+        "summary": "アメリカ南部フロリダ州で1日、小型のビジネスジェット機が高速のまま住宅地近くの道路脇に墜落し、乗っていた9人全員が死亡しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261102de69327",
+        "importance": 3,
+        "published": "2026-11-02T01:01:32+00:00"
+      },
+      {
+        "title": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+        "tag": null,
+        "summary": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261102de69346",
+        "importance": 3,
+        "published": "2026-11-02T00:49:14+00:00"
+      },
+      {
+        "title": "滋賀・甲賀市の民家で火災 3人の遺体発見、住人と連絡取れず",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVC17F04VC1PTIL001M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-02T00:10:00+00:00"
+      },
+      {
+        "title": "憲法前文を書いた男、日本へヒッチハイク 憲法制定の旅のはじまり",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVBP3SYJVBPUTFK003M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-02T00:00:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡",
+        "tag": null,
+        "summary": "アメリカ南部フロリダ州で1日、小型のビジネスジェット機が高速のまま住宅地近くの道路脇に墜落し、乗っていた9人全員が死亡しました。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261102de69327",
+        "importance": 3,
+        "published": "2026-11-02T01:01:32+00:00"
+      },
+      {
+        "title": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+        "tag": null,
+        "summary": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261102de69346",
+        "importance": 3,
+        "published": "2026-11-02T00:49:14+00:00"
+      },
+      {
+        "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+        "tag": null,
+        "summary": "Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-02T00:34:22+00:00"
+      },
+      {
+        "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+        "tag": null,
+        "summary": "Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-02T00:29:16+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "日本旅行・JR西などが11月28日に能登でフェス開催 関西の高校生らと交流、ワークショップも",
+        "tag": null,
+        "summary": "日本旅行、ＪＲ西日本、ななお文化スポーツコミッション、能登半島広域観光協会の4者で組織する「イノベーションハブ共創プロジェクトｉｎ能登実行委員会」は11月28日、能登と関西の高校生らの交流事業「能登”いやさか”フェステ [&#8230;] The post 日本旅行・JR西などが11月28日に能登でフェス開催 関西の高校生らと交流、ワークショップも first appeared on 観光経済新聞",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611021000kks/",
+        "importance": 3,
+        "published": "2026-11-02T01:00:55+00:00"
+      },
+      {
+        "title": "世界遺産を守り、その魅力を伝える活動に参加してみませんか」 和歌山県が「世界遺産マスター」を40名募集、受験料は無料",
+        "tag": null,
+        "summary": "和歌山県は10月26日、世界遺産とその周辺地域のパトロールや、保全・活用に関する普及啓発に取り組むボランティア「和歌山県世界遺産マスター」の新規募集を開始した。募集期間は令和8年(2026年)10月19日(月)から11 [&#8230;] The post 世界遺産を守り、その魅力を伝える活動に参加してみませんか」 和歌山県が「世界遺産マスター」を40名募集、受験料は無料 first appear",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611020930kks/",
+        "importance": 3,
+        "published": "2026-11-02T00:30:21+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+        "tag": "AI規制",
+        "summary": "OpenAI、Google、Microsoft、Anthropicといった主要AI企業が、Webサイト運営者がAI学習へのコンテンツ利用をrobots.txtで一括指定できる共通の仕組みに対応すると発表した。これにより、AI各社のAIクローラーを一元管理できるようになり、コンテンツ提供者の権利保護とAI開発の透明性向上が期待される。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+        "importance": 5,
+        "published": "2026-10-31T23:31:07+00:00"
+      },
+      {
+        "title": "Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
+        "tag": "宇宙AI開発",
+        "summary": "Googleは、宇宙AIデータセンター構想「Project Suncatcher」の試作衛星に搭載したTPUから、軌道上のオープンモデル「Gemma 4」による初のAI応答を受信したと発表した。これは宇宙空間でのAI処理の実現に向けた大きな一歩であり、今後はTPUの動作評価試験を通じて、宇宙におけるAI活用の可能性がさらに広がることが焦点となる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
+        "importance": 4,
+        "published": "2026-11-01T23:59:31+00:00"
+      },
+      {
+        "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+        "tag": "Claude戦略",
+        "summary": "Anthropicは、主力AIモデル「Claude」の個人向け有料プランの名称を「Max」と「Ultra」に変更し、月額200ドルの「Ultra」プランでは確認済みアカウントの5時間ごとの利用制限を撤廃した。この変更は、OpenAIのChatGPTなど競合他社との競争が激化する中で、より柔軟な利用体験を提供し、ユーザー獲得を強化する戦略の一環と見られる。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+        "importance": 4,
+        "published": "2026-11-01T22:00:23+00:00"
+      }
+    ]
+  }
+}
