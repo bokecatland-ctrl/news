@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T10:56:57.713793+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "AI規制懸念で株価急落、ロシアがJT工場管理下に",
+    "points": [
+      "米中間選挙での民主党大勝を受け、AI・半導体関連の規制強化懸念から日経平均株価が6万円を割り込み、ナスダックも大幅下落するなど、世界的に株式市場が動揺しています。",
+      "ロシアがプーチン大統領令により、日本たばこ産業（JT）のロシア国内工場を一時的に管理下に置きました。これは対日圧力強化の一環とみられ、日本企業の海外資産リスクが改めて浮き彫りになっています。",
+      "OpenAIがサイバーセキュリティ特化型AI「GPT-6 Cyber」を発表し、Firefoxの脆弱性を多数発見するなど、AI技術の進化が加速しています。同時に、AirbnbがAIエージェントによる旅行体験の全面的な変革を打ち出すなど、AIによる産業構造の変化が注目されています。"
+    ],
+    "alert": {
+      "icon": "🤖",
+      "text": "OpenAI、サイバーセキュリティ特化型AI「GPT-6 Cyber」発表"
+    }
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "日経平均株価6万円割れ 一時4000円超下落　「米中間選挙後のAI・半導体規制懸念が背景」",
+        "tag": "マーケット",
+        "summary": "6日の東京株式市場で日経平均株価は一時4000円以上値下がりし、ことし5月以来となる6万円割れを記録した。アメリカ中間選挙で民主党が大勝し、AIやデータセンターに対する規制が強化されるとの見方から、AI・半導体関連銘柄に売りが集中したことが背景にある。この動きは、米国の政治動向が日本のハイテク産業や株式市場に直接的な影響を与えることを示しており、今後の米国の規制動向が焦点となる。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261106de71341",
+        "importance": 5,
+        "published": "2026-11-06T01:53:33+00:00"
+      },
+      {
+        "title": "ロシア、JT関連工場を一時管理下に　「プーチン大統領令、対日圧力強化の一環か」",
+        "tag": "国際×経済",
+        "summary": "ロシアのプーチン大統領は5日、日本たばこ産業（JT）の海外子会社がロシア国内に保有する4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名した。これは、ロシアによるウクライナ侵攻後の対日圧力強化の一環とみられており、日本企業の海外資産に対する地政学リスクの高まりを改めて浮き彫りにしている。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+        "importance": 5,
+        "published": "2026-11-06T01:51:36+00:00"
+      },
+      {
+        "title": "東電原発賠償、国からの15兆円超支援「回収に最長39年」会計検査院が試算",
+        "tag": "財政×エネルギー",
+        "summary": "福島第一原子力発電所の事故に伴う賠償などのため、国が東京電力に支援している15兆円余りの資金について、会計検査院は回収に最長であと39年が必要だとの試算を公表した。これは、原発事故の費用が国の財政に長期にわたり重くのしかかることを示しており、エネルギー政策と財政健全化のバランスが今後の大きな課題となる。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261106de71317",
+        "importance": 4,
+        "published": "2026-11-05T20:23:00+00:00"
+      },
+      {
+        "title": "9月の実質賃金2.2%増、9か月連続プラス　「物価伸び縮小で夏のボーナスも5年連続増」",
+        "tag": "マクロ経済",
+        "summary": "厚生労働省が発表したことし9月の実質賃金は、前の年の同じ月と比べて2.2％増となり、9か月連続のプラスを記録した。物価の伸び幅が去年と比べて縮小したことが継続的なプラスにつながり、夏のボーナスも5年連続で増加した。この傾向が続けば、個人消費の回復と経済の好循環への期待が高まるが、物価動向と賃上げの持続性が今後の焦点となる。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261105de71108",
+        "importance": 4,
+        "published": "2026-11-05T23:35:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+        "tag": null,
+        "summary": "ロシアのプーチン大統領は5日、JT＝日本たばこ産業の海外の子会社がロシア国内に保有する4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名しました。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+        "importance": 3,
+        "published": "2026-11-06T01:51:36+00:00"
+      },
+      {
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "tag": null,
+        "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-06T01:44:03+00:00"
+      },
+      {
+        "title": "California governor commutes sentences of more than 500 people on death row",
+        "tag": null,
+        "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-06T01:39:35+00:00"
+      },
+      {
+        "title": "ナスダック5％超下落 AI・データセンター規制強化を懸念",
+        "tag": null,
+        "summary": "5日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がって、ハイテク株の比率が高いナスダックの株価指数は5％を超える大幅な下落となりました。背景には、アメリカの中間選挙で民主党が大勝し、AIや…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261106de71306",
+        "importance": 3,
+        "published": "2026-11-06T01:28:40+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "Airbnb CEO「AIエージェントが旅行のあらゆる垂直分野を担う」　全旅行体験のAI化で業界構造変革へ",
+        "tag": "AI×旅行, 業界変革",
+        "summary": "AirbnbのCEOは、専門的なAIエージェントが旅行のあらゆる垂直分野を担う計画を明らかにした。これは、フライト予約のような従来の推測を超え、AIが旅行体験全体を包括的に管理することを目指す大規模な戦略転換を意味する。旅行業界のAIによる再定義が次の焦点となる。",
+        "source": "Skift",
+        "url": "https://skift.com/2026/11/05/airbnb-ceo-our-specialized-ai-agents-will-handle-every-vertical-in-travel/",
+        "importance": 5,
+        "published": "2026-11-05T23:30:43+00:00"
+      },
+      {
+        "title": "ユーロモニター「世界の消費者トレンド2027」発表　ウェルネス消費2.8兆ドルへ、AI信頼度は19%",
+        "tag": "消費者トレンド, ウェルネス",
+        "summary": "ユーロモニターが「世界の消費者トレンド2027」を発表し、ウェルネス関連消費が2027年に2.8兆ドルに達する見通しを示した。消費者の81%が生成AIを利用する一方で、購買情報源としての信頼度は19%にとどまり、ブランドへの信頼やクチコミ重視の傾向が強まる。ホテル業界は、高まるウェルネス需要への対応と、信頼に基づく顧客体験の提供が重要となる。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20261105-160800",
+        "importance": 4,
+        "published": "2026-11-05T23:25:35+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Google、ワイオミング州のデータセンターなどに170億ドル投資へ 電力費全額負担を約束",
+        "tag": "Google投資",
+        "summary": "Googleはワイオミング州に170億ドルを投じ、AIデータセンターを建設すると発表した。米国内でデータセンター建設への反発が強まる中、同社は電力費やインフラ整備費の全額負担、燃料電池やCCS技術を用いた702MWの発電設備導入を約束した。これは、AIインフラ拡大における地域社会との調和と環境負荷軽減が、大手テック企業の重要な課題となっていることを示している。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002936/",
+        "importance": 5,
+        "published": "2026-11-06T00:43:37+00:00"
+      },
+      {
+        "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+        "tag": "OpenAI新モデル",
+        "summary": "OpenAIは、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表し、Firefoxの未知の脆弱性を81件発見したと報告した。このモデルは、汎用モデル「Astra」をベースに脆弱性発見能力を大幅に強化しており、高度なAIによるサイバー攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いがある。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+        "importance": 5,
+        "published": "2026-11-05T22:57:34+00:00"
+      },
+      {
+        "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+        "tag": "AI市場動向",
+        "summary": "米国中間選挙で民主党が優勢となり、AIデータセンターの拡張計画に懸念が生じたことで、ナスダック市場から2.5兆ドルが消失した。これは、AIインフラ投資に対する住民の反発や政策変更が、大手テック企業の成長戦略に直接影響を与える可能性を示唆している。",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
+        "importance": 4,
+        "published": "2026-11-06T01:11:40+00:00"
+      }
+    ]
+  }
+}
