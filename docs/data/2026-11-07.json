@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T10:27:31.875145+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】富士山が世界の「地質遺産100選」に 噴火の多様さや研究蓄積評価",
+      "【国際】Pope Leo XIV arrives for South American tour after cancer surgery",
+      "【ホテル】スルガ銀行、宿泊業の外国人材向けに無担保オートローン 車・バイクの購入や車検に"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "富士山が世界の「地質遺産100選」に 噴火の多様さや研究蓄積評価",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-07T00:05:00+00:00"
+      },
+      {
+        "title": "イラン「外交の再開には米が具体的行動を」妥協しない姿勢強調",
+        "tag": null,
+        "summary": "アメリカのトランプ大統領がイランへさらなる攻撃を行うか、近く判断するという考えを示す中、イラン政府の高官は6日、外交交渉を再開するにはまずアメリカの具体的な行動が必要だとして妥協しない姿勢を強調しまし…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261107de71998",
+        "importance": 3,
+        "published": "2026-11-07T00:04:59+00:00"
+      },
+      {
+        "title": "JAL幹部が語る国内線の価値「非航空事業へのタッチポイント」",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVC5571JVC5UTIL03BM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-07T00:00:00+00:00"
+      },
+      {
+        "title": "大東建託、日本語教育事業に参入 人材確保へインドネシアで来春開校",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVC634V5VC6ULFA01MM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-07T00:00:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+        "tag": null,
+        "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-07T00:55:51+00:00"
+      },
+      {
+        "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+        "tag": null,
+        "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-07T00:31:41+00:00"
+      },
+      {
+        "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+        "tag": null,
+        "summary": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-07T00:21:49+00:00"
+      },
+      {
+        "title": "イラン「外交の再開には米が具体的行動を」妥協しない姿勢強調",
+        "tag": null,
+        "summary": "アメリカのトランプ大統領がイランへさらなる攻撃を行うか、近く判断するという考えを示す中、イラン政府の高官は6日、外交交渉を再開するにはまずアメリカの具体的な行動が必要だとして妥協しない姿勢を強調しまし…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261107de71998",
+        "importance": 3,
+        "published": "2026-11-07T00:04:59+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "スルガ銀行、宿泊業の外国人材向けに無担保オートローン 車・バイクの購入や車検に",
+        "tag": null,
+        "summary": "スルガ銀行（静岡県沼津市）は現在、宿泊施設で働く外国人労働者などを対象にした無担保の「外国人専用オートローン」の活用を促進している。 この独自サービスは、自動車やバイクの購入費用を貸し出すもの。「就労が認められている [&#8230;] The post スルガ銀行、宿泊業の外国人材向けに無担保オートローン 車・バイクの購入や車検に first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611071000kks/",
+        "importance": 3,
+        "published": "2026-11-07T01:00:53+00:00"
+      },
+      {
+        "title": "ホテル日航大阪、ひと口ごとに異なる『チョコレートパフェ』と『クッキー&クリームスムージー』を提供 ミニサイズ800円も用意",
+        "tag": null,
+        "summary": "ホテル日航大阪(大阪市中央区西心斎橋1-3-3)は11月1日、ティーラウンジ「ファウンテン」(1階)と「ロビーラウンジ」(2階)で、秋冬の新作『チョコレートパフェ』と『クッキー&#38;クリームスムージー』の提供を始め [&#8230;] The post ホテル日航大阪、ひと口ごとに異なる『チョコレートパフェ』と『クッキー&クリームスムージー』を提供 ミニサイズ800円も用意 first app",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611070930kks/",
+        "importance": 3,
+        "published": "2026-11-07T00:30:25+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Libghostty 1.0",
+        "tag": null,
+        "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 112 # Comments: 15",
+        "source": "Hacker News (Front Page)",
+        "url": "https://mitchellh.com/writing/libghostty-1-0",
+        "importance": 3,
+        "published": "2026-11-06T23:30:52+00:00"
+      },
+      {
+        "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+        "tag": null,
+        "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+        "importance": 3,
+        "published": "2026-11-06T23:09:45+00:00"
+      },
+      {
+        "title": "Outbound SIP calling is now available to all organizations",
+        "tag": null,
+        "summary": "Article URL: https://developers.openai.com/api/docs/guides/voice-sip Comments URL: https://news.ycombinator.com/item?id=50399695 Points: 24 # Comments: 13",
+        "source": "Hacker News (Front Page)",
+        "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+        "importance": 3,
+        "published": "2026-11-06T23:03:55+00:00"
+      },
+      {
+        "title": "Sodium-ion batteries approach cost parity with LFP",
+        "tag": null,
+        "summary": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=5039",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+        "importance": 3,
+        "published": "2026-11-06T23:00:46+00:00"
+      }
+    ]
+  }
+}
