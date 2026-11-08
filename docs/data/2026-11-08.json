@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T09:58:06.662048+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】イスラエル 第2党アイゼンコット氏に組閣要請へ",
+      "【国際】イスラエル 第2党アイゼンコット氏に組閣要請へ",
+      "【ホテル】ハイアット リージェンシー 東京、ピエール・エルメ・パリのスイーツ6種とシェフ特製セイボリー5品の「フェスティブアフタヌーンティー」を12月1日から提供"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "イスラエル 第2党アイゼンコット氏に組閣要請へ",
+        "tag": null,
+        "summary": "イスラエルでは先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る推薦を集めたアイゼンコット氏が次の政権の組閣を要請される見通しになりました。一方、ネタニヤフ首相は続投を目指して野党勢力の切…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261108de72392",
+        "importance": 3,
+        "published": "2026-11-08T00:50:41+00:00"
+      },
+      {
+        "title": "東北新幹線 全線で運転再開",
+        "tag": null,
+        "summary": "東北新幹線は福島県内の架線につるのような植物が付着し、午前6時40分ごろから東京駅と盛岡駅の間の上下線で運転を見合わせていましたが、除去作業が完了したことから午前9時ごろに運転を再開しました。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261108de72358",
+        "importance": 3,
+        "published": "2026-11-08T00:27:08+00:00"
+      },
+      {
+        "title": "【上空映像配信】愛知で震度5強12人けが 各地の被害状況",
+        "tag": null,
+        "summary": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。 一夜明けた各地の状況を上空からの映像でお伝えします。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261108de72310",
+        "importance": 3,
+        "published": "2026-11-08T00:22:00+00:00"
+      },
+      {
+        "title": "ポーランド南部のクラクフで銃撃事件 6人死亡 容疑者は拘束",
+        "tag": null,
+        "summary": "ポーランド南部の都市、クラクフで銃撃事件があり、警察などによりますと、これまでに6人が死亡し、15人がけがをしました。警察は発砲した男の容疑者を拘束し詳しい状況を調べています。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261108de72373",
+        "importance": 3,
+        "published": "2026-11-07T23:28:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "イスラエル 第2党アイゼンコット氏に組閣要請へ",
+        "tag": null,
+        "summary": "イスラエルでは先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る推薦を集めたアイゼンコット氏が次の政権の組閣を要請される見通しになりました。一方、ネタニヤフ首相は続投を目指して野党勢力の切…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261108de72392",
+        "importance": 3,
+        "published": "2026-11-08T00:50:41+00:00"
+      },
+      {
+        "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+        "tag": null,
+        "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-08T00:00:56+00:00"
+      },
+      {
+        "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+        "tag": null,
+        "summary": "Israel&#039;s president asked opposition leader Gadi Eisenkot to form the next gov&#039;t over Prime Minister Benjamin Netanyahu.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-07T23:45:45+00:00"
+      },
+      {
+        "title": "ポーランド南部のクラクフで銃撃事件 6人死亡 容疑者は拘束",
+        "tag": null,
+        "summary": "ポーランド南部の都市、クラクフで銃撃事件があり、警察などによりますと、これまでに6人が死亡し、15人がけがをしました。警察は発砲した男の容疑者を拘束し詳しい状況を調べています。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261108de72373",
+        "importance": 3,
+        "published": "2026-11-07T23:28:00+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ハイアット リージェンシー 東京、ピエール・エルメ・パリのスイーツ6種とシェフ特製セイボリー5品の「フェスティブアフタヌーンティー」を12月1日から提供",
+        "tag": null,
+        "summary": "ハイアット リージェンシー 東京は12月1日から、フェスティブシーズンに向けた期間限定のアフタヌーンティー「フェスティブアフタヌーンティー」を、ロビー2階の「Nineteen Eighty Lounge &#38; B [&#8230;] The post ハイアット リージェンシー 東京、ピエール・エルメ・パリのスイーツ6種とシェフ特製セイボリー5品の「フェスティブアフタヌーンティー」を12月1",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611080930kks/",
+        "importance": 3,
+        "published": "2026-11-08T00:30:15+00:00"
+      },
+      {
+        "title": "【11/19 無料オンラインセミナー】なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見るリゾート ホテルの採用戦略。 村上 晴花氏（北こぶしリゾート 経営戦略室（クマ活担当）マネージャー）",
+        "tag": null,
+        "summary": "【第63回】 2026年11月19日（木）13：00～14：00 講師：村上 晴花氏（北こぶしリゾート 経営戦略室（クマ活担当）マネージャー） 講演名：なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見 [&#8230;] The post 【11/19 無料オンラインセミナー】なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見るリゾート ホテルの採用戦略。 村",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2609171200kks-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-08T00:00:52+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Commodore PET – The Worlds First Personal Computer",
+        "tag": null,
+        "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 5 # Comments: 0",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+        "importance": 3,
+        "published": "2026-11-07T23:15:34+00:00"
+      },
+      {
+        "title": "GitHub New pull request overview page in public preview",
+        "tag": null,
+        "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 40 # Comments: 26",
+        "source": "Hacker News (Front Page)",
+        "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+        "importance": 3,
+        "published": "2026-11-07T23:09:40+00:00"
+      },
+      {
+        "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+        "tag": null,
+        "summary": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+        "source": "ITmedia AI+",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+        "importance": 3,
+        "published": "2026-11-07T23:00:00+00:00"
+      },
+      {
+        "title": "IRA Velinsky – Commodore's Industrial Designer",
+        "tag": null,
+        "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 8 # Comments: 0",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+        "importance": 3,
+        "published": "2026-11-07T22:45:39+00:00"
+      }
+    ]
+  }
+}
