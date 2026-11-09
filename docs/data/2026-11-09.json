@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T10:18:44.107300+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】【動画】Pickup NEWS（11月9日）",
+      "【国際】India’s night lights up for Diwali",
+      "【ホテル】【12/3 無料オンラインセミナー】「わが国おける ホテル・旅館の実情」 徳江順一郎氏（東洋大学国際観光学部 准教授）"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "【動画】Pickup NEWS（11月9日）",
+        "tag": null,
+        "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。 （データ放送では動画をご覧いただけません）",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261108de72533",
+        "importance": 3,
+        "published": "2026-11-09T01:11:13+00:00"
+      },
+      {
+        "title": "実家の空き家、「誰も買わないのでは?」 思いがけず売れた決め手は",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVC33Q41VC3OIPE008M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-09T01:00:00+00:00"
+      },
+      {
+        "title": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+        "tag": null,
+        "summary": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。一方、フアンCEOは女性との…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261109de72697",
+        "importance": 3,
+        "published": "2026-11-09T00:21:00+00:00"
+      },
+      {
+        "title": "7月30日の市場介入 7兆9756億円 円買い介入で過去最大",
+        "tag": null,
+        "summary": "財務省の発表によりますと、政府・日銀がことし7月30日に実施した市場介入で、1日で投じた資金は7兆9756億円でした。 ドル売り円買いの介入としては、1日あたりで過去最大となりました。 政府・日銀…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261109de72699",
+        "importance": 3,
+        "published": "2026-11-09T00:05:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "India’s night lights up for Diwali",
+        "tag": null,
+        "summary": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country&#039;s biggest Hindu festivals.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-09T00:24:04+00:00"
+      },
+      {
+        "title": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+        "tag": null,
+        "summary": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。一方、フアンCEOは女性との…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261109de72697",
+        "importance": 3,
+        "published": "2026-11-09T00:21:00+00:00"
+      },
+      {
+        "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+        "tag": null,
+        "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-09T00:07:02+00:00"
+      },
+      {
+        "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+        "tag": null,
+        "summary": "More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-09T00:00:34+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【12/3 無料オンラインセミナー】「わが国おける ホテル・旅館の実情」 徳江順一郎氏（東洋大学国際観光学部 准教授）",
+        "tag": null,
+        "summary": "【第64回】 2026年12月3日（木）13：00～14：00 講師：徳江順一郎氏（東洋大学国際観光学部 准教授） 講演名：「わが国おける ホテル・旅館の実情」 【セミナーの概要】 日本が誇る「おもてなし」というが、実際 [&#8230;] The post 【12/3 無料オンラインセミナー】「わが国おける ホテル・旅館の実情」 徳江順一郎氏（東洋大学国際観光学部 准教授） first appe",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610061430kks-2-2-2-2-2-2-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-09T01:00:46+00:00"
+      },
+      {
+        "title": "【観光DX特集】TabiHubの宿泊事業者向けマッチングサービス 比較から商談まで1カ所で完結",
+        "tag": null,
+        "summary": "「TabiHub（タビハブ）」は、旅館・ホテルが補助金と導入サービスを探して比較し、ベンダーとの商談までを進めることができるオンラインサービス。 宿の課題に合う選択肢を見つける段階から、導入の検討までを支える。宿泊事 [&#8230;] The post 【観光DX特集】TabiHubの宿泊事業者向けマッチングサービス 比較から商談まで1カ所で完結 first appeared on 観光経済新聞",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611090930kks/",
+        "importance": 3,
+        "published": "2026-11-09T00:30:53+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "128信金の大規模障害、約6時間で復旧 「原因はサイバー攻撃ではない」",
+        "tag": null,
+        "summary": "原因は「システム機器の故障」で、「サイバー攻撃に起因するものではない」という。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
+        "importance": 3,
+        "published": "2026-11-09T00:26:19+00:00"
+      },
+      {
+        "title": "Unlocking any car from X brand in most of the world",
+        "tag": null,
+        "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 12 # Comments: 7",
+        "source": "Hacker News (Front Page)",
+        "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "importance": 3,
+        "published": "2026-11-09T00:10:50+00:00"
+      },
+      {
+        "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+        "tag": null,
+        "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 42 # Comments: 19",
+        "source": "Hacker News (Front Page)",
+        "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "importance": 3,
+        "published": "2026-11-08T23:28:01+00:00"
+      },
+      {
+        "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+        "tag": null,
+        "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+        "importance": 3,
+        "published": "2026-11-08T23:00:00+00:00"
+      }
+    ]
+  }
+}
