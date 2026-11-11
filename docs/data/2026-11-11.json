@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T10:36:04.141543+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
+      "【国際】「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
+      "【ホテル】九州MaaS協議会と三井住友カードが包括連携協定 「stera transit」を新たな共通認証基盤として九州各地へ展開"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
+        "tag": null,
+        "summary": "アメリカの新興クラウド企業、「コアウィーブ」が今年9月までの3か月間の決算を発表し、利息の支払いが膨らむなどして最終的な損益が日本円にして1100億円余りの赤字となりました。新興クラウド企業が抱える多…",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261111de73895",
+        "importance": 3,
+        "published": "2026-11-11T01:31:38+00:00"
+      },
+      {
+        "title": "物価上昇、とっくに2%超では? 日銀はなぜ今さら「到達」を判断?",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVC50H01VC5ULFA01XM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-11T01:30:00+00:00"
+      },
+      {
+        "title": "岐阜市のアパートで火事 1歳児含む12人搬送",
+        "tag": null,
+        "summary": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったというこ…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261111de73892",
+        "importance": 3,
+        "published": "2026-11-11T01:20:46+00:00"
+      },
+      {
+        "title": "【動画】Pickup NEWS（11月11日）",
+        "tag": null,
+        "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。 （データ放送では動画をご覧いただけません）",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261110de73634",
+        "importance": 3,
+        "published": "2026-11-11T01:15:48+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
+        "tag": null,
+        "summary": "アメリカの新興クラウド企業、「コアウィーブ」が今年9月までの3か月間の決算を発表し、利息の支払いが膨らむなどして最終的な損益が日本円にして1100億円余りの赤字となりました。新興クラウド企業が抱える多…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261111de73895",
+        "importance": 3,
+        "published": "2026-11-11T01:31:38+00:00"
+      },
+      {
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "tag": null,
+        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-11T01:14:40+00:00"
+      },
+      {
+        "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+        "tag": null,
+        "summary": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-11T01:11:04+00:00"
+      },
+      {
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "tag": null,
+        "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-11T01:01:20+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "九州MaaS協議会と三井住友カードが包括連携協定 「stera transit」を新たな共通認証基盤として九州各地へ展開",
+        "tag": null,
+        "summary": "九州MaaS協議会と三井住友カードは11月4日、「九州における持続可能な地域公共交通の実現等に関する包括連携協定」を締結した。九州で導入を進める公共交通機関向けソリューション「stera transit」を新たな共通認 [&#8230;] The post 九州MaaS協議会と三井住友カードが包括連携協定 「stera transit」を新たな共通認証基盤として九州各地へ展開 first appe",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611111030kks/",
+        "importance": 3,
+        "published": "2026-11-11T01:30:29+00:00"
+      },
+      {
+        "title": "【11/19 無料オンラインセミナー】なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見るリゾート ホテルの採用戦略。 村上 晴花氏（北こぶしリゾート 経営戦略室（クマ活担当）マネージャー）",
+        "tag": null,
+        "summary": "【第63回】 2026年11月19日（木）13：00～14：00 講師：村上 晴花氏（北こぶしリゾート 経営戦略室（クマ活担当）マネージャー） 講演名：なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見 [&#8230;] The post 【11/19 無料オンラインセミナー】なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見るリゾート ホテルの採用戦略。 村",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2609171200kks-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-11T01:00:49+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
+        "tag": null,
+        "summary": "「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで「機能停止」状態だ。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
+        "importance": 3,
+        "published": "2026-11-11T00:42:26+00:00"
+      },
+      {
+        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+        "tag": null,
+        "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, th",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+        "importance": 3,
+        "published": "2026-11-11T00:34:24+00:00"
+      },
+      {
+        "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
+        "tag": null,
+        "summary": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+        "importance": 3,
+        "published": "2026-11-11T00:33:03+00:00"
+      },
+      {
+        "title": "ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から",
+        "tag": null,
+        "summary": "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
+        "importance": 3,
+        "published": "2026-11-11T00:27:17+00:00"
+      }
+    ]
+  }
+}
