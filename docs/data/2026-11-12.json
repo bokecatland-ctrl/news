@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T11:36:04.647075+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】ペットチェーン店で無資格注射2年超か 医薬品貯蔵疑い、書類送検",
+      "【国際】New York building collapse kills one person and injures 12",
+      "【ホテル】ベトナム航空とJR九州が初のタイアップ、「博多銘品蔵 博多口店」で5%OFF、JR九州レールパスは1,000円割引"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "ペットチェーン店で無資格注射2年超か 医薬品貯蔵疑い、書類送検",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCC7W76VCCPTIL009M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-12T02:00:00+00:00"
+      },
+      {
+        "title": "配車アプリの点数が生活を左右？ ギグワーカーをしばる「評価経済」",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCB037TVCBOXIE002M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-12T02:00:00+00:00"
+      },
+      {
+        "title": "サイ・ヤング賞の170キロ投手、人類が投げられる最高速度を予想",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCC4W74VCCUTQP012M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-12T01:54:56+00:00"
+      },
+      {
+        "title": "フアンＣＥＯの解任準備 米エヌビディア取締役会―報道",
+        "tag": null,
+        "summary": "",
+        "source": "時事ドットコム",
+        "url": "https://www.jiji.com/jc/article?k=2026111200166&g=int&m=rss",
+        "importance": 3,
+        "published": "2026-11-12T01:54:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "New York building collapse kills one person and injures 12",
+        "tag": null,
+        "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-12T02:33:12+00:00"
+      },
+      {
+        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+        "tag": null,
+        "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-12T02:09:08+00:00"
+      },
+      {
+        "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+        "tag": null,
+        "summary": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-12T02:03:30+00:00"
+      },
+      {
+        "title": "異例の接戦ミシシッピ州でも民主新人が当確 アメリカ中間選挙",
+        "tag": null,
+        "summary": "野党・民主党が連邦議会上下両院で多数派の奪還を確実にしたアメリカの中間選挙で、ABCテレビは、南部ミシシッピ州の上院議員選挙について、民主党の新人スコット・コローム氏の当選が確実になったと伝えました。…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261112de74547",
+        "importance": 3,
+        "published": "2026-11-12T02:03:22+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ベトナム航空とJR九州が初のタイアップ、「博多銘品蔵 博多口店」で5%OFF、JR九州レールパスは1,000円割引",
+        "tag": null,
+        "summary": "ベトナム航空は11月6日、九州旅客鉄道(JR九州)との初のタイアップ企画「スペシャルタイアップキャンペーン」の実施を発表した。マイレージプログラム「Lotusmiles(ロータスマイル)」会員向けのショッピング優待と、 [&#8230;] The post ベトナム航空とJR九州が初のタイアップ、「博多銘品蔵 博多口店」で5%OFF、JR九州レールパスは1,000円割引 first appeare",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611121130kks/",
+        "importance": 3,
+        "published": "2026-11-12T02:30:39+00:00"
+      },
+      {
+        "title": "KNT-CTホールディングス 27年3月期業績予想を下方修正 中東情勢や訪日減、4社統合の費用増が影響",
+        "tag": null,
+        "summary": "KNT-CTホールディングス（小山佳延社長）はこのほど、今年5月13日に公表した2027年3月期（26年4月1日～27年3月31日）の通期連結業績予想を下方修正すると発表した。 売上高は前回予想の3070億円から30 [&#8230;] The post KNT-CTホールディングス 27年3月期業績予想を下方修正 中東情勢や訪日減、4社統合の費用増が影響 first appeared on 観光",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611121101kks/",
+        "importance": 3,
+        "published": "2026-11-12T02:01:15+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
+        "tag": null,
+        "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+        "importance": 3,
+        "published": "2026-11-12T01:49:56+00:00"
+      },
+      {
+        "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
+        "tag": null,
+        "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+        "importance": 3,
+        "published": "2026-11-12T00:56:17+00:00"
+      },
+      {
+        "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」 約9時間で復旧",
+        "tag": null,
+        "summary": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
+        "importance": 3,
+        "published": "2026-11-12T00:53:56+00:00"
+      },
+      {
+        "title": "Appleサポートコミュニティ、11月20日に閉鎖へ 新規投稿は既に終了",
+        "tag": null,
+        "summary": "Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると発表した。1998年に開設された同フォーラムは、現在すでに新規投稿の受け付けを終了し、閲覧専用となっている。Appleは戦略と顧客ニーズを慎重に評価した結果としており、今後は公式サポートサイトを利用するよう呼び掛けている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+        "importance": 3,
+        "published": "2026-11-11T23:46:34+00:00"
+      }
+    ]
+  }
+}
