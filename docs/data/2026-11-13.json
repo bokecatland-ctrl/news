@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T11:17:04.296416+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】【きょうのおはBiz 11月13日(金)】「良品計画」顧客情報漏えい",
+      "【国際】独防衛企業にサイバー攻撃 独軍が無人機を運用停止と報道",
+      "【ホテル】【学術×現場44】評価は「一人でできる」か コンピテンシーか 福島規子"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "【きょうのおはBiz 11月13日(金)】「良品計画」顧客情報漏えい",
+        "tag": null,
+        "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261113de75153",
+        "importance": 3,
+        "published": "2026-11-13T02:10:33+00:00"
+      },
+      {
+        "title": "独防衛企業にサイバー攻撃 独軍が無人機を運用停止と報道",
+        "tag": null,
+        "summary": "無人機の製造などを手がけ、日本にも拠点を設けるドイツの防衛企業がサイバー攻撃を受けたことを明らかにし、納入を受けたドイツ軍が無人機の運用を停止したと報じられています。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261113de75142",
+        "importance": 3,
+        "published": "2026-11-13T02:07:11+00:00"
+      },
+      {
+        "title": "【速報中】マイクロソフト 接続障害が発生 各地に影響のおそれ",
+        "tag": null,
+        "summary": "アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。具体的な影響の範囲や程度は明らかになっていませ…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+        "importance": 3,
+        "published": "2026-11-13T02:03:11+00:00"
+      },
+      {
+        "title": "【地震速報】熊本県で震度3 津波の心配なし",
+        "tag": null,
+        "summary": "13日午前10時52分ごろ地震がありました。この地震による津波の心配はありません。 震源地は熊本県熊本地方で震源の深さは10キロ、地震の規模を示すマグニチュードは4.0と推定されます。 各市町村の…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261113de75157",
+        "importance": 3,
+        "published": "2026-11-13T01:59:07+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "独防衛企業にサイバー攻撃 独軍が無人機を運用停止と報道",
+        "tag": null,
+        "summary": "無人機の製造などを手がけ、日本にも拠点を設けるドイツの防衛企業がサイバー攻撃を受けたことを明らかにし、納入を受けたドイツ軍が無人機の運用を停止したと報じられています。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261113de75142",
+        "importance": 3,
+        "published": "2026-11-13T02:07:11+00:00"
+      },
+      {
+        "title": "【速報中】マイクロソフト 接続障害が発生 各地に影響のおそれ",
+        "tag": null,
+        "summary": "アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。具体的な影響の範囲や程度は明らかになっていませ…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+        "importance": 3,
+        "published": "2026-11-13T02:03:11+00:00"
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "tag": null,
+        "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-13T02:01:35+00:00"
+      },
+      {
+        "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+        "tag": null,
+        "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-13T01:44:55+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【学術×現場44】評価は「一人でできる」か コンピテンシーか 福島規子",
+        "tag": null,
+        "summary": "政府が国家戦略として打ち出した「経済財政運営と改革の基本方針2026（骨太の方針）」に基づき、厚生労働省は「17の戦略分野等におけるリ・スキリング・人材確保の主な支援策」を提示した。 厚労省は、この方針に基づきどのよ [&#8230;] The post 【学術×現場44】評価は「一人でできる」か コンピテンシーか 福島規子 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611131100kks/",
+        "importance": 3,
+        "published": "2026-11-13T02:00:22+00:00"
+      },
+      {
+        "title": "One Night in Bangkok: Eurovision Asia Tests Thailand’s Bet on Events",
+        "tag": null,
+        "summary": "Thailand wants events to offset falling arrivals. Early data shows Eurovision Asia riding Bangkok&apos;s seasonal upswing, not driving it. One night won&apos;t move the needle, but a steady calendar o",
+        "source": "Skift",
+        "url": "https://skift.com/2026/11/12/one-night-in-bangkok-eurovision-asia-tests-thailands-bet-on-events/",
+        "importance": 3,
+        "published": "2026-11-13T02:00:00+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか “新たな一手”のねらいを聞いた",
+        "tag": null,
+        "summary": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+        "importance": 3,
+        "published": "2026-11-13T01:44:00+00:00"
+      },
+      {
+        "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+        "tag": null,
+        "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+        "importance": 3,
+        "published": "2026-11-13T01:22:05+00:00"
+      },
+      {
+        "title": "Donald Trump really wants Tim Cook to run Nvidia",
+        "tag": null,
+        "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But Pres",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+        "importance": 3,
+        "published": "2026-11-13T00:46:07+00:00"
+      },
+      {
+        "title": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず",
+        "tag": null,
+        "summary": "屋外拡声器などを使った緊急情報も停止しており、緊急情報は市の公式LINEやテレビ、ラジオなどで伝える。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
+        "importance": 3,
+        "published": "2026-11-13T00:44:12+00:00"
+      }
+    ]
+  }
+}
