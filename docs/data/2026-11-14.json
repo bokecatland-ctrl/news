@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T10:54:22.769158+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+      "【国際】米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+      "【ホテル】全面白塗装のエアバス A321LR、商用運航を開始 ジェットスター・ジャパンの5機体制と新ブランド移行への歩み"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+        "tag": null,
+        "summary": "アメリカのホワイトハウスは、今月19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領の3者での首脳会談を行うと明らかにしました。 この3人の首脳による正式な会談は初めて…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261114de75768",
+        "importance": 3,
+        "published": "2026-11-14T01:51:52+00:00"
+      },
+      {
+        "title": "アメリカ全土の航空機の運航停止を解除 米航空当局",
+        "tag": null,
+        "summary": "FAA＝アメリカ連邦航空局は、アメリカ全土の空港でとっていた航空機の運航停止措置をさきほど、アメリカ東部時間の13日、午後8時19分、日本時間の14日午前10時19分に解除したと発表しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764",
+        "importance": 3,
+        "published": "2026-11-14T01:39:34+00:00"
+      },
+      {
+        "title": "ニデック、半期報告書の提出延期を検討 会計処理の作業に遅れ",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCG0F4FVCGPLFA001M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-14T01:37:07+00:00"
+      },
+      {
+        "title": "ミシシッピ川でクルーズ船にタンカー衝突 全員が救助",
+        "tag": null,
+        "summary": "アメリカ南部ルイジアナ州で13日、港に停泊していたクルーズ船にタンカーが衝突して乗客などがミシシッピ川に転落しましたが、全員が無事に救助されました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261114de75761",
+        "importance": 3,
+        "published": "2026-11-14T01:12:48+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+        "tag": null,
+        "summary": "アメリカのホワイトハウスは、今月19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領の3者での首脳会談を行うと明らかにしました。 この3人の首脳による正式な会談は初めて…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261114de75768",
+        "importance": 3,
+        "published": "2026-11-14T01:51:52+00:00"
+      },
+      {
+        "title": "アメリカ全土の航空機の運航停止を解除 米航空当局",
+        "tag": null,
+        "summary": "FAA＝アメリカ連邦航空局は、アメリカ全土の空港でとっていた航空機の運航停止措置をさきほど、アメリカ東部時間の13日、午後8時19分、日本時間の14日午前10時19分に解除したと発表しました。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764",
+        "importance": 3,
+        "published": "2026-11-14T01:39:34+00:00"
+      },
+      {
+        "title": "Tanker collision leaves riverboat passengers clinging to railings",
+        "tag": null,
+        "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-14T01:37:08+00:00"
+      },
+      {
+        "title": "Former FAA official says ‘nobody really knows what is going on’",
+        "tag": null,
+        "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-14T01:28:46+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "全面白塗装のエアバス A321LR、商用運航を開始 ジェットスター・ジャパンの5機体制と新ブランド移行への歩み",
+        "tag": null,
+        "summary": "ジェットスター・ジャパン(本社:千葉県成田市、代表取締役社長:田中 正和)は11月6日、新造機のエアバス A321LR型機(機体記号:JA29LR、座席数:232席)で商用フライトの運航を開始した。初便のGK105便( [&#8230;] The post 全面白塗装のエアバス A321LR、商用運航を開始 ジェットスター・ジャパンの5機体制と新ブランド移行への歩み first appeared ",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611141030kks/",
+        "importance": 3,
+        "published": "2026-11-14T01:30:24+00:00"
+      },
+      {
+        "title": "トルコの観光収入、1~9月は513億米ドルで過去最高 第3四半期も255億米ドルと最高を更新",
+        "tag": null,
+        "summary": "トルコ共和国文化観光省は11月5日、2026年第3四半期および1～9月の観光実績を発表した。1～9月の観光収入は前年同期比2.4%増の513億米ドルで、9ヵ月間の実績として過去最高を記録した。第3四半期の観光収入も前年 [&#8230;] The post トルコの観光収入、1~9月は513億米ドルで過去最高 第3四半期も255億米ドルと最高を更新 first appeared on 観光経済新聞",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611140930kks/",
+        "importance": 3,
+        "published": "2026-11-14T00:30:23+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "FAA lifted National Ground Stop at 0119Z",
+        "tag": null,
+        "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 34 # Comments: 5",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+        "importance": 3,
+        "published": "2026-11-14T01:30:01+00:00"
+      },
+      {
+        "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+        "tag": null,
+        "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 61 # Comments: 10",
+        "source": "Hacker News (Front Page)",
+        "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+        "importance": 3,
+        "published": "2026-11-14T01:10:22+00:00"
+      },
+      {
+        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+        "tag": null,
+        "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 94 # Comments: 26",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+        "importance": 3,
+        "published": "2026-11-14T00:52:29+00:00"
+      },
+      {
+        "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+        "tag": null,
+        "summary": "One way or another, the company will get some more data on Saturday.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+        "importance": 3,
+        "published": "2026-11-14T00:49:13+00:00"
+      }
+    ]
+  }
+}
