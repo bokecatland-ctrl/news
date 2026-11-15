@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:26:15.334297+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】横田めぐみさん拉致から49年 早紀江さん「会いたい」",
+      "【国際】Hundreds of men march in Switzerland to protest violence against women",
+      "【ホテル】【12/3 無料オンラインセミナー】「わが国おける ホテル・旅館の実情」 徳江順一郎氏（東洋大学国際観光学部 准教授）"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "横田めぐみさん拉致から49年 早紀江さん「会いたい」",
+        "tag": null,
+        "summary": "中学1年生だった横田めぐみさんが北朝鮮に拉致されてから15日で49年です。 母親の早紀江さんは、「1回でもいいから会いたい」と訴え、一刻も早い帰国の実現を求めています。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261114de75986",
+        "importance": 3,
+        "published": "2026-11-15T01:18:54+00:00"
+      },
+      {
+        "title": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
+        "tag": null,
+        "summary": "アメリカの宇宙開発企業スペースXは、大型宇宙船の飛行試験を行い、宇宙飛行を終えた機体を発射台で回収することに初めて成功しました。 月や火星への飛行を見据え、宇宙船を再利用する技術開発が大きく前進した…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261115de76047",
+        "importance": 3,
+        "published": "2026-11-15T00:46:00+00:00"
+      },
+      {
+        "title": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
+        "tag": null,
+        "summary": "ロシアによる侵攻が続く中、ウクライナのゼレンスキー大統領は、アメリカ側から、NATO＝北大西洋条約機構への加盟を交換条件に、東部ドンバス地域からウクライナ軍を撤退させることができるかどうか打診されたと…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
+        "importance": 3,
+        "published": "2026-11-15T00:01:00+00:00"
+      },
+      {
+        "title": "若手登竜門の国際コンクール バイオリンで小西真璃花さん4位",
+        "tag": null,
+        "summary": "若手音楽家の登竜門として知られる音楽コンクール「ロン・ティボー国際コンクール」のバイオリン部門の決勝がフランスで行われ、日本人の19歳、小西真璃花さんが4位に選ばれました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261115de76044",
+        "importance": 3,
+        "published": "2026-11-14T23:53:25+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Hundreds of men march in Switzerland to protest violence against women",
+        "tag": null,
+        "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-15T00:27:14+00:00"
+      },
+      {
+        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+        "tag": null,
+        "summary": "SpaceX officials say catch by mechanical arms shows Starship&#039;s full reusability, crucial for rapid, low-cost recycling.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-15T00:14:22+00:00"
+      },
+      {
+        "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+        "tag": null,
+        "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-15T00:06:55+00:00"
+      },
+      {
+        "title": "Judo champion shakes up French presidential race with surprise candidacy",
+        "tag": null,
+        "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-15T00:06:51+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【12/3 無料オンラインセミナー】「わが国おける ホテル・旅館の実情」 徳江順一郎氏（東洋大学国際観光学部 准教授）",
+        "tag": null,
+        "summary": "【第64回】 2026年12月3日（木）13：00～14：00 講師：徳江順一郎氏（東洋大学国際観光学部 准教授） 講演名：「わが国おける ホテル・旅館の実情」 【セミナーの概要】 日本が誇る「おもてなし」というが、実際 [&#8230;] The post 【12/3 無料オンラインセミナー】「わが国おける ホテル・旅館の実情」 徳江順一郎氏（東洋大学国際観光学部 准教授） first appe",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610061430kks-2-2-2-2-2-2-2-2-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-15T01:00:04+00:00"
+      },
+      {
+        "title": "ハイアット、アジア太平洋の新グループプレジデントにスティーブン・ホー氏 「アジア太平洋に確かな礎を築いたデービッドの後に続く」",
+        "tag": null,
+        "summary": "ハイアット ホテルズ コーポレーションは11月2日、2027年1月1日付でスティーブン・ホー氏がアジア太平洋地域グループプレジデントに就任すると発表した。2014年から同地域を率いてきたデービッド・ユデル氏は2026年 [&#8230;] The post ハイアット、アジア太平洋の新グループプレジデントにスティーブン・ホー氏 「アジア太平洋に確かな礎を築いたデービッドの後に続く」 first a",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611150930kks/",
+        "importance": 3,
+        "published": "2026-11-15T00:30:54+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+        "tag": null,
+        "summary": "It felt like stepping into the future.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+        "importance": 3,
+        "published": "2026-11-15T00:40:59+00:00"
+      },
+      {
+        "title": "L3Harris statement on the Nov. 13 ground stop",
+        "tag": null,
+        "summary": "Article URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop Comments URL: https://news.ycombinator.com/item?id=50501844 Points: 58 # Comments: 30",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+        "importance": 3,
+        "published": "2026-11-14T22:51:44+00:00"
+      },
+      {
+        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+        "tag": null,
+        "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 152 # Comments: 82",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+        "importance": 3,
+        "published": "2026-11-14T22:26:30+00:00"
+      },
+      {
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "tag": null,
+        "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 81 # Comments: 25",
+        "source": "Hacker News (Front Page)",
+        "url": "https://retrocomputing.stackexchange.com/questions/17957",
+        "importance": 3,
+        "published": "2026-11-14T22:22:49+00:00"
+      }
+    ]
+  }
+}
