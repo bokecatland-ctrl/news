@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T10:28:48.205251+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】相次ぐリチウムイオン電池火災、救済に壁 日弁連が初の無料電話相談",
+      "【国際】Clothing factories shut in Bangladesh as workers strike over pay",
+      "【ホテル】【11/19 無料オンラインセミナー】なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見るリゾート ホテルの採用戦略。 村上 晴花氏（北こぶしリゾート 経営戦略室（クマ活担当）マネージャー）"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "相次ぐリチウムイオン電池火災、救済に壁 日弁連が初の無料電話相談",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCB0VZZVCBPTIL008M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-16T01:00:00+00:00"
+      },
+      {
+        "title": "7～9月のGDP 年率-0.1％ 4期ぶりのマイナス",
+        "tag": null,
+        "summary": "2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261116de76344",
+        "importance": 3,
+        "published": "2026-11-16T00:53:59+00:00"
+      },
+      {
+        "title": "都営三田線、巣鴨―西高島平間で運転見合わせ 新板橋駅近くで煙",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCJ03X1VCJUTIL001M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-16T00:47:04+00:00"
+      },
+      {
+        "title": "実質GDP、1年ぶりマイナス 個人消費が不振、スーパーなど影響",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-16T00:32:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+        "tag": null,
+        "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-16T01:05:44+00:00"
+      },
+      {
+        "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+        "tag": null,
+        "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-16T00:51:23+00:00"
+      },
+      {
+        "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+        "tag": null,
+        "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-16T00:45:48+00:00"
+      },
+      {
+        "title": "Czechs rally against gov’t threat to media independence",
+        "tag": null,
+        "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-16T00:26:32+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【11/19 無料オンラインセミナー】なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見るリゾート ホテルの採用戦略。 村上 晴花氏（北こぶしリゾート 経営戦略室（クマ活担当）マネージャー）",
+        "tag": null,
+        "summary": "【第63回】 2026年11月19日（木）13：00～14：00 講師：村上 晴花氏（北こぶしリゾート 経営戦略室（クマ活担当）マネージャー） 講演名：なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見 [&#8230;] The post 【11/19 無料オンラインセミナー】なぜ知床に「個性」が集まるのか。リブランディングと地域貢献活動から見るリゾート ホテルの採用戦略。 村",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2609171200kks-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-16T01:00:59+00:00"
+      },
+      {
+        "title": "11月の飲食料品値上げは3ヵ月ぶり3000品目未満 高水準は続く",
+        "tag": null,
+        "summary": "帝国データバンクがこのほど公表した食品主要195社の価格改定動向調査で、今年11月の飲食料品の値上げは合計1477品目と、単月の値上げ品目数としては3カ月ぶりに3千品目を下回った。ただ、同月としては2022年以降で2番 [&#8230;] The post 11月の飲食料品値上げは3ヵ月ぶり3000品目未満 高水準は続く first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611160930kks/",
+        "importance": 3,
+        "published": "2026-11-16T00:30:37+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+        "tag": null,
+        "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting t",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+        "importance": 3,
+        "published": "2026-11-16T01:26:56+00:00"
+      },
+      {
+        "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+        "tag": null,
+        "summary": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+        "importance": 3,
+        "published": "2026-11-16T00:49:03+00:00"
+      },
+      {
+        "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
+        "tag": null,
+        "summary": "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+        "importance": 3,
+        "published": "2026-11-16T00:44:05+00:00"
+      },
+      {
+        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+        "tag": null,
+        "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 3 # Comments: 0",
+        "source": "Hacker News (Front Page)",
+        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+        "importance": 3,
+        "published": "2026-11-16T00:21:54+00:00"
+      }
+    ]
+  }
+}
