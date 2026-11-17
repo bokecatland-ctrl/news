@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T13:15:25.148593+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】横須賀基地所属の米兵 酒に酔ってマンションの扉破壊か 逮捕",
+      "【国際】Gunfire erupts in occupied West Bank settler attack",
+      "【ホテル】【私の視点 観光羅針盤 546】持続可能な観光地への期待 石森秀三"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "横須賀基地所属の米兵 酒に酔ってマンションの扉破壊か 逮捕",
+        "tag": null,
+        "summary": "アメリカ海軍横須賀基地に所属する26歳の兵士が、市内のマンションのガラス扉を消火器で壊したとして逮捕されました。当時、酒に酔った状態で、警察が詳しいいきさつを調べています。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261117de77047",
+        "importance": 3,
+        "published": "2026-11-17T04:04:52+00:00"
+      },
+      {
+        "title": "関文科相 2024年6月の政治資金パーティー“法的に問題なし”",
+        "tag": null,
+        "summary": "関文部科学大臣は、自身が代表を務める自民党支部がおととし6月に開催した政治資金パーティーについて、法的に問題はなかったという認識を重ねて示しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261117de77033",
+        "importance": 3,
+        "published": "2026-11-17T03:57:21+00:00"
+      },
+      {
+        "title": "東大総長選考、文科相「検証の中で説明責任を果たして」改めて見解",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCK0GWPVCKUTIL003M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-17T03:50:00+00:00"
+      },
+      {
+        "title": "江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍",
+        "tag": null,
+        "summary": "プロ野球、阪神や広島などでピッチャーとして活躍した江夏豊さんが17日までに亡くなりました。 78歳でした。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261117de77026",
+        "importance": 3,
+        "published": "2026-11-17T03:39:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Gunfire erupts in occupied West Bank settler attack",
+        "tag": null,
+        "summary": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-17T04:00:08+00:00"
+      },
+      {
+        "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+        "tag": null,
+        "summary": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-17T03:12:54+00:00"
+      },
+      {
+        "title": "トランプ大統領 アジア訪問出発 キム総書記と会談実現も焦点",
+        "tag": null,
+        "summary": "アメリカのトランプ大統領は、17日からフィリピンと中国を相次いで訪問し、アメリカと中国、ロシアの3か国の首脳による初めての会談に臨む予定です。中国では、北朝鮮のキム・ジョンウン（金正恩）総書記と会談を…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
+        "importance": 3,
+        "published": "2026-11-17T03:12:08+00:00"
+      },
+      {
+        "title": "高市首相 今夜クアッド首脳会合 中国念頭に\"深刻懸念”表明へ",
+        "tag": null,
+        "summary": "フィリピンを訪問中の高市総理大臣は、ASEANの関連首脳会議に臨んでいます。日本時間の17日夜には日米豪印4か国でつくる枠組み、クアッドの首脳会合に出席し、中国の動向も念頭に、経済的な威圧に対し深刻な…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
+        "importance": 3,
+        "published": "2026-11-17T02:58:51+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【私の視点 観光羅針盤 546】持続可能な観光地への期待 石森秀三",
+        "tag": null,
+        "summary": "トランプ大統領は中間選挙で共和党が惨敗を喫して苦境に陥っている。トランプ政権はさまざまな難儀を世界にもたらしたが、観光との関係では国際協調主義の否定が災難だ。例えば、国連のＳＤＧｓ（持続可能な開発目標）に対して明確な拒 [&#8230;] The post 【私の視点 観光羅針盤 546】持続可能な観光地への期待 石森秀三 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611171300kks/",
+        "importance": 3,
+        "published": "2026-11-17T04:00:49+00:00"
+      },
+      {
+        "title": "第3回東急ホテルズカクテルコンペ、優勝はセルリアンタワー東急ホテルの吉田氏",
+        "tag": null,
+        "summary": "東急ホテルズ＆リゾーツは11月4日、バーテンダーのスキル向上を目的とした「第3回東急ホテルズ カクテルコンペティション」の決勝大会をＢＥＬＬＵＳＴＡＲ ＴＯＫＹＯ（47） Ａ Ｐａｎ Ｐａｃｉｆｉｃ Ｈｏｔｅｌ（ベルス [&#8230;] The post 第3回東急ホテルズカクテルコンペ、優勝はセルリアンタワー東急ホテルの吉田氏 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611171300kks-2/",
+        "importance": 3,
+        "published": "2026-11-17T04:00:00+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
+        "tag": null,
+        "summary": "米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
+        "importance": 3,
+        "published": "2026-11-17T03:50:05+00:00"
+      },
+      {
+        "title": "モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+        "tag": null,
+        "summary": "企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+        "importance": 3,
+        "published": "2026-11-17T03:35:13+00:00"
+      },
+      {
+        "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+        "tag": null,
+        "summary": "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&amp;P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラム（トラッカー）を通じて外部企業",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+        "importance": 3,
+        "published": "2026-11-17T03:00:00+00:00"
+      },
+      {
+        "title": "規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」",
+        "tag": null,
+        "summary": "AIエージェントの実証から本番運用へ――。IBMとMicrosoftは、6000種類超の構築済みエージェントやアセットをそろえた業界特化型の基盤「Imagine Enterprise」でこの移行を支援する。一から構築せず、既存システムも置き換えずに済むという仕組みとは。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
+        "importance": 3,
+        "published": "2026-11-17T02:30:00+00:00"
+      }
+    ]
+  }
+}
