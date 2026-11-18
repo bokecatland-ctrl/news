@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T12:14:18.311870+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】株価 値下がり AIや半導体関連に売り注文",
+      "【国際】高市首相APECで訪中へ 習主席の対応は プーチン氏と接触を調整",
+      "【ホテル】インバウンド集客講座、11月30日に山形で開催 JR東日本×KKday、参加費無料"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "株価 値下がり AIや半導体関連に売り注文",
+        "tag": null,
+        "summary": "18日の東京株式市場、AIや半導体関連を中心に売り注文が出て株価は値下がりしています。 日経平均株価、午前の終値は17日の終値と比べ163円89銭安い5万8696円54銭。 東証株価指数＝トピック…",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261118de77610",
+        "importance": 3,
+        "published": "2026-11-18T03:04:17+00:00"
+      },
+      {
+        "title": "高市首相APECで訪中へ 習主席の対応は プーチン氏と接触を調整",
+        "tag": null,
+        "summary": "フィリピンを訪問中の高市総理大臣は、一連の国際会議などへの出席を終え、18日午後、中国に向かいます。習近平国家主席から出迎えを受けることが想定されるほか、ロシアのプーチン大統領との接触が調整されていて…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261118de77470",
+        "importance": 3,
+        "published": "2026-11-18T03:02:23+00:00"
+      },
+      {
+        "title": "田嶋幸三氏、FIFA会長選の立候補届を提出 5団体の推薦をクリア",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCL0TM1VCLUTQP008M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-18T03:02:10+00:00"
+      },
+      {
+        "title": "日本の自動車業界 主要素材・部品の共通化で国際競争力強化へ",
+        "tag": null,
+        "summary": "日本の自動車業界がメーカーの垣根を越えた新たな取り組みに乗り出します。 業界団体の日本自動車工業会は、鉄や樹脂といった主要な素材や部品をメーカーの間で共通化する方針を固めました。 開発期間の短縮な…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261118de77529",
+        "importance": 3,
+        "published": "2026-11-18T03:01:11+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "高市首相APECで訪中へ 習主席の対応は プーチン氏と接触を調整",
+        "tag": null,
+        "summary": "フィリピンを訪問中の高市総理大臣は、一連の国際会議などへの出席を終え、18日午後、中国に向かいます。習近平国家主席から出迎えを受けることが想定されるほか、ロシアのプーチン大統領との接触が調整されていて…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261118de77470",
+        "importance": 3,
+        "published": "2026-11-18T03:02:23+00:00"
+      },
+      {
+        "title": "今夜APEC首脳会議始まる あすには米中ロの首脳会談も",
+        "tag": null,
+        "summary": "APEC＝アジア太平洋経済協力会議の首脳会議が中国の※深センで18日夜、開幕します。会議に出席する各国の首脳らが続々と到着し、2国間の首脳会談なども行われる予定です。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261118de77556",
+        "importance": 3,
+        "published": "2026-11-18T02:56:50+00:00"
+      },
+      {
+        "title": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
+        "tag": null,
+        "summary": "アメリカのNSA＝国家安全保障局が機密情報のやり取りに使っているネットワークで障害が起こり、停止したと複数のアメリカメディアが伝えました。アメリカでは先週以降、重要なインフラで大規模なシステム障害が相…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261118de77569",
+        "importance": 3,
+        "published": "2026-11-18T02:49:44+00:00"
+      },
+      {
+        "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+        "tag": null,
+        "summary": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-18T02:36:09+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "インバウンド集客講座、11月30日に山形で開催 JR東日本×KKday、参加費無料",
+        "tag": null,
+        "summary": "JR東日本とKKdayは11月30日（火）、山形市のヤマコーホール（山交ビル７階）で「ゼロから始めるインバウンド集客講座」を開催する。 対象は山形県内で観光業に携わる観光施設・体験事業者など。定員は30名、参加費は無 [&#8230;] The post インバウンド集客講座、11月30日に山形で開催 JR東日本×KKday、参加費無料 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610021500kks-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-18T03:00:52+00:00"
+      },
+      {
+        "title": "2027年の国際旅行者数は8％増へ、日本は訪問者数で世界8位に、中国発の海外旅行は1850万人増と予測 ―ツーリズム・エコノミクス",
+        "tag": null,
+        "summary": "ツーリズム・エコノミクスは、2026年および2027年の世界の旅行市場の見通しを明らかに。2026年に発生している混乱が収束に向かうとの前提のもと、2027年には同約8％増まで急回復すると予測。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20261118-160872",
+        "importance": 3,
+        "published": "2026-11-18T02:49:34+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "「JINS」最大約1829万件漏えいの可能性 RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる",
+        "tag": null,
+        "summary": "KARTEは、企業がWebサイトやアプリの利用者の行動を分析し、最適な内容のメールやLINEメッセージなどを配信できるマーケティングサービス。16日に不正アクセスによる情報漏えいを発表していた。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003287/",
+        "importance": 3,
+        "published": "2026-11-18T02:52:31+00:00"
+      },
+      {
+        "title": "わが社はChatGPTでどう紹介されている？ OpenAIが企業向けの確認機能を提供開始",
+        "tag": null,
+        "summary": "ChatGPTがユーザーに向けて、自社をどのように紹介しているのかを把握したいと考える企業は多いだろう。OpenAIは、その把握に役立つ機能を企業向けにβ版で公開した。米国の対象企業であれば、自社のAIエージェントをChatGPT広告のリンク先に設定することもできる。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+        "importance": 3,
+        "published": "2026-11-18T01:40:00+00:00"
+      },
+      {
+        "title": "口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」 出金やログインパス変更に必要",
+        "tag": null,
+        "summary": "ワンタイムキーは、出金やログインパスワードの変更、一部環境でのパスキー設定などに必要だが、こうした作業に支障が出ている可能性がある。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003284/",
+        "importance": 3,
+        "published": "2026-11-18T01:39:12+00:00"
+      },
+      {
+        "title": "「GPT-6.2 Astra／Sol」登場 前世代超える性能を「コスト1/3で実現」 Ultrafast提供も拡大",
+        "tag": null,
+        "summary": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」を発表。Astraは一部の性能評価で、前世代を上回るスコアを3分の1以下のコストで実現したとうたう。第三者機関の総合指標ではClaude Fable 5.2次ぐ2位。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
+        "importance": 3,
+        "published": "2026-11-18T01:32:09+00:00"
+      }
+    ]
+  }
+}
