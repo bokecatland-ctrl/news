@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T11:52:52.172228+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】警察のサイバー部門幹部が臨時会議 個人情報の流出相次ぐなか",
+      "【国際】Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "【ホテル】ＪＲ東海 ９月輸送概況 東海道新幹線1％減"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "警察のサイバー部門幹部が臨時会議 個人情報の流出相次ぐなか",
+        "tag": null,
+        "summary": "個人情報の流出が相次ぐなか全国の警察のサイバー部門の幹部が集まる臨時の会議が開かれ、実態解明につながる通信履歴のいち早い収集など、企業などからの情報提供を待つのではなく“プッシュ型”の捜査を進めていく…",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261119de78229",
+        "importance": 3,
+        "published": "2026-11-19T02:51:45+00:00"
+      },
+      {
+        "title": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
+        "tag": null,
+        "summary": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。気象庁はことし7月の熊本地震の一連の活動だとして、今後1週間程度は最大震度5弱程度の地震に注意するとともに、さらに強い揺れの…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261119de78097",
+        "importance": 3,
+        "published": "2026-11-19T02:46:30+00:00"
+      },
+      {
+        "title": "高市首相 習主席と再度握手交わす APEC首脳会議を前に",
+        "tag": null,
+        "summary": "中国南部の＊深センを訪れている高市総理大臣は、19日午前、APEC＝アジア太平洋経済協力会議の首脳会議を前に、18日夜の晩さん会の前に続き、習近平国家主席の出迎えを受けました。 両首脳はおよそ10秒…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
+        "importance": 3,
+        "published": "2026-11-19T02:38:29+00:00"
+      },
+      {
+        "title": "ベトナムから特殊詐欺指示? 困窮の留学生勧誘、自宅に携帯100台",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCL41Q2VCLUTIL02NM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-19T02:30:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+        "tag": null,
+        "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-19T02:47:34+00:00"
+      },
+      {
+        "title": "高市首相 習主席と再度握手交わす APEC首脳会議を前に",
+        "tag": null,
+        "summary": "中国南部の＊深センを訪れている高市総理大臣は、19日午前、APEC＝アジア太平洋経済協力会議の首脳会議を前に、18日夜の晩さん会の前に続き、習近平国家主席の出迎えを受けました。 両首脳はおよそ10秒…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
+        "importance": 3,
+        "published": "2026-11-19T02:38:29+00:00"
+      },
+      {
+        "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+        "tag": null,
+        "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-19T02:20:15+00:00"
+      },
+      {
+        "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+        "tag": null,
+        "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-19T02:10:43+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ＪＲ東海 ９月輸送概況 東海道新幹線1％減",
+        "tag": null,
+        "summary": "ＪＲ東海がまとめた９月の輸送概況によると、東海道新幹線は前年同月比９９％となった。列車別では、「のぞみ」９８％、「ひかり」９９％、「こだま」１０４％。【記事提供：交通新聞】会員向け記事です。 無料登録して全文を読む ロ [&#8230;] The post ＪＲ東海 ９月輸送概況 東海道新幹線1％減 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611191130kks/",
+        "importance": 3,
+        "published": "2026-11-19T02:30:30+00:00"
+      },
+      {
+        "title": "【観光トレンド33】旅は冷蔵庫の扉で続いている 花井友美",
+        "tag": null,
+        "summary": "旅先で、何かを買って帰る…それは、職場に配る箱菓子であったり、家族と夕食を楽しむための名産品であったり、自分のための小さな品であったりする。 お土産には、旅の体験を形にしてとどめる「スーベニア」と、人に贈る「ギフト」 [&#8230;] The post 【観光トレンド33】旅は冷蔵庫の扉で続いている 花井友美 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611191100kks/",
+        "importance": 3,
+        "published": "2026-11-19T02:00:34+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "JR東の新キャラはB案“紫うさぎ”に 「Suica券面に登場」など、IP展開の可能性は",
+        "tag": null,
+        "summary": "",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
+        "importance": 3,
+        "published": "2026-11-19T02:24:39+00:00"
+      },
+      {
+        "title": "OpenAIのAIモデル、AMDのGPU回路設計を最大14％改善 独自チップ「ハラペーニョ」でも成果",
+        "tag": null,
+        "summary": "OpenAIは、自社のAIモデルによる半導体設計の最適化で、AMDの次世代フラッグシップGPUの一部回路において最大14％のPPA改善を達成したと発表した。自社開発の推論専用チップ「Jalapeno」でも回路面積を削減しており、今後はSynopsysと協力してEDAツールを操作する新モデルを訓練する。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
+        "importance": 3,
+        "published": "2026-11-19T02:09:22+00:00"
+      },
+      {
+        "title": "AI Will Not Make You Rich (2025)",
+        "tag": null,
+        "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 40 # Comments: 20",
+        "source": "Hacker News (Front Page)",
+        "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+        "importance": 3,
+        "published": "2026-11-19T01:51:28+00:00"
+      },
+      {
+        "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+        "tag": null,
+        "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Mu",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+        "importance": 3,
+        "published": "2026-11-19T01:39:45+00:00"
+      }
+    ]
+  }
+}
