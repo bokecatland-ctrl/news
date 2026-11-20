@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T11:45:32.130399+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】井林国交相 JR東海のリニア年内公表断念「1日も早く見通しを」",
+      "【国際】Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "【ホテル】ＪＲ東日本 27年3月期第2四半期決算 6期連続増収"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "井林国交相 JR東海のリニア年内公表断念「1日も早く見通しを」",
+        "tag": null,
+        "summary": "リニア中央新幹線の品川・名古屋間の開業時期の見通しについて、JR東海が年内の公表を断念したことに関し、井林国土交通大臣は「やむをえない」としながらもまちづくりを進めている関係者が先を予測できるよう「1…",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261120de78848",
+        "importance": 3,
+        "published": "2026-11-20T02:43:00+00:00"
+      },
+      {
+        "title": "【きょうのおはBiz 11月20日(金)】税制改正 本格議論スタート",
+        "tag": null,
+        "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261120de78814",
+        "importance": 3,
+        "published": "2026-11-20T02:41:41+00:00"
+      },
+      {
+        "title": "片山金融相 漏えい可能性の楽天証券に“非常に遺憾”",
+        "tag": null,
+        "summary": "ネット証券大手の楽天証券で447万口座で年収や金融資産などの情報が漏えいした可能性が出ている問題で、片山金融担当大臣は、「非常に遺憾だ」とした上で、金融庁として会社の顧客情報の管理状況や利用者保護の対…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261120de78854",
+        "importance": 3,
+        "published": "2026-11-20T02:25:28+00:00"
+      },
+      {
+        "title": "10月消費者物価 前年同月比＋2.2％ 生鮮食品除く指数",
+        "tag": null,
+        "summary": "家庭で消費するモノやサービスの値動きをみる先月・10月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月に比べて2.2％上昇しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
+        "importance": 3,
+        "published": "2026-11-20T02:25:06+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+        "tag": null,
+        "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-20T02:25:33+00:00"
+      },
+      {
+        "title": "気候変動の偽情報投稿 国連「対策の障害に」日本も増加 注意を",
+        "tag": null,
+        "summary": "気候変動対策を話し合う国連の会議「COP31」がトルコで開かれていますが、SNSではここ数年「国連が気候変動はなかったと公表した」などといった偽情報の投稿が増えています。 こうした偽情報は世界各国で…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261120de78810",
+        "importance": 3,
+        "published": "2026-11-20T01:32:40+00:00"
+      },
+      {
+        "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+        "tag": null,
+        "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-20T01:29:28+00:00"
+      },
+      {
+        "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+        "tag": null,
+        "summary": "Three top Democrats called Trump&#039;s dealings with law firms a case of &#039;official coercion&#039; and pledged investigations.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-20T01:10:06+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ＪＲ東日本 27年3月期第2四半期決算 6期連続増収",
+        "tag": null,
+        "summary": "ＪＲ東日本は１０月３０日、２０２７年３月期第２四半期（中間期）連結決算を発表した。運輸収入や不動産賃貸収入の増加などにより、６期連続の増収となり、第２四半期決算として過去最高を更新した。増収に伴い、営業利益、経常利益、 [&#8230;] The post ＪＲ東日本 27年3月期第2四半期決算 6期連続増収 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611201130kks/",
+        "importance": 3,
+        "published": "2026-11-20T02:30:38+00:00"
+      },
+      {
+        "title": "【失敗の法則から学ぶ～宿経営者の仕事大全124】うちは旅館だから 孫田 猛",
+        "tag": null,
+        "summary": "旅館経営者の方々とお話しをしていると、無意識のうちに口にされる言葉があります。それは「うちは旅館だから」です。 旅館には、旅館ならではの事情があります。生産性が低い、人が集まらない、休日が不規則、賞与が出せない。経営 [&#8230;] The post 【失敗の法則から学ぶ～宿経営者の仕事大全124】うちは旅館だから 孫田 猛 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611201100kks/",
+        "importance": 3,
+        "published": "2026-11-20T02:00:51+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算 3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+        "tag": null,
+        "summary": "日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる。CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見据える戦略を語った。現場に入る精鋭チーム「FDE」を1年で3000人へ3倍増させ、売上の9割を占める上位200～300社への集中でフィジカルAIの覇権を狙う。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+        "importance": 3,
+        "published": "2026-11-20T02:15:00+00:00"
+      },
+      {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "tag": null,
+        "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 9 # Comments: 0",
+        "source": "Hacker News (Front Page)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
+        "importance": 3,
+        "published": "2026-11-20T02:01:09+00:00"
+      },
+      {
+        "title": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
+        "tag": null,
+        "summary": "米Autodeskは、自動車デザイナー向けソリューション「Autodesk NavPack」にNVIDIAの技術を統合する計画を発表した。対応するAIモデルアーキテクチャの拡張や、ワークフローの一部をGPUで高速化することを目指す。",
+        "source": "ITmedia AI+",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html",
+        "importance": 3,
+        "published": "2026-11-20T02:00:00+00:00"
+      },
+      {
+        "title": "Vint Cerf on why TCP/IP was never patented",
+        "tag": null,
+        "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 11 # Comments: 3",
+        "source": "Hacker News (Front Page)",
+        "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+        "importance": 3,
+        "published": "2026-11-20T01:06:12+00:00"
+      }
+    ]
+  }
+}
