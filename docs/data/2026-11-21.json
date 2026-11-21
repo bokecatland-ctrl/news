@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T11:55:11.785207+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】住宅街にクマ出没の前橋 けさ警察官が目撃 捜索続く",
+      "【国際】仏大統領選元首相立候補表明 極右ルペン氏支持トップ",
+      "【ホテル】日本の事業者に海外から月2億1,900万ドル超 100以上の国・地域の約860万人が購入、自動車ではジンバブエが最大市場"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "住宅街にクマ出没の前橋 けさ警察官が目撃 捜索続く",
+        "tag": null,
+        "summary": "住宅街にクマが出没し警戒が続いている前橋市では、21日朝に警察官がクマを目撃し、市や警察などが捕獲に向けて捜索を続けています。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261121de79555",
+        "importance": 3,
+        "published": "2026-11-21T02:54:08+00:00"
+      },
+      {
+        "title": "冬型の気圧配置 新潟は大雨 北～東日本の山沿いは積雪",
+        "tag": null,
+        "summary": "冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があります。土砂災害に厳重に警戒してください。 北日本から東日本の山沿いでは積雪が増えていて、車を運転…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261121de79490",
+        "importance": 3,
+        "published": "2026-11-21T02:33:00+00:00"
+      },
+      {
+        "title": "「プロの政治家」だった福田元首相 日本・世界の行く末を案じた晩年",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCN3F80VCNUTFK015M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-21T02:30:00+00:00"
+      },
+      {
+        "title": "自民・京都が政治資金パーティー再開 裏金問題など経て ノルマ廃止",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCN3JQRVCNPLZB008M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-21T02:30:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "仏大統領選元首相立候補表明 極右ルペン氏支持トップ",
+        "tag": null,
+        "summary": "マクロン大統領の後任を選ぶフランス大統領選挙までおよそ5か月となるなか、ドビルパン元首相が立候補を表明しました。 最新の世論調査では極右政党のルペン氏が2位以下を大きく引き離してトップに立っていて、…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261121de79545",
+        "importance": 3,
+        "published": "2026-11-21T02:18:47+00:00"
+      },
+      {
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "tag": null,
+        "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-21T02:09:46+00:00"
+      },
+      {
+        "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+        "tag": null,
+        "summary": "US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-21T01:49:07+00:00"
+      },
+      {
+        "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+        "tag": null,
+        "summary": "COP31 deal stalls as nations struggle to agree on climate plan",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-21T01:44:09+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "日本の事業者に海外から月2億1,900万ドル超 100以上の国・地域の約860万人が購入、自動車ではジンバブエが最大市場",
+        "tag": null,
+        "summary": "PayPalは11月11日、決済サービスを通じて海外の消費者が日本の事業者から商品・サービスを購入した際の決済取引データを分析し、その結果を「PayPal Global Beat(世界の鼓動)」として初めて公表した。2 [&#8230;] The post 日本の事業者に海外から月2億1,900万ドル超 100以上の国・地域の約860万人が購入、自動車ではジンバブエが最大市場 first appe",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611211130kks/",
+        "importance": 3,
+        "published": "2026-11-21T02:30:01+00:00"
+      },
+      {
+        "title": "【逆境をチャンスにー旅館の再生プラン 824】観光地経営と宿の役割(4) 青木康弘",
+        "tag": null,
+        "summary": "前回コラムでは、送迎にかけている費用やフロントに寄せられる移動の相談を数字にまとめ、ＤＭＯや自治体に持ち込むことの有効性を述べた。宿の手元にある日々の宿泊実績も、地域にとって価値の高い数字である。今回コラムでは、この数 [&#8230;] The post 【逆境をチャンスにー旅館の再生プラン 824】観光地経営と宿の役割(4) 青木康弘 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611211100kks/",
+        "importance": 3,
+        "published": "2026-11-21T02:00:09+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Integrals of Polynomials with Galois Group S_p",
+        "tag": null,
+        "summary": "Article URL: https://m-slee.netlify.app/posts/integrals-galois-polynomials Comments URL: https://news.ycombinator.com/item?id=50584776 Points: 6 # Comments: 1",
+        "source": "Hacker News (Front Page)",
+        "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+        "importance": 3,
+        "published": "2026-11-21T01:17:05+00:00"
+      },
+      {
+        "title": "AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表",
+        "tag": null,
+        "summary": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+        "importance": 3,
+        "published": "2026-11-21T00:00:00+00:00"
+      },
+      {
+        "title": "Re: Riemann",
+        "tag": null,
+        "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 144 # Comments: 129",
+        "source": "Hacker News (Front Page)",
+        "url": "https://borretti.me/article/re-riemann",
+        "importance": 3,
+        "published": "2026-11-20T23:42:44+00:00"
+      },
+      {
+        "title": "Serious cyberattack thought backed by wealthy operators",
+        "tag": null,
+        "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 23 # Comments: 8",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+        "importance": 3,
+        "published": "2026-11-20T23:29:30+00:00"
+      }
+    ]
+  }
+}
