@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T10:47:54.734011+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を",
+      "【国際】Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "【ホテル】ＪＲ四国、25年度線区別収支と営業係数を公表 万博など奏功し改善"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を",
+        "tag": null,
+        "summary": "北日本と東日本の日本海側を中心に雨や雪が降り、新潟県では「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 山沿いではこれまでの雪で積雪が多くなっている地域があるほか、2…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261121de79767",
+        "importance": 3,
+        "published": "2026-11-22T01:39:40+00:00"
+      },
+      {
+        "title": "アンソロピックの数学者 AIで難問「リーマン予想」証明と主張",
+        "tag": null,
+        "summary": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+        "importance": 3,
+        "published": "2026-11-22T01:10:00+00:00"
+      },
+      {
+        "title": "デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」",
+        "tag": null,
+        "summary": "北欧デンマークの首相府は、国内での暗殺計画を警察などが阻止したと発表しました。ロシアの情報機関が計画を主導したとみられるとして、フレデリクセン首相はロシアへの制裁を強化するとしています。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261122de79796",
+        "importance": 3,
+        "published": "2026-11-21T23:38:38+00:00"
+      },
+      {
+        "title": "ゼレンスキー大統領「3か国首脳会談はロシアにとっては失敗」",
+        "tag": null,
+        "summary": "ウクライナのゼレンスキー大統領はアメリカ、中国、ロシアによる3か国の首脳会談について「ロシアにとっては失敗に終わった」と述べ、プーチン大統領の期待どおりには進まなかったという認識を示しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261122de79819",
+        "importance": 3,
+        "published": "2026-11-21T23:07:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "tag": null,
+        "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-22T01:25:03+00:00"
+      },
+      {
+        "title": "アンソロピックの数学者 AIで難問「リーマン予想」証明と主張",
+        "tag": null,
+        "summary": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+        "importance": 3,
+        "published": "2026-11-22T01:10:00+00:00"
+      },
+      {
+        "title": "Moviegoers head for the exits as quake strikes Peru",
+        "tag": null,
+        "summary": "Moviegoers head for the exits as quake strikes Peru",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-22T01:07:19+00:00"
+      },
+      {
+        "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月22日の動き）",
+        "tag": null,
+        "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。 ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる22日（日本時間）の動きを…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261028de67166",
+        "importance": 3,
+        "published": "2026-11-22T00:51:35+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "ＪＲ四国、25年度線区別収支と営業係数を公表 万博など奏功し改善",
+        "tag": null,
+        "summary": "ＪＲ四国は１０月３０日、管内８路線１８区間の２０２５年度線区別収支と営業係数を公表した。今回から鉄道事業にかかる費用と収入の関係について、一定の前提条件を置いた上で、より実態を反映した算定方法への見直しを行った。全線区 [&#8230;] The post ＪＲ四国、25年度線区別収支と営業係数を公表 万博など奏功し改善 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611221030kks/",
+        "importance": 3,
+        "published": "2026-11-22T01:30:42+00:00"
+      },
+      {
+        "title": "【1/28 無料オンラインセミナー】投資物件を通じた 観光地活性の可能性～当ファンド事例を通じて～ 檜垣克己氏（地域創生ソリューション株式会社 代表取締役社長）",
+        "tag": null,
+        "summary": "【第65回】 2027年1月28日（木）13：00～14：00 講師：檜垣克己氏（地域創生ソリューション株式会社 代表取締役社長） 講演名：投資物件を通じた 観光地活性の可能性～当ファンド事例を通じて～ 【セミナーの概要 [&#8230;] The post 【1/28 無料オンラインセミナー】投資物件を通じた 観光地活性の可能性～当ファンド事例を通じて～ 檜垣克己氏（地域創生ソリューション株式会",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2610071430kks-2-2-2-2-2-2-2-3-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-22T01:00:19+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Sandwich Simulator",
+        "tag": null,
+        "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 12 # Comments: 2",
+        "source": "Hacker News (Front Page)",
+        "url": "https://stulle.app/",
+        "importance": 3,
+        "published": "2026-11-22T00:07:59+00:00"
+      },
+      {
+        "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+        "tag": null,
+        "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+        "importance": 3,
+        "published": "2026-11-21T23:21:31+00:00"
+      },
+      {
+        "title": "International UN talks on controlling use of autonomous weapons collapse",
+        "tag": null,
+        "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 36 # Comm",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "importance": 3,
+        "published": "2026-11-21T23:10:21+00:00"
+      },
+      {
+        "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+        "tag": null,
+        "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+        "importance": 3,
+        "published": "2026-11-21T22:12:41+00:00"
+      }
+    ]
+  }
+}
