@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T11:04:11.415137+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+      "【国際】イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+      "【ホテル】観光経済新聞チャンネル【アーカイブ動画】"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+        "tag": null,
+        "summary": "緊張が続く中東のホルムズ海峡で、イギリス人のスイマーが3日間にわたってあわせて15キロを泳ぎ切り、船舶への攻撃が海洋生物などに深刻な影響をおよぼすおそれがあると訴えました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80145",
+        "importance": 3,
+        "published": "2026-11-23T01:36:50+00:00"
+      },
+      {
+        "title": "ドイツ最大労組 メルセデスの工場でも24時間ストライキ",
+        "tag": null,
+        "summary": "大手自動車メーカーの従業員が加入するドイツ最大の労働組合は、賃上げなどをめぐって22日から新たにメルセデス・ベンツグループの工場で24時間のストライキに踏み切ることになり、地元メディアは、影響は広い範…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80139",
+        "importance": 3,
+        "published": "2026-11-23T00:48:00+00:00"
+      },
+      {
+        "title": "“会談模索もキム総書記の条件を米が受け入れられず”米報道",
+        "tag": null,
+        "summary": "アメリカの有力紙ウォール・ストリート・ジャーナルは、トランプ大統領の先週のアジア訪問にあわせて、アメリカと北朝鮮の双方が首脳会談の可能性を模索したものの、キム・ジョンウン（金正恩）総書記が提示した条件…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80133",
+        "importance": 3,
+        "published": "2026-11-23T00:26:00+00:00"
+      },
+      {
+        "title": "横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見",
+        "tag": null,
+        "summary": "名探偵・金田一耕助シリーズで知られる推理小説作家の横溝正史が、戦時下、陸軍が発行した雑誌に掲載した短編の推理小説が見つかりました。 専門家は「時局にそぐわないとして推理小説の発表の場が失われつつあった…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80134",
+        "importance": 3,
+        "published": "2026-11-23T00:16:28+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+        "tag": null,
+        "summary": "緊張が続く中東のホルムズ海峡で、イギリス人のスイマーが3日間にわたってあわせて15キロを泳ぎ切り、船舶への攻撃が海洋生物などに深刻な影響をおよぼすおそれがあると訴えました。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80145",
+        "importance": 3,
+        "published": "2026-11-23T01:36:50+00:00"
+      },
+      {
+        "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+        "tag": null,
+        "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-23T01:23:43+00:00"
+      },
+      {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "tag": null,
+        "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-23T00:50:35+00:00"
+      },
+      {
+        "title": "ドイツ最大労組 メルセデスの工場でも24時間ストライキ",
+        "tag": null,
+        "summary": "大手自動車メーカーの従業員が加入するドイツ最大の労働組合は、賃上げなどをめぐって22日から新たにメルセデス・ベンツグループの工場で24時間のストライキに踏み切ることになり、地元メディアは、影響は広い範…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80139",
+        "importance": 3,
+        "published": "2026-11-23T00:48:00+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "観光経済新聞チャンネル【アーカイブ動画】",
+        "tag": null,
+        "summary": "観光経済新聞チャンネルとは 観光経済新聞社は、日本の観光業界と地域の活性化に貢献するという思いのもと、2023年10月から「観光経済新聞チャンネル」をスタートしました。私どもの経営理念は、「あすの経営に役立つ情報とノウ [&#8230;] The post 観光経済新聞チャンネル【アーカイブ動画】 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611011800kks-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+        "importance": 3,
+        "published": "2026-11-23T02:00:11+00:00"
+      },
+      {
+        "title": "日本航空、APEX「Best in the World」で3賞 「世界最高品質」と評価され「2027 APEX Five Star™ Global Airline」に選出",
+        "tag": null,
+        "summary": "日本航空(JAL)は11月19日(現地時間)、シンガポールで開催された「FTE/APEX Asia Expo」で、世界最大級の航空業界団体APEXから「2027 APEX Five Star&#x2122; Globa [&#8230;] The post 日本航空、APEX「Best in the World」で3賞 「世界最高品質」と評価され「2027 APEX Five Star™ Glob",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611231030kks/",
+        "importance": 3,
+        "published": "2026-11-23T01:30:11+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "tag": null,
+        "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 13 # Comments: 1",
+        "source": "Hacker News (Front Page)",
+        "url": "https://spelunkr.tv",
+        "importance": 3,
+        "published": "2026-11-23T01:13:51+00:00"
+      },
+      {
+        "title": "What we learned operating auth for 1k APIs",
+        "tag": null,
+        "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 3 # Comments: 1",
+        "source": "Hacker News (Front Page)",
+        "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+        "importance": 3,
+        "published": "2026-11-23T01:01:11+00:00"
+      },
+      {
+        "title": "高級感のためだけじゃない 財布やバッグの新しいアイデアが“革製品”から生まれる理由",
+        "tag": null,
+        "summary": "革製品の魅力は高級感だけではない。留め具なしで閉じる薄い財布、パンツのポケットに収まる長財布、平たく畳める革のバッグ。どれも、革という素材でなければ成立しない仕掛けで作られているのだ。5年半続いた連載の最終回は、筆者が何年も愛用してきた財布とバッグから、革製品が“新しいアイデアの実験場”になる理由を探る。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003389/",
+        "importance": 3,
+        "published": "2026-11-23T01:00:00+00:00"
+      },
+      {
+        "title": "Nespresso's project to reduce grams of coffee per capsule",
+        "tag": null,
+        "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 89 # Comments: 82",
+        "source": "Hacker News (Front Page)",
+        "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+        "importance": 3,
+        "published": "2026-11-22T23:57:45+00:00"
+      }
+    ]
+  }
+}
