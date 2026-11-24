@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T14:41:17.674598+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】消費税減税法案めぐり 立民が最大5万円給付など対案を国会提出",
+      "【国際】エヌビディアCEO フアン氏が復帰へ 企業統治も問われるか",
+      "【ホテル】「世界の持続可能な観光地100」に岐阜県岩村町が選定"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "消費税減税法案めぐり 立民が最大5万円給付など対案を国会提出",
+        "tag": null,
+        "summary": "食料品の消費税減税関連法案をめぐり、立憲民主党は給付金の支給を柱とした対案を国会に提出しました。来年度から2年間、給与収入で年収600万円を上限に年間1人あたり最大5万円の給付を行うなどとしています。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261124de80414",
+        "importance": 3,
+        "published": "2026-11-24T05:39:41+00:00"
+      },
+      {
+        "title": "EV補助金受け付け終了で赤澤経産相「空白期間の対応検討」",
+        "tag": null,
+        "summary": "EV＝電気自動車などを購入する際の補助金が先週、受け付けを終了したことについて、赤澤経済産業大臣は、2027年度も補助金の継続を要求しているとした上で、要求が認められても受け付けや支給の期間に空白が生…",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261124de80532",
+        "importance": 3,
+        "published": "2026-11-24T05:33:33+00:00"
+      },
+      {
+        "title": "安全保障上重要な土地の取得規制を強化する法案 衆議院で可決",
+        "tag": null,
+        "summary": "安全保障上、重要な土地などの取得規制を強化するための法案が衆議院本会議で賛成多数で可決され、参議院に送られました。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261124de80521",
+        "importance": 3,
+        "published": "2026-11-24T05:19:50+00:00"
+      },
+      {
+        "title": "エヌビディアCEO フアン氏が復帰へ 企業統治も問われるか",
+        "tag": null,
+        "summary": "アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が電撃的に復帰したことについて、トランプ大統領は、23日、「私が取締役会を説得した」などと、関与を明らかにしました。辞任から10日あま…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304",
+        "importance": 3,
+        "published": "2026-11-24T05:06:49+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "エヌビディアCEO フアン氏が復帰へ 企業統治も問われるか",
+        "tag": null,
+        "summary": "アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が電撃的に復帰したことについて、トランプ大統領は、23日、「私が取締役会を説得した」などと、関与を明らかにしました。辞任から10日あま…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304",
+        "importance": 3,
+        "published": "2026-11-24T05:06:49+00:00"
+      },
+      {
+        "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+        "tag": null,
+        "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-24T04:59:13+00:00"
+      },
+      {
+        "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+        "tag": null,
+        "summary": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-24T04:52:06+00:00"
+      },
+      {
+        "title": "Car bomb strikes governor’s office in Meta, Colombia",
+        "tag": null,
+        "summary": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-24T04:49:31+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "「世界の持続可能な観光地100」に岐阜県岩村町が選定",
+        "tag": null,
+        "summary": "岐阜県によると、恵那市岩村町はオランダの観光認証団体グリーン・デスティネーションズが実施する「世界の持続可能な観光地トップ100」に選ばれた。県内4例目で、歴史・文化を守る地域主体の観光地域づくりが評価された。 10 [&#8230;] The post 「世界の持続可能な観光地100」に岐阜県岩村町が選定 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611241400kks/",
+        "importance": 3,
+        "published": "2026-11-24T05:00:37+00:00"
+      },
+      {
+        "title": "【本だな】旅酒 全国を制覇した強者たち名鑑 Vol.1",
+        "tag": null,
+        "summary": "全国47都道府県にある酒蔵と提携し、現地でしか買えない、「旅をしなければ飲めない酒がある」をキャッチフレーズにした地酒ブランド「旅酒」。 地方創生と観光振興の理念のもと、株式会社旅酒が手掛けているもので、その数は日本 [&#8230;] The post 【本だな】旅酒 全国を制覇した強者たち名鑑 Vol.1 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611241300kks/",
+        "importance": 3,
+        "published": "2026-11-24T04:00:40+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "「ノーコード」の次は何か？ AIを組み込むkintoneの“新しい呼び名”を考える",
+        "tag": null,
+        "summary": "AI時代の業務システムは、どのような姿になるのか。人とAIが役割を分担して働く時代に業務システムの中枢を担うのは何か。サイボウズ「kintone」の進化を見ながら考察する。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
+        "importance": 3,
+        "published": "2026-11-24T04:20:00+00:00"
+      },
+      {
+        "title": "DeNA、「AI社員」を外販 使い過ぎを“残業時間”で管理",
+        "tag": null,
+        "summary": "DeNAは、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」の提供を決定したと発表した。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/",
+        "importance": 3,
+        "published": "2026-11-24T03:26:08+00:00"
+      },
+      {
+        "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+        "tag": null,
+        "summary": "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供する。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
+        "importance": 3,
+        "published": "2026-11-24T01:21:04+00:00"
+      },
+      {
+        "title": "国内で採れないAI人材、インドで確保 “日本に呼ばない”開発ラボをZenkenが始めた理由",
+        "tag": null,
+        "summary": "生成AIの普及で、企業が求めるエンジニア像は変わった。国内で採れない人材をどう確保するか。Zenkenは、インドのベテランエンジニアが現地に住んだまま開発に加わるサービスを始めた。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
+        "importance": 3,
+        "published": "2026-11-24T01:00:00+00:00"
+      }
+    ]
+  }
+}
