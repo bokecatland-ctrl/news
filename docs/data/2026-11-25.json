@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T13:41:49.042751+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】【動画】Pickup NEWS（11月25日）",
+      "【国際】Protesters clash with police over Venezuela’s poor minimum wage",
+      "【ホテル】「応募後すぐ集まる」地方でも低コストで人手充足 リブマックス、タイミー活用で出店スピードに対応"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "【動画】Pickup NEWS（11月25日）",
+        "tag": null,
+        "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。 （データ放送では動画をご覧いただけません）",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261124de80624",
+        "importance": 3,
+        "published": "2026-11-25T04:33:49+00:00"
+      },
+      {
+        "title": "「クマ殺さないで」前橋市役所に相次ぐ抗議電話、少なくとも数百件か",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCT1BN1VCTUTIL005M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-25T04:30:00+00:00"
+      },
+      {
+        "title": "中高生ら5人を強盗殺人未遂容疑で再逮捕へ 愛知・小牧の事件",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCT14Y6VCTOIPE001M.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-25T04:30:00+00:00"
+      },
+      {
+        "title": "福岡市で男性が刺され意識なし 刺した人物は逃走か",
+        "tag": null,
+        "summary": "警察によりますと、25日昼ごろ、福岡市西区北原で「人が刺された」と通報がありました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261125de81118",
+        "importance": 3,
+        "published": "2026-11-25T04:28:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "Protesters clash with police over Venezuela’s poor minimum wage",
+        "tag": null,
+        "summary": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-25T04:27:10+00:00"
+      },
+      {
+        "title": "Israeli strike kills four people in Gaza",
+        "tag": null,
+        "summary": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-25T04:13:58+00:00"
+      },
+      {
+        "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
+        "tag": null,
+        "summary": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-25T04:12:11+00:00"
+      },
+      {
+        "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+        "tag": null,
+        "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-25T03:54:43+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "「応募後すぐ集まる」地方でも低コストで人手充足 リブマックス、タイミー活用で出店スピードに対応",
+        "tag": null,
+        "summary": "「九州ふっこう応援割」などで、地域によっては急な人手不足に嬉しい悲鳴をあげる宿泊施設もある。そんな中、急拡大を続けるリブマックスホテル＆リゾーツ（東京都港区、有山憲社長）では、タイミーで募集したワーカーを上手く活用して [&#8230;] The post 「応募後すぐ集まる」地方でも低コストで人手充足 リブマックス、タイミー活用で出店スピードに対応 first appeared on 観光経済新",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611251330kks/",
+        "importance": 3,
+        "published": "2026-11-25T04:30:33+00:00"
+      },
+      {
+        "title": "India’s Bloom Eyes Southeast Asia and Twice the Rooms After $75 Million Raise",
+        "tag": null,
+        "summary": "Bloom&apos;s pitch is profitable growth in a market where many chains chase room counts. Kedaara&apos;s $75 million will test whether that discipline survives as it scales up and leaves India for the ",
+        "source": "Skift",
+        "url": "https://skift.com/2026/11/24/indias-bloom-eyes-southeast-asia-and-twice-the-rooms-after-75-million-raise/",
+        "importance": 3,
+        "published": "2026-11-25T04:00:59+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "タワレコ、会員情報約1100万件流出 「3年以内の退会者」も対象 通販サイト停止続く",
+        "tag": null,
+        "summary": "退会後3年以内の人の情報も含まれているという。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003439/",
+        "importance": 3,
+        "published": "2026-11-25T04:27:21+00:00"
+      },
+      {
+        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+        "tag": null,
+        "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 14 # Comments: 2",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+        "importance": 3,
+        "published": "2026-11-25T03:47:42+00:00"
+      },
+      {
+        "title": "A faster algorithm for extracting hexadecimal digits of π",
+        "tag": null,
+        "summary": "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/ Comments URL: https://news.ycombinator.com/item?id=50638075 Points: 5 # Comments: 0",
+        "source": "Hacker News (Front Page)",
+        "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+        "importance": 3,
+        "published": "2026-11-25T03:28:42+00:00"
+      },
+      {
+        "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+        "tag": null,
+        "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 10 # Comments: 4",
+        "source": "Hacker News (Front Page)",
+        "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+        "importance": 3,
+        "published": "2026-11-25T03:28:06+00:00"
+      }
+    ]
+  }
+}
