@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T12:51:00.390205+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】参院 野党側 関文科相の問責決議案を提出 あす採決へ",
+      "【国際】米 過剰生産で日本など追加関税 既存税率含め日本は最大15％に",
+      "【ホテル】【テツ旅、バス旅145】名鉄広見線 鎌倉 淳"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "参院 野党側 関文科相の問責決議案を提出 あす採決へ",
+        "tag": null,
+        "summary": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、野党側は、国会で事実と異なる説明をするなど閣僚にふさわしくないとして、参議院に問責決議案を提出しました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261126de81559",
+        "importance": 3,
+        "published": "2026-11-26T03:48:20+00:00"
+      },
+      {
+        "title": "「政府は極めて慎重に対応を」 批判浴びる政府広報、自民幹部が注文",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCV13WQVCVUTFK00DM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-26T03:43:39+00:00"
+      },
+      {
+        "title": "鹿児島 姶良 住宅火災 2人遺体で見つかる 住人3人と連絡取れず",
+        "tag": null,
+        "summary": "25日夜、鹿児島県姶良市で住宅が全焼する火事があり、焼け跡から2人が遺体で発見されました。この家に住む3人と連絡が取れていないということで、警察が確認を進めています。",
+        "source": "NHK 社会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261126de81572",
+        "importance": 3,
+        "published": "2026-11-26T03:39:00+00:00"
+      },
+      {
+        "title": "再稼働遅れ、なぜ深刻なのか 東電収支改善に暗い影 柏崎刈羽7号機",
+        "tag": null,
+        "summary": "",
+        "source": "朝日新聞 ニュース",
+        "url": "http://www.asahi.com/articles/ASVCT3DHZVCTULFA01BM.html?ref=rss",
+        "importance": 3,
+        "published": "2026-11-26T03:29:45+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "米 過剰生産で日本など追加関税 既存税率含め日本は最大15％に",
+        "tag": null,
+        "summary": "USTR＝アメリカ通商代表部は、過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしているとして、通商法301条に基づき日本を含む14の国と地域に新たな追加関税を課す方針を明らかにしました。 この…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261126de81560",
+        "importance": 3,
+        "published": "2026-11-26T03:09:42+00:00"
+      },
+      {
+        "title": "US announces new tariffs on host of countries including China",
+        "tag": null,
+        "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-26T03:01:40+00:00"
+      },
+      {
+        "title": "FIFA turns to influencers to promote U17 World Cup",
+        "tag": null,
+        "summary": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-26T03:00:51+00:00"
+      },
+      {
+        "title": "北朝鮮 キム総書記 核保有「絶対に誰の承認も追求しない」",
+        "tag": null,
+        "summary": "北朝鮮のキム・ジョンウン（金正恩）総書記は核物質の生産工場や核兵器研究所などを視察し、核保有について、「絶対に誰の承認も追求しない」として、非核化には応じない姿勢を改めて強調しました。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261126de81651",
+        "importance": 3,
+        "published": "2026-11-26T02:38:30+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【テツ旅、バス旅145】名鉄広見線 鎌倉 淳",
+        "tag": null,
+        "summary": "名鉄広見線は、愛知県の犬山から岐阜県の新可児を経て御嵩に至る路線で、全長は約22キロです。 名鉄名古屋駅から乗車してみました。まず快速特急で犬山へ向かい、犬山駅で広見線の各駅停車に乗り継ぎます。終点の新可児駅でさらに [&#8230;] The post 【テツ旅、バス旅145】名鉄広見線 鎌倉 淳 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611261200kks/",
+        "importance": 3,
+        "published": "2026-11-26T03:00:11+00:00"
+      },
+      {
+        "title": "調査レポート「ウェルネスツーリズム 2027」を発表、急成長する市場規模や世界の最新事例・トレンドを網羅（ダウンロード無料） ―トラベルボイスREPORT",
+        "tag": null,
+        "summary": "トラベルボイスが調査レポート「ウェルネスツーリズム2027」を発表。1兆ドルに迫る市場規模や高単価旅行者の動向、世界の最新事例やトレンドを網羅した（無料ダウンロード可）。",
+        "source": "トラベルボイス",
+        "url": "https://www.travelvoice.jp/20261125-160857",
+        "importance": 3,
+        "published": "2026-11-26T02:31:16+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
+        "tag": null,
+        "summary": "検索から予約、決済まで自律的にこなす「AIエージェント」の普及で、旅行会社の存在意義が問われている。日本旅行業協会（JATA）主催のシンポジウムに旅行・食・IT・大手旅行会社のプロ4人が登壇。「おいしい」を味わう感覚や、顧客の言葉の裏にある本音までは読み取れないAIの限界を指摘し、AIによる業務効率化で生み出した時間を「信頼関係」や現場の感動体験に振り向ける共創の生存戦略を議論した。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+        "importance": 3,
+        "published": "2026-11-26T03:00:00+00:00"
+      },
+      {
+        "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
+        "tag": null,
+        "summary": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+        "importance": 3,
+        "published": "2026-11-26T03:00:00+00:00"
+      },
+      {
+        "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+        "tag": null,
+        "summary": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+        "importance": 3,
+        "published": "2026-11-26T03:00:00+00:00"
+      },
+      {
+        "title": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
+        "tag": null,
+        "summary": "PayPayマネーライトを現金化する目的で第三者へ譲渡する行為はPayPayの利用規約違反であり、PayPay残高の利用停止やアカウントの閉鎖などの措置を講じる場合があると警告している。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
+        "importance": 3,
+        "published": "2026-11-26T02:27:43+00:00"
+      }
+    ]
+  }
+}
