@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T12:52:24.893118+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】【記者解説】関文科相への問責決議案 なぜ否決",
+      "【国際】New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "【ホテル】【台湾インバウンド考～ミニツアーで伝える地方の魅力～２】まず市場と戦略を整理しよう— 第三の市場への”樋”の架け方 大塚順彦"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "【記者解説】関文科相への問責決議案 なぜ否決",
+        "tag": null,
+        "summary": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案は、参議院本会議で採決が行われ、自民・維新両党などの反対多数で否決されました。 その理由や政権運営への影響などについて政治…",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82351",
+        "importance": 3,
+        "published": "2026-11-27T03:51:49+00:00"
+      },
+      {
+        "title": "防衛省 AI活用の基本方針策定 最終判断は人間が担う",
+        "tag": null,
+        "summary": "防衛省は、安全保障環境の変化を踏まえ、AIの活用に関する新たな基本方針を策定しました。AIには一定の誤りが含まれうるとして、最終判断と責任は人間が担うほか、法とルールに基づく責任ある利用を確保するなど…",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82364",
+        "importance": 3,
+        "published": "2026-11-27T03:50:59+00:00"
+      },
+      {
+        "title": "高市首相 規制改革推進会議で“成長戦略事項優先的に議論を”",
+        "tag": null,
+        "summary": "高市総理大臣は、政府の規制改革推進会議で、経済成長に向けた国内投資を実現するため、規制や制度改革は非常に重要だと指摘した上で、成長戦略に関連する事項を優先的に議論するよう求めました。",
+        "source": "NHK 政治",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82352",
+        "importance": 3,
+        "published": "2026-11-27T03:48:59+00:00"
+      },
+      {
+        "title": "日経平均株価 AI・半導体関連銘柄の買い戻しで上昇",
+        "tag": null,
+        "summary": "27日の東京株式市場では、このところ値下がりしていたAI・半導体関連の銘柄を買い戻す動きが出ていることなどから、日経平均株価は値上がりしています。",
+        "source": "NHK 経済",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82344",
+        "importance": 3,
+        "published": "2026-11-27T03:31:33+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+        "tag": null,
+        "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+        "importance": 3,
+        "published": "2026-11-27T03:28:15+00:00"
+      },
+      {
+        "title": "Spain and Morocco under-17 stars target World Cup 2030",
+        "tag": null,
+        "summary": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-27T02:58:48+00:00"
+      },
+      {
+        "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
+        "tag": null,
+        "summary": "高市総理大臣とロシアのプーチン大統領が11月18日、訪問先の中国で意見を交わしたことについて、ロシア外務省の報道官は「両国間の関係に多少の改善をもたらすことを期待している」と述べ、ロシア側としても接触…",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82181",
+        "importance": 3,
+        "published": "2026-11-27T02:23:52+00:00"
+      },
+      {
+        "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+        "tag": null,
+        "summary": "Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-27T02:14:25+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "【台湾インバウンド考～ミニツアーで伝える地方の魅力～２】まず市場と戦略を整理しよう— 第三の市場への”樋”の架け方 大塚順彦",
+        "tag": null,
+        "summary": "あるインバウンド担当者の悩み 先日ある自治体のインバウンド誘客の担当の方がこんな話をされました。「有名なコンテンツがあっても大手旅行社が仕入れて抑えてしまう。幅広く宣伝したくてもできなくなってしまうのがジレンマだ」とい [&#8230;] The post 【台湾インバウンド考～ミニツアーで伝える地方の魅力～２】まず市場と戦略を整理しよう— 第三の市場への”樋”の架け方 大塚順彦 first ap",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611271230kks/",
+        "importance": 3,
+        "published": "2026-11-27T03:20:30+00:00"
+      },
+      {
+        "title": "【観国之光 563】「食の至宝」 日本の食文化の魅力発信 観光経済新聞 論説委員 内井高弘",
+        "tag": null,
+        "summary": "先ごろ、この欄で食や華道など暮らしを彩る「生活文化」の分野から初の人間国宝が誕生することを書いた。優れたわざを持つ和食の料理人らが選ばれることは旅館・ホテルで働く人にとっても励みになる。 そして、今度は食文化の振興と [&#8230;] The post 【観国之光 563】「食の至宝」 日本の食文化の魅力発信 観光経済新聞 論説委員 内井高弘 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611271200kks/",
+        "importance": 3,
+        "published": "2026-11-27T03:00:51+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "Google will show solo Android developers' phone numbers and addresses",
+        "tag": null,
+        "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 13 # Comments: 4",
+        "source": "Hacker News (Front Page)",
+        "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+        "importance": 3,
+        "published": "2026-11-27T03:11:41+00:00"
+      },
+      {
+        "title": "サブスクの「お試し→自動更新」は客を逃していた？ 新規購読者数は「お試し→自動解約」比23％減 140万人で実験",
+        "tag": null,
+        "summary": "米スタンフォード大学や米シカゴ大学などに所属する研究者らが5月に発表した論文「Sophisticated Consumers with Inertia: Long-Term Implications from a Large-Scale Field Experiment」は、サブスクリプションのお試し契約における「自動更新」と「自動解約」の条件の違いが、消費者の契約行動や長期的な購読者数に与える影",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003503/",
+        "importance": 3,
+        "published": "2026-11-27T03:00:00+00:00"
+      },
+      {
+        "title": "「フィッシング対策訓練」って実効性あるの？ 約1.2万人に模擬メール送り検証、結果は……",
+        "tag": null,
+        "summary": "米パデュー大学に所属する研究者らが発表した論文「Anti-Phishing Training (Still) Does Not Work: A Large-Scale Reproduction of Phishing Training Inefficacy Grounded in the NIST Phish Scale」は、フィッシング対策研修に効果があるのかを調査した研究報告だ。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003502/",
+        "importance": 3,
+        "published": "2026-11-27T03:00:00+00:00"
+      },
+      {
+        "title": "JAXA宇宙飛行士、5年ぶり募集へ 月面探査を担う人材育成",
+        "tag": null,
+        "summary": "募集は2021年以来約5年ぶり。将来の月面探査や地球低軌道活動を担う新たな宇宙飛行士候補者を育成する。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
+        "importance": 3,
+        "published": "2026-11-27T02:21:41+00:00"
+      }
+    ]
+  }
+}
