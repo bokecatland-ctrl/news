@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T12:38:39.805541+09:00",
+  "model": "gemini-2.5-flash",
+  "daily_digest": {
+    "headline": "今日のピックアップ",
+    "points": [
+      "【国内】【速報中】フィギュアNHK杯 アイスダンスFDの演技始まる",
+      "【国際】台湾 統一地方選挙投票進む 政権運営や中国の政策への影響注目",
+      "【ホテル】「シニアの4人に1人が推しがいる」「相続経験者の64%は困りごとなし」 ソニー生命が「シニアの生活意識調査2026」を公表"
+    ],
+    "alert": null
+  },
+  "categories": {
+    "domestic": [
+      {
+        "title": "【速報中】フィギュアNHK杯 アイスダンスFDの演技始まる",
+        "tag": null,
+        "summary": "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯の2日目の演技が午後0時10分すぎから東京・調布市で始まりました。最初の種目はアイスダンス後半のフリーダンスです。 最新情報をお伝えしていま…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261128de82900",
+        "importance": 3,
+        "published": "2026-11-28T03:28:45+00:00"
+      },
+      {
+        "title": "山中遺体 女子高校生連れ去り疑いの容疑者 車で宮城まで移動か",
+        "tag": null,
+        "summary": "宮城県の山中で身元が分からない2人の遺体が見つかった事件で、行方が分からなくなっている横浜市の女子高校生を連れ去った疑いで逮捕された33歳の容疑者が、車で宮城県内まで移動し、その後現場の山の近くにも向…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261127de82799",
+        "importance": 3,
+        "published": "2026-11-28T03:19:57+00:00"
+      },
+      {
+        "title": "“日本ハム 伊藤大海がカブスと合意”米メディア伝える",
+        "tag": null,
+        "summary": "プロ野球・日本ハムからポスティングシステムを使って大リーグへの移籍を目指していた伊藤大海投手が、カブスとの契約に合意したとアメリカの複数のメディアが伝えました。",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261128de82897",
+        "importance": 3,
+        "published": "2026-11-28T03:12:00+00:00"
+      },
+      {
+        "title": "広範囲で大気不安定 北日本や東日本の山沿い中心に今夜から雪",
+        "tag": null,
+        "summary": "低気圧や前線などの影響で広い範囲で大気の状態が非常に不安定になり、局地的に雨雲が発達しています。 この時期としては強い寒気も流れ込むため、29日にかけて広い範囲で大気の不安定な状態が続き、北日本や東…",
+        "source": "NHK 主要",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261128de82831",
+        "importance": 3,
+        "published": "2026-11-28T03:02:00+00:00"
+      }
+    ],
+    "international": [
+      {
+        "title": "台湾 統一地方選挙投票進む 政権運営や中国の政策への影響注目",
+        "tag": null,
+        "summary": "2028年の台湾総統選挙の前哨戦とされる統一地方選挙は28日、投票が行われています。 28日夜には大勢が判明する見通しで、頼清徳政権の今後の運営や中国の台湾政策への影響が注目されています。",
+        "source": "NHK 国際",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261128de82879",
+        "importance": 3,
+        "published": "2026-11-28T03:10:00+00:00"
+      },
+      {
+        "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+        "tag": null,
+        "summary": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-28T03:00:00+00:00"
+      },
+      {
+        "title": "Bulgarians demand action by French after Marseille match violence",
+        "tag": null,
+        "summary": "Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-28T02:30:27+00:00"
+      },
+      {
+        "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+        "tag": null,
+        "summary": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+        "importance": 3,
+        "published": "2026-11-28T02:08:11+00:00"
+      }
+    ],
+    "hotel": [
+      {
+        "title": "「シニアの4人に1人が推しがいる」「相続経験者の64%は困りごとなし」 ソニー生命が「シニアの生活意識調査2026」を公表",
+        "tag": null,
+        "summary": "ソニー生命保険は11月17日、全国の50歳から79歳の男女1,000人を対象にした「シニアの生活意識調査2026」の結果を公開した。今年で14回目。シニアの楽しみや推し活、孫消費、夫婦観、資産と相続などを聞いた。調査は [&#8230;] The post 「シニアの4人に1人が推しがいる」「相続経験者の64%は困りごとなし」 ソニー生命が「シニアの生活意識調査2026」を公表 first app",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611230930kks/",
+        "importance": 3,
+        "published": "2026-11-28T03:30:10+00:00"
+      },
+      {
+        "title": "【体験型観光が日本を変える467】気候変動問題を「自分事」に 藤澤安良",
+        "tag": null,
+        "summary": "このところ、世界でさまざまな問題が起きている。社会や経済の問題は観光産業にも大きな影響をもたらしかねないことから注視する必要がある。 ＮＶＩＤＩＡは米国の半導体研究・開発・販売企業である。ゲーム業界においても知られ、 [&#8230;] The post 【体験型観光が日本を変える467】気候変動問題を「自分事」に 藤澤安良 first appeared on 観光経済新聞 .",
+        "source": "観光経済新聞",
+        "url": "https://www.kankokeizai.com/2611281200kks/",
+        "importance": 3,
+        "published": "2026-11-28T03:00:12+00:00"
+      }
+    ],
+    "tech_ai": [
+      {
+        "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+        "tag": null,
+        "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512G",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+        "importance": 3,
+        "published": "2026-11-28T03:30:00+00:00"
+      },
+      {
+        "title": "The absolute best Black Friday deals you can still get",
+        "tag": null,
+        "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs,",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "importance": 3,
+        "published": "2026-11-28T03:28:32+00:00"
+      },
+      {
+        "title": "Atari Homebrew Awards Cancelled",
+        "tag": null,
+        "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 81 # Comments: 56",
+        "source": "Hacker News (Front Page)",
+        "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+        "importance": 3,
+        "published": "2026-11-28T02:03:25+00:00"
+      },
+      {
+        "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+        "tag": null,
+        "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 69 # Comments: 57",
+        "source": "Hacker News (Front Page)",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "importance": 3,
+        "published": "2026-11-28T01:32:56+00:00"
+      }
+    ]
+  }
+}
